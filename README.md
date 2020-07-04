@@ -7,3 +7,6 @@ No digital version of these texts has any legal validity, please refer the paper
 
 This repository has been generated with https://github.com/openjusticebe/be_law_tools
 
+# Do not link directly to documents
+At this experimental point, filenames are subject to change
+

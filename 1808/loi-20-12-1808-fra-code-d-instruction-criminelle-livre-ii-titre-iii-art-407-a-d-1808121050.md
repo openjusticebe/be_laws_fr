@@ -1,0 +1,513 @@
+---
+lang: fra
+dtype: loi
+url: http://www.ejustice.just.fgov.be/eli/loi/1808/12/10/1808121050/justel
+dateString: 10 DECEMBRE 1808
+title: CODE D'INSTRUCTION CRIMINELLE
+subTitle: LIVRE II, TITRE III. (art. 407 à 447bis) <Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre III du deuxième Livre est la cinquième partie.>
+pubDate: 20-12-1808
+startDate: 30-12-1808
+number: 1808121050
+updated: 
+source: INTERIEUR
+
+---
+# TITRE III. - DES MANIERES DE SE POURVOIR CONTRE LES ARRETS OU JUGEMENTS.
+
+### Chapitre I DES NULLITES DE L'INSTRUCTION ET DU JUGEMENT.
+
+
+**Art. 407.**[1     En matière pénale, les nullités résultant d'une irrégularité touchant le serment des témoins, experts et interprètes, sont couvertes lorsqu'un jugement ou arrêt contradictoire, autre que celui prescrivant une mesure d'ordre intérieur, a été rendu sans qu'elles aient été proposées par une des parties ou prononcées d'office par le juge.]1
+
+> 1: Rétabli par L 2014-12-19/24, art. 11, 012; En vigueur : 01-02-2015
+
+
+
+
+§1.  MATIERES CRIMINELLES.
+
+
+**Art. 408.**Lorsque l'accusé aura subi une condamnation, et que, soit dans l'arrêt de la [cour d'appel] qui aura ordonné son renvoi devant une cour d'assises, soit dans l'instruction et la procédure qui auront été faites devant cette dernière cour, soit dans l'arrêt même de condamnation, il y aura eu violation ou omission de quelques-unes des formalités que le présent Code prescrit sous peine de nullité, cette omission ou violation donnera lieu, sur la poursuite de la partie condamnée ou du ministère public, à l'annulation de l'arrêt de condamnation, et de ce qui l'aura précédé [1 ...]1. `L 10-07-1967, art. 1, 155°`
+
+Il en sera de même, tant dans les cas d'incompétence que lorsqu'il aura été omis ou refusé de prononcer soit sur une ou plusieurs demandes de l'accusé, soit sur une ou plusieurs réquisitions du ministère public, tendant à user d'une faculté ou d'un droit accordé par la loi, bien que la peine de nullité ne fût pas textuellement attachée à l'absence de la formalité dont l'exécution aura été demandée ou requise.
+
+> 1: L 2014-02-14/02, art. 9, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 409.**
+
+`Abrogé par L 2014-02-14/02, art. 10, 011; En vigueur : 01-02-2015` 
+
+
+**Art. 410.**Lorsque la nullité procédera de ce que l'arrêt aura prononcé une peine autre que celle appliquée par la loi à la nature du crime, l'annulation de l'arrêt pourra être poursuivie tant par le ministère public que par la partie condamnée.
+
+La même action appartiendra au ministère public contre les arrêts [1 d'acquittement et]1 d'absolution mentionnés en l'article [1 342]1 [1 ...]1.
+
+> 1: L 2009-12-21/14, art. 202, 010; En vigueur : 21-01-2010
+
+
+
+**Art. 411.**
+
+`Abrogé par L 2014-02-14/02, art. 11, 011; En vigueur : 01-02-2015` 
+
+
+**Art. 412.** Dans aucun cas la partie civile ne pourra poursuivre l'annulation d'une ordonnance d'acquittement ou d'un arrêt d'absolution; mais si l'arrêt a prononcé contre elle des condamnations civiles, supérieures aux demandes de la partie acquittée ou absoute, cette disposition de l'arrêt pourra être annulée sur la demande de la partie civile.
+
+
+
+§2.  MATIERES CORRECTIONNELLES ET DE POLICE.
+
+
+**Art. 413.**[1     Lorsque l'accusé ou le prévenu aura été acquitté, nul ne pourra se prévaloir contre lui de la violation ou omission des formes prescrites pour assurer sa défense.]1
+
+> 1: L 2014-02-14/02, art. 12, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 414.**
+
+`Abrogé par L 2014-02-14/02, art. 13, 011; En vigueur : 01-02-2015` 
+
+
+
+§3.  DISPOSITION COMMUNE AUX DEUX PARAGRAPHES PRECEDENTS.
+
+
+**Art. 415.**
+
+`Abrogé par L 2014-02-14/02, art. 14, 011; En vigueur : 01-02-2015` 
+
+### Chapitre II [1 De la procédure en cassation]1
+
+> 1: L 2014-02-14/02, art. 15, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 416.**[1     Les parties ne peuvent former un pourvoi en cassation que si elles ont qualité et intérêt pour le former.]1
+
+> 1: L 2014-02-14/02, art. 16, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 417.**[1     Le ministère public et la partie civile peuvent former un pourvoi en cassation contre l'arrêt de non-lieu.]1
+
+> 1: L 2014-02-14/02, art. 17, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 418.**[1     Seules les décisions judiciaires rendues en dernier ressort sont susceptibles de pourvoi en cassation.]1
+
+> 1: L 2014-02-14/02, art. 18, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 419.**[1     Nul ne peut se pourvoir en cassation une seconde fois contre la même décision, sauf dans les cas prévus par la loi.]1
+
+> 1: Rétabli par L 2014-02-14/02, art. 19, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 420.**[1     Le pourvoi en cassation contre les décisions préparatoires et d'instruction n'est ouvert qu'après l'arrêt ou le jugement définitif, même si elles ont été exécutées sans réserve.
+
+[2 Toutefois, il peut être formé un pourvoi en cassation immédiat contre les décisions :
+ 1. rendues sur la compétence;
+ 2. relatives à l'action civile qui statuent sur le principe d'une responsabilité;
+ 3. qui, conformément à l'article 524bis, § 1er, statuent sur l'action publique et ordonnent une enquête particulière sur les avantages patrimoniaux.]2]1
+
+> 1: L 2014-02-14/02, art. 20, 011; En vigueur : 01-02-2015
+
+
+> 2: L 2016-02-05/11, art. 115, 013; En vigueur : 29-02-2016
+
+
+
+**Art. 420bis.**
+
+`Abrogé par L 2014-02-14/02, art. 21, 011; En vigueur : 01-02-2015` 
+
+
+**Art. 420ter.**
+
+`Abrogé par L 2014-02-14/02, art. 22, 011; En vigueur : 01-02-2015` 
+
+
+**Art. 421.**[1     Le procureur général près la cour d'appel et les autres parties peuvent former un pourvoi en cassation contre l'arrêt de renvoi à la cour d'assises.
+
+A peine de déchéance, la déclaration doit préciser le motif du pourvoi.
+
+Sans préjudice de la décision rendue sur la compétence, le pourvoi en cassation ne peut être formé que dans les cas suivants :
+ 1. si le fait n'est pas qualifié crime par la loi;
+ 2. si le ministère public n'a pas été entendu;
+ 3. si l'arrêt n'a pas été rendu par le nombre de juges fixé par la loi;
+ 4. si les règles de la procédure contradictoire prévues à l'article 223 n'ont pas été respectées;
+ 5. si les dispositions légales relatives à l'emploi des langues en matière judiciaire n'ont pas été observées.
+
+Aussitôt que le greffier a reçu la déclaration, l'expédition de l'arrêt est transmise par le procureur général près la cour d'appel au procureur général près la Cour de Cassation, laquelle est tenue de se prononcer toutes affaires cessantes.]1
+
+> 1: Rétabli par L 2014-02-14/02, art. 23, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 422.**[1     Lorsque la peine prononcée est la même que celle portée par la loi qui s'applique à l'infraction, nul ne peut demander la cassation de l'arrêt ou du jugement au seul motif qu'il y a eu erreur dans la citation du texte de la loi.]1
+
+> 1: L 2014-02-14/02, art. 24, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 423.**[1     Sauf dans les cas où la loi établit un autre délai, la déclaration de pourvoi en cassation est faite dans les quinze jours du prononcé de la décision attaquée.]1
+
+> 1: L 2014-02-14/02, art. 25, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 424.**[1     Si la décision a été rendue par défaut et est susceptible d'opposition, le délai pour se pourvoir en cassation commence à courir à l'expiration du délai d'opposition ou, lorsque la décision a été rendue par défaut à l'égard du prévenu ou de l'accusé, après l'expiration des délais ordinaires d'opposition. Le pourvoi en cassation doit être formé dans les quinze jours qui suivent l'expiration de ces délais.]1
+
+> 1: L 2014-02-14/02, art. 26, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 425.**[1     § 1er. Sans préjudice du § 2, la déclaration de pourvoi est faite par le ministère public ou l'avocat au greffe de la juridiction qui a rendu la décision attaquée. Elle est signée par le ministère public ou l'avocat ainsi que par le greffier et inscrite dans le registre destiné à cet effet.
+
+[2 L'avocat doit être titulaire d'une attestation de formation en procédure en cassation visée par le livre II, titre III.]2 [3 Le Roi fixe les critères auxquels la formation doit répondre.]3
+
+
+§2.  Si, dans la même cause, une partie se pourvoit en cassation en même temps contre la décision définitive et contre une ou plusieurs décisions préparatoires et d'instruction rendues par d'autres juridictions que celle qui a rendu la décision définitive, les déclarations de pourvoi en cassation sont faites au greffe de cette dernière juridiction.
+
+Le greffier qui a donné acte des déclarations de pourvoi en cassation transmet, dans les vingt-quatre heures, une expédition de celles qui sont faites contre les décisions préparatoires et d'instruction, aux greffiers de ces autres juridictions, qui les transcrivent, sans délai, dans les registres destinés à cet effet.
+
+
+§3.  Le registre dans lequel est inscrite la déclaration est public, et toute personne qui a un intérêt légitime a le droit de s'en faire délivrer des extraits.]1
+
+> 1: L 2014-02-14/02, art. 27, 011; En vigueur : 20-11-2014
+
+
+> 2: W 2014-02-14/02, art. 27, 011; En vigueur : 01-02-2016, en ce qui concerne l'application de l'art. 425, §1, L2, première phrase, voir L 2014-02-14/02, art. 50, L2
+
+
+> 3: W 2014-02-14/02, art. 27, 011; En vigueur : 20-11-2014, en ce qui concerne l'application de l'art. 425, §1, L2, deuxième phrase; entrée en vigueur fixée par AR 2014-10-10/05, art. 4, 1°
+
+
+
+**Art. 426.**[1     Par dérogation à l'article 425, § 1er, les personnes détenues ou placées conformément à l'article 606 peuvent faire la déclaration de pourvoi formé conformément à l'article 31 de la loi du 20 juillet 1990 relative à la détention préventive au directeur de la prison ou à son délégué, ou, le cas échéant, au directeur du centre communautaire pour mineurs ayant commis un fait qualifié infraction ou à son délégué, sans l'intervention d'un avocat.
+
+Cette déclaration a les mêmes effets que celles reçues au greffe. Il en est dressé procès-verbal dans un registre destiné à cette fin.
+
+Le directeur en avise immédiatement le greffier compétent et lui transmet, dans les vingt-quatre heures, une expédition du procès-verbal.
+
+Le greffier transcrit, sans délai, l'avis et le procès-verbal dans le registre destiné à cet effet.]1
+
+> 1: L 2014-12-19/24, art. 12, 012; En vigueur : 01-02-2015
+
+
+
+**Art. 427.**[1     La partie qui se pourvoit en cassation doit faire signifier son pourvoi à la partie contre laquelle il est dirigé. Toutefois, la personne poursuivie n'y est tenue qu'en tant qu'elle se pourvoit contre la décision rendue sur l'action civile exercée contre elle.
+
+L'exploit de signification doit être déposé au greffe de la Cour de Cassation dans les délais fixés par l'article 429.
+
+La signification du pourvoi en cassation du ministère public peut être faite au détenu ou à l'interné par le directeur de l'établissement pénitentiaire ou de l'établissement où l'intéressé est interné ou par son délégué.]1
+
+> 1: L 2014-02-14/02, art. 29, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 428.**[1     Pendant les quinze jours visés aux articles 423 et 424 et, s'il y a eu pourvoi en cassation, jusqu'au prononcé de l'arrêt de la Cour de Cassation, il est sursis à l'exécution de la décision attaquée.
+
+Toutefois, la décision sur l'action publique, autre que celle qui porte condamnation, acquittement ou absolution, et la décision sur l'action civile peuvent être exécutées provisoirement, nonobstant le pourvoi en cassation, si les juges qui les ont rendues en ont ainsi décidé par une ordonnance spécialement motivée.]1
+
+> 1: L 2014-02-14/02, art. 30, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 429.**[1 Hormis le ministère public, le demandeur en cassation ne peut indiquer ses moyens que dans un mémoire signé par un avocat, titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2, et remis au greffe de la Cour de Cassation, quinze jours au plus tard avant l'audience.
+
+Il ne peut toutefois produire de mémoires ou de pièces autres que les désistements, les actes de reprise d'instance, les actes qui révèlent que le pourvoi est devenu sans objet et les notes visées à l'article 1107 du Code judiciaire, après les deux mois qui suivent la déclaration de pourvoi en cassation.
+
+Le défendeur en cassation ne peut indiquer sa réponse que dans un mémoire signé par un avocat, titulaire de l'attestation visée à l'article 425, § 1er, alinéa 2 et remis au greffe de la Cour de Cassation, au plus tard huit jours avant l'audience.
+
+Sauf l'exception visée à l'article 427, alinéa 1er, le mémoire du demandeur est communiqué par courrier recommandé ou [2 ...]2 par voie électronique à la partie contre laquelle le pourvoi est dirigé et le défendeur lui communique de la même manière son mémoire en réponse. La preuve de l'envoi est déposée au greffe dans les délais prévus aux alinéas 1er à 3. Ces formalités sont prescrites à peine d'irrecevabilité.
+
+Le greffier constate la remise par les parties de mémoires ou de pièces en indiquant la date de réception.
+
+Il délivre récépissé au déposant s'il en est requis.]1
+
+
+(1)`L 2014-02-14/02, art. 31, 011; En vigueur : 01-02-2015
+
+en ce qui concerne l'application de l'art. 425, §1, L2, première phrase, En vigueur : 01-02-2016, voir L 2014-02-14/02, art. 50, L2` 
+> 2: L 2019-05-05/10, art. 55, 017; En vigueur : 03-06-2019
+
+
+
+**Art. 430.**[1     Le greffier de la juridiction ayant rendu la décision attaquée fait parvenir sans délai au ministère public les pièces du procès et l'expédition de la décision attaquée.
+
+Il en rédige au préalable et sans frais un inventaire et le joint au dossier.]1
+
+> 1: L 2014-02-14/02, art. 32, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 431.**[1     Le ministère public près la cour ou le tribunal qui a rendu la décision attaquée remet sans délai le dossier au procureur général près la Cour de Cassation. Celui-ci le transmet au greffier de la Cour de Cassation, qui inscrit immédiatement la cause au rôle général.]1
+
+> 1: L 2014-02-14/02, art. 33, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 432.**[1     La procédure est ensuite réglée ainsi qu'il est prévu aux articles 1104 à 1106, alinéa 1er, et 1107 à 1109, du Code judiciaire. Excepté lorsque la Cour de Cassation doit statuer en urgence, l'avocat ou le défendeur non représenté est averti de la fixation visée à l'article 1106, alinéa 1er, du Code judiciaire, par les soins du greffier, quinze jours au moins avant l'audience. Dans d'autres cas urgents, le premier président peut accorder un abrègement de ce délai.]1
+
+> 1: L 2014-02-14/02, art. 34, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 433.**[1 La non admission du pourvoi en cassation manifestement irrecevable, sans objet ou ne dénonçant aucune illégalité ou irrégularité pouvant conduire à la cassation peut, de l'avis conforme du ministère public, être décrétée par ordonnance du président de section ou du conseiller désigné par le premier président. Il statue sans audience et sans entendre les parties.
+
+L'ordonnance de non admission motive succinctement le refus. Elle est notifiée au déclarant sous pli judiciaire ou [2 ...]2 par voie électronique. Elle n'est susceptible d'aucun recours.]1
+
+> 1: L 2014-02-14/02, art. 35, 011; En vigueur : 01-02-2015
+
+
+> 2: L 2019-05-05/10, art. 56, 017; En vigueur : 03-06-2019
+
+
+
+**Art. 434.**[1     La Cour de Cassation rejette le pourvoi ou casse la décision attaquée, en tout ou en partie.
+
+Elle peut étendre la cassation jusqu'au plus ancien acte nul.]1
+
+> 1: L 2014-02-14/02, art. 36, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 435.**[1 En cas de cassation, la Cour de Cassation renvoie la cause, s'il y a lieu, soit devant une juridiction du même rang que celle qui a rendu la décision cassée, soit devant la même juridiction, autrement composée.
+
+[2 Cette juridiction se conforme à l'arrêt de la Cour de cassation sur le point de droit jugé par cette Cour. Aucun recours en cassation n'est admis contre la décision de cette juridiction, en tant que celle-ci est conforme à l'arrêt de cassation.]2
+
+Toutefois, si la seule décision cassée est l'arrêt de la cour d'assises statuant sur les intérêts civils, la cause est renvoyée devant un tribunal de première instance. Les juges ayant connu de la cause ne peuvent connaître de ce renvoi.
+
+Si la décision attaquée est cassée pour cause d'incompétence, la Cour de Cassation renvoie la cause devant les juges qui doivent en connaître.]1
+
+> 1: L 2014-02-14/02, art. 37, 011; En vigueur : 01-02-2015
+
+
+> 2: L 2017-07-06/24, art. 161, 015; En vigueur : 03-08-2017
+
+
+
+**Art. 436.**[1     Si l'arrêt a été annulé pour avoir prononcé une peine autre que celle que la loi applique à la nature du crime, la cour d'assises à qui le procès sera renvoyé rendra son arrêt conformément aux articles 341 et suivants, sur la déclaration de culpabilité déjà faite par le jury.
+
+Si l'arrêt a été annulé pour autre cause, il sera procédé à de nouveaux débats devant la cour d'assises à laquelle le procès sera renvoyé.]1
+
+> 1: L 2014-02-14/02, art. 38, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 437.**[1     L'accusé dont la condamnation aura été annulée, et qui devra subir un nouveau jugement au criminel, sera traduit soit en état d'arrestation, soit en exécution de l'ordonnance de prise de corps, devant la chambre des mises en accusation ou la cour d'assises à qui son procès sera renvoyé.]1
+
+> 1: Rétabli par L 2014-02-14/02, art. 39, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 438.**[1     La partie qui succombe est condamnée aux frais.
+
+Lorsque la cassation est prononcée avec renvoi, les frais sont réservés et il est statué sur ceux-ci par le juge de renvoi.]1
+
+> 1: L 2014-02-14/02, art. 40, 011; En vigueur : 01-02-2015
+
+
+
+**Art. 439.** L'arrêt qui aura rejeté la demande en cassation sera délivré dans les trois jours au procureur général près la Cour de cassation, par simple extrait signé du greffier, lequel sera adressé au [...] ministre de la justice, et envoyé par celui-ci au magistrat chargé du ministère public près la cour ou le tribunal qui aura rendu l'arrêt ou le jugement attaqué. `L 10-07-1967, art. 1, 165°`
+
+
+**Art. 440.**
+
+`Abrogé par L 2017-07-06/24, art. 162, 015; En vigueur : 03-08-2017` 
+
+
+**Art. 441.**Lorsque, [2 à la demande d'un procureur général près la cour d'appel ou du ministre compétent pour la Justice]2, le procureur général près la cour de cassation dénoncera, à la [chambre qui connaît des pourvois en matière criminelle, correctionnelle ou de police], des actes judiciaires, arrêts ou jugements contraires à la loi, ces actes, arrêts ou jugements pourront être annulés [1 ...]1 . `L 10-07-1967, art. 1, 167°`
+
+> 1: L 2014-02-14/02, art. 42, 011; En vigueur : 01-02-2015
+
+
+> 2: L 2016-12-25/14, art. 16, 014; En vigueur : 09-01-2017
+
+
+
+**Art. 442.**[1     Le procureur général près la Cour de Cassation peut aussi, d'office, et nonobstant l'expiration du délai, donner connaissance à la Cour de Cassation d'une décision rendue en dernier ressort contre laquelle aucune des parties ne s'est pourvue dans le délai requis. Si la décision est cassée, les parties ne peuvent s'en prévaloir pour s'opposer à son exécution.]1
+
+> 1: L 2014-02-14/02, art. 43, 011; En vigueur : 01-02-2015
+
+
+
+CHAPITRE IIbis. - De la réouverture de la procédure. `inséré par L 2007-04-01/48, art. 2;  En vigueur :  01-12-2007`
+
+#### Section 1ère  - Des demandes de réouverture de la procédure. `inséré par L 2007-04-01/48, art. 3;  En vigueur :  01-12-2007`
+
+
+**Art. 442bis.**`inséré par L 2007-04-01/48, art. 4;  En vigueur :  01-12-2007` S'il a été établi par un arrêt définitif de la Cour européenne des Droits de l'Homme que la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales ou des protocoles additionnels, ci-après " la Convention européenne ", ont été violés, il peut être demandé la réouverture, en ce qui concerne la seule action publique, de la procédure qui a conduit à la condamnation du requérant dans l'affaire devant la Cour européenne des Droits de l'Homme ou à la condamnation d'une autre personne pour le même fait et fondée sur les mêmes moyens de preuve.
+
+[1 Il en est de même en cas de décision ou d'arrêt par lequel la Cour européenne des Droits de l'Homme prend acte du règlement amiable auquel sont parvenues les parties et aux termes duquel le gouvernement belge reconnaît pareille violation, conformément à l'article 39 de la Convention européenne, ou par lequel elle prend acte de la déclaration unilatérale de reconnaissance de ladite violation, conformément à l'article 37, § 1er, de la Convention européenne, et décide, par voie de conséquence, de rayer l'affaire du rôle.
+
+La demande en réouverture est irrecevable lorsque le gouvernement apporte la preuve que le condamné a marqué son accord sur une réparation amiable, que cet accord a été exécuté et que le constat de violation n'est pas de nature à créer un doute sérieux quant au résultat de la procédure attaquée.]1
+
+> 1: L 2016-02-05/11, art. 116, 013; En vigueur : 29-02-2016
+
+
+
+**Art. 442ter.** `inséré par L 2007-04-01/48, art. 5;  En vigueur :  01-12-2007` Le droit de demander la réouverture de la procédure appartient :
+ 1. au condamné;
+ 2. si le condamné est décédé, si son interdiction a été prononcée ou s'il se trouve en état d'absence déclarée, à son conjoint, à la personne avec qui il cohabite légalement, à ses descendants, à ses ascendants, à ses frères et soeurs;
+ 3. au procureur général près la Cour de cassation, d'office ou à la demande du Ministre de la Justice.
+
+
+**Art. 442quater.** `inséré par L 2007-04-01/48, art. 6;  En vigueur :  01-12-2007` § 1er. La Cour de cassation connaît des demandes de réouverture.
+
+
+§2.  La Cour en est saisie, soit par un réquisitoire du Procureur général près la Cour de cassation, soit par une requête signée d'un avocat inscrit au barreau depuis plus de dix ans. Le réquisitoire ou la requête contient un exposé détaillé des faits et mentionne la cause de réouverture.
+
+La demande est introduite dans les six mois de la date à laquelle l'arrêt de la Cour européenne des droits de l'homme est devenu définitif.
+
+La demande est irrecevable s'il n'est pas satisfait aux conditions posées aux alinéas précédents.
+
+
+§3.  Si le condamné est décédé, si son interdiction a été prononcée ou s'il se trouve en état d'absence déclarée, la Cour de cassation nomme un curateur à sa défense, lequel le représentera. La Cour de cassation ou le juge auquel l'affaire a été renvoyée désigne également un curateur si le requérant décède pendant l'examen de la cause.
+
+
+**Art. 442quinquies.** `inséré par L 2007-04-01/48, art. 7;  En vigueur :  01-12-2007` Lorsqu'il ressort de l'examen de la demande soit que la décision attaquée est contraire sur le fond à la Convention européenne, soit que la violation constatée est la conséquence d'erreurs ou de défaillances de procédure d'une gravité telle qu'un doute sérieux existe quant au résultat de la procédure attaquée, la Cour de cassation ordonne la réouverture de la procédure, pour autant que la partie condamnée ou les ayants droit prévus à l'article 442ter, 2°, continuent à souffrir des conséquences négatives très graves que seule une réouverture peut réparer.
+
+Dans les cas où la Cour de cassation a rendu la décision attaquée, elle examine la demande de réouverture dans une composition différente.
+
+#### Section 2  - Du déroulement de la procédure après sa réouverture. `inséré par L 2007-04-01/48, art. 8;  En vigueur :  01-12-2007`
+
+
+**Art. 442sexies.** `inséré par L 2007-04-01/48, art. 9;  En vigueur :  01-12-2007` § 1er. Après que la Cour de cassation a ordonné la réouverture de la procédure, elle retire la décision attaquée, pour autant que ce soit elle qui l'ait rendue, et statue à nouveau sur le pourvoi en cassation initial dans les limites de la violation constatée par la Cour européenne des droits de l'homme.
+
+Dans les autres cas, la Cour de cassation annule la décision attaquée et renvoie l'affaire à une juridiction de même rang que celle qui a rendu la décision attaquée ou annule la décision attaquée sans renvoi.
+
+Le délai de prescription de l'action publique recommence à courir à compter de l'arrêt ordonnant la réouverture.
+
+
+§2.  L'arrêt de la Cour de cassation, rendu conformément au § 1er, produit les mêmes effets qu'un arrêt rendu sur un pourvoi en cassation. "
+
+
+**Art. 442septies.** `inséré par L 2007-04-01/48, art. 10;  En vigueur :  01-12-2007` § 1er. La juridiction de renvoi prononcera l'acquittement de l'accusé ou du prévenu, ou confirmera la condamnation annulée, sauf à réduire, le cas échéant, la peine infligée par cette condamnation.
+
+
+§2.  Lorsque la Cour de cassation annule la condamnation sans renvoi ou lorsque la juridiction à laquelle l'affaire est renvoyée acquitte la personne condamnée par la décision attaquée, elles condamnent l'Etat au paiement des dommages-intérêts accordés à la partie civile ou au remboursement au condamné ou à ses ayants droit du montant déjà payé par ceux-ci. Dans ces cas, l'Etat est également condamné au paiement ou au remboursement des dommages-intérêts accordés par le juge civil à la suite d'une action civile, pour autant que l'action civile et la décision attaquée du juge répressif concernent le même fait.
+
+
+§3.  L'amende perçue indûment sera remboursée, majorée des intérêts légaux à compter de la perception.
+
+
+§4.  En cas de modification de la décision initiale et en cas d'annulation de la condamnation sans renvoi, la juridiction peut également ordonner la publication d'un extrait de sa décision dans le quotidien qu'elle désigne.
+
+
+§5.  Une indemnité peut être octroyée au condamné mis en détention injustement en exécution de la décision modifiée, conformément à l'article 28, §§ 2 à 5, et 29 de la loi du 13 mars 1973 relative à l'indemnité en cas de détention préventive inopérante.
+
+#### Section 3  - Des frais de la procédure. `inséré par L 2007-04-01/48, art. 11;  En vigueur :  01-12-2007`
+
+
+**Art. 442octies.** `inséré par L 2007-04-01/48, art. 12;  En vigueur :  01-12-2007` Les frais de procédure sont à charge de l'Etat, sauf si la demande de réouverture, formée par requête, est déclarée irrecevable.
+
+### Chapitre III DES DEMANDES EN REVISION.
+
+
+**Art. 443.**`L 18-06-1894, art. unique` La revision des condamnations passées en force de chose jugée pourra, en matière criminelle ou correctionnelle, quelle que soit la juridiction qui ait statué, et alors même que la condamnation serait conditionnelle, être demandée pour les causes ci-après :
+ 1. Si des condamnations prononcées, contradictoirement ou non, à raison d'un même fait, par des arrêts ou jugements distincts, contre des accusés ou prévenus différents, ne peuvent se concilier et que la preuve de l'innocence de l'un des condamnés résulte de la contrariété des décisions;
+ 2. Si un témoin entendu à l'audience, dans le cas d'un procès jugé contradictoirement par une cour d'assises ou entendu, soit à l'audience, soit au cours de l'instruction préparatoire, dans le cas d'un procès jugé par une autre juridiction ou par une cour d'assises statuant par [1 défaut]1, a subi ultérieurement, pour faux témoignage contre le condamné, une condamnation passée en force de chose jugée;
+ 3. [1 Si un élément qui n'était pas connu du juge au moment de l'instruction faite à l'audience et que le condamné n'a pas été à même d'établir lors du procès et que cet élément, en lui-même ou conjugué aux preuves qui avaient été fournies, paraît incompatible avec le jugement, de manière à faire naître une présomption grave que si cet élément avait été connu, l'instruction de l'affaire aurait donné lieu soit à un acquittement du condamné, soit à l'extinction de l'action publique, soit à l'absolution, soit à l'application d'une loi pénale moins sévère]1.
+
+Toutefois, la demande en revision ne sera pas recevable :
+
+Si le demandeur ne joint pas à sa requête un avis motivé en faveur de celle-ci, de trois avocats à la Cour de cassation ou de trois avocats [1 ...]1 [1 ayant au moins dix années d'inscription]1 au tableau;
+
+Si la condamnation infligée ne dépasse pas la peine ou le minimum de la peine comminée, par la loi moins sévère, contre l'infraction qui a été effectivement commise;
+
+S'il s'est écoulé plus de cinq ans depuis la condamnation définitive du faux témoin [...]. `L 10-07-1967, art. 1, 169°`
+
+Lorsque la seconde condamnation, dans le cas prévu au 1°, ou la condamnation encourue par le témoin, dans le cas du 2°, aura été prononcée par [1 défaut]1, la revision pourra être demandée avant comme après la prescription de la peine.
+
+> 1: L 2018-07-11/02, art. 2, 016; En vigueur : 01-03-2019
+
+
+
+**Art. 444.**`L 18-06-1894, art. unique` Le droit de demander la révision appartient :
+ 1. Au condamné;
+ 2. Si le condamné est décédé, si son interdiction a été prononcée ou s'il se trouve en état d'absence déclarée, à son conjoint, à ses descendants, à ses ascendants, à ses frères et soeurs;
+ 3. Au Ministre de la justice.
+
+La Cour de cassation connaît des demandes en révision.
+
+[1 Elle en est saisie, soit par le réquisitoire du procureur général près la Cour de cassation ou d'un procureur général près la cour d'appel, soit par une requête signée d'un avocat à la Cour de cassation, détaillant les faits, spécifiant la cause de révision et joignant les pièces dont cette cause de révision ressort.]1
+
+Sur le vu du réquisitoire du procureur général ou de la requête présentée en due forme, la Cour de cassation, si le condamné est décédé, absent ou interdit, nommera un curateur à sa défense, lequel le représentera dans la procédure en révision.
+
+La partie civile sera tenue d'intervenir dans l'instance en révision, par requête à la Cour de cassation formulée au plus tard dans les deux mois de la sommation, faute de quoi l'arrêt de la Cour de cassation sur la recevabilité de la demande en révision lui sera commun.
+
+Elle sera dans ce cas, comme aussi, si elle est intervenue, mise en cause devant la juridiction saisie du jugement au fond de la révision et, soit qu'elle comparaisse, soit qu'elle ne comparaisse pas, l'arrêt lui sera commun.
+
+Si la revision est admise, la partie civile perdra le bénéfice des condamnations obtenues à son profit et sera condamnée à telles restitutions que de droit, sans néanmoins qu'elle puisse, sauf le cas de dol personnel, être condamnée à la restitution des fruits et intérêts, si ce n'est à partir de l'arrêt qui admettra la révision.
+
+Hors le cas de dol personnel, elle ne pourra être condamnée à des dommages-intérêts envers le demandeur en révision; elle n'aura à supporter ni les frais du procès primitif, ni les frais du procès en révision, qui seront à charge de l'Etat, si la révision est admise.
+
+> 1: L 2018-07-11/02, art. 3, 016; En vigueur : 01-03-2019
+
+
+
+**Art. 445.**`L 18-06-1894, art. unique` Lorsque la demande en révision sera formée pour la cause exprimée au 1° de l'article 443, la Cour de cassation, si elle reconnaît que les condamnations ne peuvent se concilier, les annulera et, selon les cas, renverra les affaires, dans l'état des procédures, nonobstant toute prescription de l'action ou de la peine, devant une cour d'appel ou une cour d'assises qui n'en aura pas primitivement connu. [1 ...]1.
+
+Lorsque la cause invoquée à l'appui de la demande en révision sera celle qui est exprimée au 2° de l'article 443, la Cour de cassation, s'il en est justifié devant elle, annulera la condamnation et renverra l'affaire devant une cour d'appel ou une cour d'assises, ainsi qu'il est dit au premier alinéa du présent article. Le témoin condamné ne pourra être entendu dans les nouveaux débats.
+
+[1 Lorsque la demande en révision s'appuie sur une des causes énumérées à l'article 443, 3°, et que la Cour de cassation ne rejette pas immédiatement la demande comme n'étant pas recevable, la Cour examinera s'il y a des indices suffisants selon lesquels il peut être question d'une cause de révision.
+
+Si la Cour de cassation estime que ce n'est pas le cas, elle rejettera la demande en révision comme étant manifestement infondée.
+
+Si la Cour de cassation estime que c'est bien le cas, elle ordonnera que la demande soit instruite par la Commission de révision en matière pénale.
+
+Selon la langue de la procédure, cette Commission est composée des membres suivants, désignés par le ministre qui a la Justice dans ses attributions:
+ * sur présentation du Collège des cours et tribunaux, un magistrat du siège;
+ * sur présentation du Collège des procureurs généraux, un magistrat de parquet;
+ * deux avocats présentés par l'Ordre des barreaux francophones et germanophone, respectivement deux avocats présentés par l'"Orde van Vlaamse Balies";
+ * un membre désigné sur la base de sa compétence ou de son expérience en rapport avec les missions qui sont confiées à la Commission.
+
+Le Roi fixe les modalités du dépôt des candidatures et de la présentation des membres de la Commission.
+
+Il fixe les modalités de fonctionnement de la Commission.
+
+La Commission peut procéder à l'audition de personnes impliquées dans l'instruction ainsi que d'experts. La Commission peut confier une mission à un expert. La Commission rend un avis non contraignant à la Cour de cassation. Avant de rendre son avis, la Commission peut demander l'accomplissement d'actes d'instruction complémentaires à la Cour de cassation. Si la Cour de cassation estime que des actes d'instruction complémentaires sont nécessaires, le dossier est transmis au procureur général, qui charge le ministère public près le tribunal ou la cour d'appel qui n'a pas encore pris connaissance de l'affaire de les accomplir. La Cour de cassation motive sa décision lorsqu'il n'est pas accédé à la demande de la Commission de poser des actes d'instruction complémentaires. La Cour de cassation elle-même peut également estimer que des actes d'instruction complémentaires doivent être posés. Après que les actes d'instruction ont été posés ou si la Cour de cassation estime qu'il n'est pas nécessaire de poser des actes d'instruction complémentaires, l'affaire est à nouveau soumise à la Commission, qui rend un avis non contraignant.]1
+
+[1 Après que la Commission a rendu son avis, la Cour de cassation soit annulera la condamnation et renverra l'affaire à une cour d'appel ou une cour d'assises, conformément à l'alinéa 1er, soit rejettera la demande en révision. L'avis de la Commission sera rendu public dès que la Cour de cassation aura prononcé l'arrêt.]1
+
+Lorsque la demande en révision portera sur une condamnation pour homicide et que l'existence de la prétendue victime de l'homicide, à une date postérieure à celle de la condamnation, sera établie, si le condamné est vivant et si les constatations faites, dans l'instruction, laissent subsister contre lui des charges suffisantes pour une inculpation correctionnelle ou criminelle, [1 la Commission le déclarera dans son avis]1, et la Cour de cassation, en annulant la condamnation, renverra l'affaire à une cour d'appel ou une cour d'assises, ainsi qu'il est dit au premier alinéa du présent article; à défaut de cette déclaration, la Cour de cassation annulera la condamnation sans renvoi.
+
+> 1: L 2018-07-11/02, art. 4, 016; En vigueur : 01-03-2019
+
+
+
+**Art. 446.**`L 18-06-1894, art. unique` Le renvoi à une cour d'assises n'a lieu, en vertu de l'article précédent, que si la condamnation à réviser ou l'une des condamnations reconnues inconciliables a été prononcée par une cour d'assises. En cas de renvoi à une cour d'assises, un nouvel acte d'accusation sera dressé.
+
+La cour d'assises statuera avec l'assistance du jury, nonobstant [1 défaut]1.
+
+> 1: L 2018-07-11/02, art. 5, 016; En vigueur : 01-03-2019
+
+
+
+**Art. 447.** `L 18-06-1894, art. unique` La cour de renvoi prononcera l'acquittement de l'accusé ou du prévenu, ou confirmera la condamnation annulée pour cause de revision, sauf à réduire, le cas échéant, la peine infligée par cette condamnation.
+
+Lorsque la cour de cassation annulera, sans renvoi, une condamnation pour homicide et lorsque la cour de renvoi prononcera l'acquittement de l'accusé ou du prévenu, il sera déclaré, dans l'arrêt, que l'innocence de l'accusé ou du prévenu a été reconnue. L'arrêt sera publié, par extrait, à la demande de l'intéressé ou de ses ayants droit et à la diligence du procureur général, dans le Moniteur belge et dans un journal de la province où la condamnation annulée aura été prononcée. Il sera de plus, dans les mêmes conditions, affiché tant dans la commune où l'infraction a été relevée, que dans celle où la décision primitive a été rendue. Une expédition en sera transmise au ministre de la justice et une autre expédition en sera délivrée au condamné ou au curateur à sa défense.
+
+Dans les cas prévus à l'alinéa précédent, une indemnité sera allouée, à charge du trésor public, soit au condamné, soit à ses ayants droit. Le montant en sera fixé par le gouvernement.
+
+Semblable indemnité pourra être allouée lorsque la peine aura été réduite.
+
+Le demandeur en revision, qui succombe, sera condamné aux dépens.
+
+L'amende, perçue indûment, sera remboursée avec les intérêts légaux depuis la perception.
+
+[Si l'indemnité prévue par les alinéas 3 et 4 est refusée, si le montant en est jugé insuffisant ou si le gouvernement n'a pas statué dans les six mois d'une requête introduite à cette fin par le condamné ou par ses ayants droit, ceux-ci pourront, dans les soixante jours de la décision du gouvernement ou à l'expiration du délai dans lequel il aurait dû statuer, s'adresser à la commission instituée conformément à l'article 28, § 4, de la loi du 20 avril 1874 relative à la détention préventive.] `L 18-03-1973, art. 6`
+
+
+**Art. 447bis.**[1     Sont susceptibles de révision, conformément aux articles 443 à 447, les décisions ordonnant l'internement d'inculpés et d'accusés.]1
+
+> 1: L 2018-07-11/02, art. 6, 016; En vigueur : 01-03-2019
+
