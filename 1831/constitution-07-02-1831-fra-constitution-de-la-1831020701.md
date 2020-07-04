@@ -49,8 +49,7 @@ Chaque commune du Royaume fait partie d'une de ces régions linguistiques.
 
 Les limites des quatre régions ne peuvent être changées ou rectifiées que par une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
 
-
-TITRE Ibis. <CONST 24-12-1970> DES COMMUNAUTES (...) <CONST 17 juillet 1980>
+## Titre Ibis  <CONST 24-12-1970> DES COMMUNAUTES (...) <CONST 17 juillet 1980>
 
 
 **Art. 3ter.** <CONST 17 juillet 1980, article unique> La Belgique comprend trois communautés : la communauté française, la communauté flamande et la communauté germanophone.
@@ -397,8 +396,7 @@ La détention ou la poursuite d'un membre de l'une ou de l'autre Chambre est sus
 
 **Art. 46.** Chaque Chambre détermine, par son règlement, le mode suivant lequel elle exerce ses attributions.
 
-
-SECTION Ière. _ DE LA CHAMBRE DES REPRESENTANTS.
+#### Section Ière  _ DE LA CHAMBRE DES REPRESENTANTS.
 
 
 **Art. 47.** <CONST 7 février 1921> (Les députés à la Chambre des Représentants sont élus directement par les citoyens âgés de 18 ans accomplis et ne se trouvant pas dans l'un des cas d'exclusion prévus par la loi.) <L 1988-07-07/30, art. 1, 007;  En vigueur :  1988-07-19>
@@ -737,8 +735,7 @@ Les lois visées aux alinéas précédents doivent être adoptées à la majorit
 
 ### Chapitre II  _ DU ROI ET DES MINISTRES.
 
-
-SECTION Ière. _ DU ROI.
+#### Section Ière  _ DU ROI.
 
 
 **Art. 60.** <modification à la Constitution du 21 juin 1991, art. 1, 023;  En vigueur :  20-07-1991> Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, par ordre de primogéniture.
