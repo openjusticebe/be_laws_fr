@@ -9,22 +9,22 @@ number: 1831020701
 updated: 
 
 ---
-# TITRE I. _ (DE LA BELGIQUE FEDERALE, DE SES COMPOSANTES ET DE SON TERRITOIRE) <Modification à la Constitution 1993-05-05/30, art. 1, 030;  En vigueur :  1993-05-18>
+# TITRE I. _ (DE LA BELGIQUE FEDERALE, DE SES COMPOSANTES ET DE SON TERRITOIRE) `Modification à la Constitution 1993-05-05/30, art. 1, 030;  En vigueur :  1993-05-18`
 
 
-**Art. 1.** <CONST 7 septembre 1893> (La Belgique est un état fédéral qui se compose des communautés et des régions.
+**Art. 1.** `CONST 7 septembre 1893` (La Belgique est un état fédéral qui se compose des communautés et des régions.
 
-La Région wallonne comprend les provinces suivantes : le Brabant wallon, le Hainaut, Liège, le Luxembourg et Namur. La Région flamande comprend les provinces suivantes : Anvers, le Brabant flamand, la Flandre occidentale, la Frandre orientale et le Limbourg.) <Modification à la Constitution 1993-05-05/30, art. 1, 031;  En vigueur :  1993-05-18>
+La Région wallonne comprend les provinces suivantes : le Brabant wallon, le Hainaut, Liège, le Luxembourg et Namur. La Région flamande comprend les provinces suivantes : Anvers, le Brabant flamand, la Flandre occidentale, la Frandre orientale et le Limbourg.) `Modification à la Constitution 1993-05-05/30, art. 1, 031;  En vigueur :  1993-05-18`
 
 (Les compétences exercées dans les Régions wallonne et flamande par des organes provinciaux élus sont exercées, dans la région bilingue de Bruxelles-Capitale, par les Communautés française et flamande et par la Commission communautaire commune, chacune en ce qui concerne les matières relevant de leurs compétences en vertu de l'article 59bis, et en ce qui concerne les autres matières, par la Région de Bruxelles-Capitale.
 
-Toutefois, une loi adoptée à la majorité prévue au dernier alinéa règle les modalités selon lesquelles la Région de Bruxelles-Capitale ou toute institution dont les membres sont désignés par celle-ci exerce les compétences visées à l'alinéa précédent qui ne relèvent pas des matières visées à l'article 107quater. Une loi adoptée à la même majorité règle l'attribution aux institutions prévues à l'article 108ter, § 3, de tout ou partie des compétences visées à l'alinéa précédent qui relèvent des matières visées à l'article 59bis.) <Modification à la Constitution 1993-05-05/30, art. 1, 031;  En vigueur :  1993-05-18>
+Toutefois, une loi adoptée à la majorité prévue au dernier alinéa règle les modalités selon lesquelles la Région de Bruxelles-Capitale ou toute institution dont les membres sont désignés par celle-ci exerce les compétences visées à l'alinéa précédent qui ne relèvent pas des matières visées à l'article 107quater. Une loi adoptée à la même majorité règle l'attribution aux institutions prévues à l'article 108ter, § 3, de tout ou partie des compétences visées à l'alinéa précédent qui relèvent des matières visées à l'article 59bis.) `Modification à la Constitution 1993-05-05/30, art. 1, 031;  En vigueur :  1993-05-18`
 
 Il appartient à la loi de diviser, s'il y a lieu, le territoire en un plus grand nombre de provinces.
 
 (Une loi peut soustraire certains territoires dont elle fixe les limites, à la division en provinces, les faire relever directement du pouvoir exécutif et les soumettre à un statut propre.
 
-Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.) <CONST 24 décembre 1970, article unique>
+Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.) `CONST 24 décembre 1970, article unique`
 
 (Disposition transitoire.
 
@@ -34,7 +34,7 @@ Jusqu'au 31 décembre 1994, les provinces sont : Anvers, le Brabant, la Flandre 
 
 Les membres du personnel et le patrimoine de la province de Brabant seront répartis entre la province du Brabant flamand, la province du Brabant wallon, la Région de Bruxelles-Capitale, les autorités et institutions visées aux articles 59bis, § 4bis, alinéa 2, et 108ter, § 3, ainsi que l'autorité fédérale, suivant les modalités réglées par une loi adoptée à la majorité visée à l'article 1er, dernier alinéa.
 
-Après le prochain renouvellement des conseils provinciaux et jusqu'au moment de leur répartition, le personnel et le patrimoine restés communs sont gérés conjointement par la province du Brabant flamand, la province du Brabant wallon et les autorités compétentes dans la région bilingue de Bruxelles-Capitale.) <Modification à la Constitution 1993-05-05/30, art. 1, 031;  En vigueur :  1993-05-18>
+Après le prochain renouvellement des conseils provinciaux et jusqu'au moment de leur répartition, le personnel et le patrimoine restés communs sont gérés conjointement par la province du Brabant flamand, la province du Brabant wallon et les autorités compétentes dans la région bilingue de Bruxelles-Capitale.) `Modification à la Constitution 1993-05-05/30, art. 1, 031;  En vigueur :  1993-05-18`
 
 
 **Art. 2.** Les subdivisions des provinces ne peuvent être établies que par la loi.
@@ -43,16 +43,16 @@ Après le prochain renouvellement des conseils provinciaux et jusqu'au moment de
 **Art. 3.** Les limites de l'Etat, des provinces et des communes ne peuvent être changées ou rectifiées qu'en vertu d'une loi.
 
 
-**Art. 3bis.** <CONST 24 décembre 1970, article unique>. La Belgique comprend quatre régions linguistiques : la région de langue française, la région de langue néerlandaise, la région bilingue de Bruxelles-Capitale et la région de langue allemande.
+**Art. 3bis.** `CONST 24 décembre 1970, article unique`. La Belgique comprend quatre régions linguistiques : la région de langue française, la région de langue néerlandaise, la région bilingue de Bruxelles-Capitale et la région de langue allemande.
 
 Chaque commune du Royaume fait partie d'une de ces régions linguistiques.
 
 Les limites des quatre régions ne peuvent être changées ou rectifiées que par une loi adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
 
-## Titre Ibis  <CONST 24-12-1970> DES COMMUNAUTES (...) <CONST 17 juillet 1980>
+## Titre Ibis  `CONST 24-12-1970` DES COMMUNAUTES (...) `CONST 17 juillet 1980`
 
 
-**Art. 3ter.** <CONST 17 juillet 1980, article unique> La Belgique comprend trois communautés : la communauté française, la communauté flamande et la communauté germanophone.
+**Art. 3ter.** `CONST 17 juillet 1980, article unique` La Belgique comprend trois communautés : la communauté française, la communauté flamande et la communauté germanophone.
 
 Chaque communauté a les attributions qui lui sont reconnues par la Constitution ou par les lois prises en vertu de celle-ci.
 
@@ -66,7 +66,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 
 **Art. 5.** La naturalisation est accordée par le pouvoir législatif.
 
-(Alinéa 2 abrogé.) <DIVERS 1991-02-01/32, art. 1, 017;  En vigueur :  25-02-1991>
+(Alinéa 2 abrogé.) `DIVERS 1991-02-01/32, art. 1, 017;  En vigueur :  25-02-1991`
 
 
 **Art. 6.** Il n'y a dans l'Etat aucune distinction d'ordres.
@@ -74,7 +74,7 @@ La présente Constitution et les autres lois relatives aux droits politiques dé
 Les Belges sont égaux devant la loi; seuls ils sont admissibles aux emplois civils et militaires, sauf les exceptions qui peuvent être établies par une loi pour des cas particuliers.
 
 
-**Art. 6bis.** <CONST 24 décembre 1970, article unique> La jouissance des droits et libertés reconnus aux Belges doit être assurée sans discrimination. A cette fin, la loi et le décret garantissent notamment les droits et libertés des minorités idéologiques et philosophiques.
+**Art. 6bis.** `CONST 24 décembre 1970, article unique` La jouissance des droits et libertés reconnus aux Belges doit être assurée sans discrimination. A cette fin, la loi et le décret garantissent notamment les droits et libertés des minorités idéologiques et philosophiques.
 
 
 **Art. 7.** La liberté individuelle est garantie.
@@ -113,13 +113,13 @@ Hors le cas de flagrant délit, nul ne peut être arrêté qu'en vertu de l'ordo
 Le mariage civil devra toujours précéder la bénédiction nuptiale, sauf les exceptions à établir par la loi, s'il y a lieu.
 
 
-**Art. 17.** (§ 1.) L'enseignement est libre; toute mesure préventive est interdite, la répression des délits n'est réglée que par la loi (ou le décret). <L 1988-07-15/30, art. 1, A, 011;  En vigueur :  1989-01-01>
+**Art. 17.** (§ 1.) L'enseignement est libre; toute mesure préventive est interdite, la répression des délits n'est réglée que par la loi (ou le décret). `L 1988-07-15/30, art. 1, A, 011;  En vigueur :  1989-01-01`
 
 (La Communauté assure le libre choix des parents.
 
 La Communauté organise un enseignement qui est neutre. La neutralité implique notamment le respect des conceptions philosophiques, idéologiques ou religieuses des parents et des élèves.
 
-Les écoles organisées par les pouvoirs publics offrent, jusqu'à la fin de l'obligation scolaire, le choix entre l'enseignement d'une des religions reconnues et celui de la morale non confessionnelle.) <L 1988-07-15/30, art. 1, B, 011;  En vigueur :  1989-01-01>
+Les écoles organisées par les pouvoirs publics offrent, jusqu'à la fin de l'obligation scolaire, le choix entre l'enseignement d'une des religions reconnues et celui de la morale non confessionnelle.) `L 1988-07-15/30, art. 1, B, 011;  En vigueur :  1989-01-01`
 
 (§ 2. Si une Communauté, en tant que pouvoir organisateur, veut déléguer des compétences à un ou plusieurs organes autonomes, elle ne le pourra que par décret adopté à la majorité des deux tiers.
 
@@ -133,7 +133,7 @@ Tous les élèves soumis à l'obligation scolaire ont droit, à charge de la Com
 
 
 §5.  L'organisation, la reconnaissance ou le subventionnement de l'enseignement par la Communauté sont réglés par la loi ou le décret.
- * Disposition transitoire : (abrogé) <Modification à la Constitution 1992-12-30/43, art. 1, 026;  En vigueur :  1993-02-26>
+ * Disposition transitoire : (abrogé) `Modification à la Constitution 1992-12-30/43, art. 1, 026;  En vigueur :  1993-02-26`
 
 
 **Art. 18.** La presse est libre; la censure ne pourra jamais être établie; il ne peut être exigé de cautionnement des écrivains, éditeurs ou imprimeurs.
@@ -162,10 +162,10 @@ La loi détermine quels sont les agents responsables de la violation du secret d
 **Art. 23.** L'emploi des langues usitées en Belgique est facultatif; il ne peut être réglé que par la loi, et seulement pour les actes de l'autorité publique et pour les affaires judiciaires.
 
 
-**Art. 24.** Nulle autorisation préalable n'est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leurs administration, sauf ce qui est statué à l'égard (des ministres et des membres des gouvernements de Communauté et de Région). <Modification à la Constitution 1993-12-09/30, art. 1, 068;  En vigueur :  1993-12-24>
+**Art. 24.** Nulle autorisation préalable n'est nécessaire pour exercer des poursuites contre les fonctionnaires publics, pour faits de leurs administration, sauf ce qui est statué à l'égard (des ministres et des membres des gouvernements de Communauté et de Région). `Modification à la Constitution 1993-12-09/30, art. 1, 068;  En vigueur :  1993-12-24`
 
 
-**Art. 24bis.** <inséré par Modification à la Constitution 1994-01-31/32, art. 1,  En vigueur :  1994-02-22> Chacun a le droit de mener une vie conforme à la dignité humaine.
+**Art. 24bis.** `inséré par Modification à la Constitution 1994-01-31/32, art. 1,  En vigueur :  1994-02-22` Chacun a le droit de mener une vie conforme à la dignité humaine.
 
 A cette fin, la loi, le décret ou la règle visée à l'article 26bis garantissent, en tenant compte des obligations correspondantes, les droits économiques, sociaux et culturels, et déterminent les conditions de leur exercice.
 
@@ -177,14 +177,14 @@ Ces droits comprennent notamment :
  5. le droit à l'épanouissement culturel et sociale.
 
 
-**Art. 24ter.** <inséré par Modification à la Constitution 1993-06-18/30, art. 1,  En vigueur :  1995-01-01> Chacun a le droit de consulter ou de se faire remettre copie de chaque document administratif, sauf dans les cas et conditions fixés par la loi, le décret ou la règle visée à l'article 26bis.
+**Art. 24ter.** `inséré par Modification à la Constitution 1993-06-18/30, art. 1,  En vigueur :  1995-01-01` Chacun a le droit de consulter ou de se faire remettre copie de chaque document administratif, sauf dans les cas et conditions fixés par la loi, le décret ou la règle visée à l'article 26bis.
 
 Disposition transitoire.
 
 La présente disposition entre en vigueur le 1er janvier 1995.
 
 
-**Art. 24quater.** <inséré par Modification à la Constitution 1994-01-31/33, art. 1,  En vigueur :  1994-02-22> Chacun a droit au respect de sa vie privée et familiale, sauf dans les cas et conditions fixés par la loi.
+**Art. 24quater.** `inséré par Modification à la Constitution 1994-01-31/33, art. 1,  En vigueur :  1994-02-22` Chacun a droit au respect de sa vie privée et familiale, sauf dans les cas et conditions fixés par la loi.
 
 La loi, le décret ou la règle visée à l'article 26bis garantissent la protection de ce droit.
 
@@ -196,10 +196,10 @@ La loi, le décret ou la règle visée à l'article 26bis garantissent la protec
 Ils sont exercés de la manière établie par la Constitution.
 
 
-**Art. 25bis.** <CONST 20 juillet 1970, article unique> L'exercice de pouvoirs déterminés peut être attribue par un traité ou par une loi à des institutions de droit international public.
+**Art. 25bis.** `CONST 20 juillet 1970, article unique` L'exercice de pouvoirs déterminés peut être attribue par un traité ou par une loi à des institutions de droit international public.
 
 
-**Art. 25ter.** <inséré par Modification à la Constitution 1993-05-05/31, art. 1, 032;  En vigueur :  1993-05-18> L'autorité fédérale n'a de compétence que dans les matières que lui attribuent formellement la Constitution et les lois portées en vertu de la Constitution même.
+**Art. 25ter.** `inséré par Modification à la Constitution 1993-05-05/31, art. 1, 032;  En vigueur :  1993-05-18` L'autorité fédérale n'a de compétence que dans les matières que lui attribuent formellement la Constitution et les lois portées en vertu de la Constitution même.
 
 Les Communautés ou les Régions, chaque pour ce qui la concerne, sont compétentes dans les autres matières, dans les conditions et selon les modalités fixées par la loi. Cette loi doit être adoptée à la majorité prévue à l'article 1er, dernier alinéa.
 
@@ -208,7 +208,7 @@ Disposition transitoire.
 La loi visée à l'article 25ter, deuxième alinéa, détermine la date à laquelle l'article 25ter entre en vigueur. Cette date ne peut pas être antérieure à la date d'entrée en vigueur du nouvel article à insérer au titre III de la Constitution, déterminant les compétences exclusives de l'autorité fédérale.
 
 
-**Art. 26.** <Modification à la Constitution 1993-05-05/32, art. 1, 033;  En vigueur :  1993-05-18> Le pouvoir législatif s'exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
+**Art. 26.** `Modification à la Constitution 1993-05-05/32, art. 1, 033;  En vigueur :  1993-05-18` Le pouvoir législatif s'exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
 
 Toutefois, le pouvoir législatif s'exerce collectivement par le Roi et la Chambre des représentants pour :
  1. l'octroi des naturalisations;
@@ -221,12 +221,12 @@ Disposition transitoire.
 Jusqu'au prochain renouvellement intégral de la Chambre des représentants, le pouvoir législatif s'exerce collectivement par le Roi, la Chambre des représentants et le Sénat.
 
 
-**Art. 26bis.** <CONST 17 juillet 1980, article unique> Les lois prises en exécution de l'article 107quater déterminent la force juridique des règles que les organes qu'elles créent prennent dans les matières qu'elles déterminent.
+**Art. 26bis.** `CONST 17 juillet 1980, article unique` Les lois prises en exécution de l'article 107quater déterminent la force juridique des règles que les organes qu'elles créent prennent dans les matières qu'elles déterminent.
 
 Elles peuvent conférer à ces organes le pouvoir de prendre des décrets ayant force de loi dans le ressort et selon le mode qu'elles établissent.
 
 
-**Art. 27.** <Modification à la Constitution 1993-05-05/33, art. 1, 034;  En vigueur :  1993-05-18> Le droit d'initiative appartient à chacune des branches du pouvoir législatif.
+**Art. 27.** `Modification à la Constitution 1993-05-05/33, art. 1, 034;  En vigueur :  1993-05-18` Le droit d'initiative appartient à chacune des branches du pouvoir législatif.
 
 Sauf pour les matières visées à l'article 41, § 2, les projets de loi soumis aux Chambres à l'initiative du Roi, sont déposés à la Chambre des représentants et transmis ensuite au Sénat.
 
@@ -237,7 +237,7 @@ Disposition transitoire.
 Les alinéas 2 et 3 entrent en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.
 
 
-**Art. 28.** <CONST 17 juillet 1980>. L'interprétation des lois par voie d'autorité n'appartient qu'à la loi.
+**Art. 28.** `CONST 17 juillet 1980`. L'interprétation des lois par voie d'autorité n'appartient qu'à la loi.
 
 L'interprétation des décrets par voie d'autorité n'appartient qu'au décret.
 
@@ -255,10 +255,10 @@ Les arrêts et jugements sont exécutés au nom du Roi.
 ### Chapitre I  _ DES CHAMBRES.
 
 
-**Art. 32.** Les membres des deux Chambres représentent la nation, et non uniquement (ceux qui les ont élus). <Modification à la Constitution 1993-05-05/34, art. 1, 035;  En vigueur :  1993-05-18>
+**Art. 32.** Les membres des deux Chambres représentent la nation, et non uniquement (ceux qui les ont élus). `Modification à la Constitution 1993-05-05/34, art. 1, 035;  En vigueur :  1993-05-18`
 
 
-**Art. 32bis.** <CONST 24 décembre 1970, article unique>. Pour les cas déterminés dans la Constitution, les membres élus de chaque Chambre sont répartis en un groupe linguistique francais et un groupe linguistique néerlandais, de la manière fixée par la loi.
+**Art. 32bis.** `CONST 24 décembre 1970, article unique`. Pour les cas déterminés dans la Constitution, les membres élus de chaque Chambre sont répartis en un groupe linguistique francais et un groupe linguistique néerlandais, de la manière fixée par la loi.
 
 
 **Art. 33.** Les séances des Chambres sont publiques.
@@ -274,13 +274,13 @@ Elle décide ensuite, à la majorité absolue, si la séance doit être reprise 
 **Art. 35.** On ne peut être à la fois membre des deux Chambres.
 
 
-**Art. 36.** <CONST 7 septembre 1893, article unique> Le membre de l'une des deux Chambres nommé par le gouvernement à toute autre fonction salariée que celle de ministre et qui l'accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu'en vertu d'une nouvelle élection.
+**Art. 36.** `CONST 7 septembre 1893, article unique` Le membre de l'une des deux Chambres nommé par le gouvernement à toute autre fonction salariée que celle de ministre et qui l'accepte, cesse immédiatement de siéger et ne reprend ses fonctions qu'en vertu d'une nouvelle élection.
 
 (Le membre de l'une des deux Chambres, nommé par le Roi en qualité de ministre et qui l'accepte, cesse de siéger et reprend son mandat lorsqu'il a été mis fin par le Roi à ses fonctions de ministre. La loi prévoit les modalités de son remplacement dans la Chambre concernée.
 
 Disposition transitoire.
 
-L'alinéa 2 entre en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.) <Modification à la Constitution 1993-05-05/35, art. 1, 036;  En vigueur :  1993-05-18>
+L'alinéa 2 entre en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.) `Modification à la Constitution 1993-05-05/35, art. 1, 036;  En vigueur :  1993-05-18`
 
 
 **Art. 37.** A chaque session, chacune des Chambres nomme son président, ses vice-présidents, et compose son bureau.
@@ -293,20 +293,20 @@ En cas de partage des voix, la proposition mise en délibération est rejetée.
 Aucune des deux Chambres ne peut prendre de résolution qu'autant que la majorité de ses membres se trouve réunie.
 
 
-**Art. 38bis.** <CONST 24 décembre 1970, article unique>. Sauf pour les budgets ainsi que pour les lois qui requièrent une majorité spéciale, une motion motivée, signée par les trois quarts au moins des membres d'un des groupes linguistiques et introduite après le dépôt du rapport et avant le vote final en séance publique, peut déclarer que les dispositions d'un projet ou d'une proposition de loi qu'elle désigne sont de nature à porter gravement atteinte aux relations entre les communautés.
+**Art. 38bis.** `CONST 24 décembre 1970, article unique`. Sauf pour les budgets ainsi que pour les lois qui requièrent une majorité spéciale, une motion motivée, signée par les trois quarts au moins des membres d'un des groupes linguistiques et introduite après le dépôt du rapport et avant le vote final en séance publique, peut déclarer que les dispositions d'un projet ou d'une proposition de loi qu'elle désigne sont de nature à porter gravement atteinte aux relations entre les communautés.
 
 Dans ce cas, la procédure parlementaire est suspendue et la motion est déférée au Conseil des Ministres qui, dans les trente jours, donne son avis motivé sur la motion et invite la Chambre saisie à se prononcer soit sur cet avis, soit sur le projet ou la proposition éventuellement amendés.
 
 Cette procédure ne peut être appliquée qu'une seule fois par les membres d'un groupe linguistique à l'égard d'un même projet ou d'une même proposition de loi.
 
 
-**Art. 39.** <CONST 1984-07-31/34,art.1, 005> Les votes sont émis par assis et levé ou par appel nominal; sur l'ensemble des lois, il est toujours voté par appel nominal. Les élections et présentations de candidats se font au scrutin secret.
+**Art. 39.** `CONST 1984-07-31/34,art.1, 005` Les votes sont émis par assis et levé ou par appel nominal; sur l'ensemble des lois, il est toujours voté par appel nominal. Les élections et présentations de candidats se font au scrutin secret.
 
 
 **Art. 40.** Chaque Chambre a le droit d'enquête.
 
 
-**Art. 41.** <Modification à la Constitution 1993-05-05/36, art. 1, 037;  En vigueur :  1993-05-18> § 1. Un projet de loi ne peut être adopté par une Chambre qu'après avoir été voté article par article.
+**Art. 41.** `Modification à la Constitution 1993-05-05/36, art. 1, 037;  En vigueur :  1993-05-18` § 1. Un projet de loi ne peut être adopté par une Chambre qu'après avoir été voté article par article.
 
 
 §2.  La Chambre des représentants et le Sénat sont compétents sur un pied d'égalité pour :
@@ -399,26 +399,26 @@ La détention ou la poursuite d'un membre de l'une ou de l'autre Chambre est sus
 #### Section Ière  _ DE LA CHAMBRE DES REPRESENTANTS.
 
 
-**Art. 47.** <CONST 7 février 1921> (Les députés à la Chambre des Représentants sont élus directement par les citoyens âgés de 18 ans accomplis et ne se trouvant pas dans l'un des cas d'exclusion prévus par la loi.) <L 1988-07-07/30, art. 1, 007;  En vigueur :  1988-07-19>
+**Art. 47.** `CONST 7 février 1921` (Les députés à la Chambre des Représentants sont élus directement par les citoyens âgés de 18 ans accomplis et ne se trouvant pas dans l'un des cas d'exclusion prévus par la loi.) `L 1988-07-07/30, art. 1, 007;  En vigueur :  1988-07-19`
 
 Chaque électeur n'a droit qu'à un vote.
 
-(.....) <CONST 28-7-1981, art. unique, 2°>
+(.....) `CONST 28-7-1981, art. unique, 2°`
 
 
-**Art. 48.** <CONST 15 novembre 1920> (La constitution des collèges électoraux est réglée par la loi.) <L 1988-07-07/31, art. 1, 008;  En vigueur :  1988-07-19>
+**Art. 48.** `CONST 15 novembre 1920` (La constitution des collèges électoraux est réglée par la loi.) `L 1988-07-07/31, art. 1, 008;  En vigueur :  1988-07-19`
 
 Les élections se font par le système de représentation proportionnelle que la loi détermine.
 
 Le vote est obligatoire et secret. Il a lieu à la commune, sauf les exceptions à déterminer par la loi.
 
 
-**Art. 49.** <CONST 28 juillet 1971> § 1er. La Chambre des représentants compte (150) membres. <Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18>
+**Art. 49.** `CONST 28 juillet 1971` § 1er. La Chambre des représentants compte (150) membres. `Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18`
 
 
-§2.  Chaque (circonscription électorale) compte autant de sièges que le chiffre de sa population contient de fois le diviseur national, obtenu en divisant le chiffre de la population du Royaume par (150). <Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18>
+§2.  Chaque (circonscription électorale) compte autant de sièges que le chiffre de sa population contient de fois le diviseur national, obtenu en divisant le chiffre de la population du Royaume par (150). `Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18`
 
-Les sièges restants sont attribués aux (circonscriptions électorales) ayant le plus grand excédent de population non encore représenté. <Modification à la Constitution 1993-05-05/37, art. 1, 037;  En vigueur :  1993-05-18>
+Les sièges restants sont attribués aux (circonscriptions électorales) ayant le plus grand excédent de population non encore représenté. `Modification à la Constitution 1993-05-05/37, art. 1, 037;  En vigueur :  1993-05-18`
 
 
 §3. 
@@ -429,31 +429,31 @@ Le chiffre de la population de chaque circonscription électorale est détermin�
 
 Dans les trois mois de cette publication, Il détermine le nombre de sièges attribués à chaque circonscription électorale.
 
-La nouvelle répartition est appliquée à partir des élections générales suivantes.) <Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18>
+La nouvelle répartition est appliquée à partir des élections générales suivantes.) `Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18`
 
 
-§4.  La loi détermine les (circonscriptions électorales); elle détermine également les conditions requises pour être électeur et la marche des opérations électorales. <Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18>
+§4.  La loi détermine les (circonscriptions électorales); elle détermine également les conditions requises pour être électeur et la marche des opérations électorales. `Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18`
 
 (Disposition transitoire.
 
-Jusqu'au prochain renouvellement intégral de la Chambre des représentants, celle-ci compte 212 membres et le diviseur national est obtenu en divisant le chiffre de la population du Royaume par 212.) <Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18>
+Jusqu'au prochain renouvellement intégral de la Chambre des représentants, celle-ci compte 212 membres et le diviseur national est obtenu en divisant le chiffre de la population du Royaume par 212.) `Modification à la Constitution 1993-05-05/37, art. 1, 038;  En vigueur :  1993-05-18`
 
 
-**Art. 50.** <CONST 15 novembre 1920> Pour être éligible, il faut :
- 1. (Etre Belge;) <CONST 1991-02-01/33, art. 1, 015;  En vigueur :  25-02-1991>
+**Art. 50.** `CONST 15 novembre 1920` Pour être éligible, il faut :
+ 1. (Etre Belge;) `CONST 1991-02-01/33, art. 1, 015;  En vigueur :  25-02-1991`
  2. Jouir des droits civils et politiques;
- 3. Avoir atteint l'âge de (vingt et un ans accomplis); <CONST 1991-02-01/33, art. 1, 015;  En vigueur :  25-02-1991>
+ 3. Avoir atteint l'âge de (vingt et un ans accomplis); `CONST 1991-02-01/33, art. 1, 015;  En vigueur :  25-02-1991`
  4. Avoir son domicile en Belgique.
 
 Aucune autre condition d'éligibilité ne peut être requise.
 
 
-**Art. 51.** <CONST 15 octobre 1921> Les membres de la Chambre des représentants sont élus pour quatre ans.
+**Art. 51.** `CONST 15 octobre 1921` Les membres de la Chambre des représentants sont élus pour quatre ans.
 
 La Chambre est renouvelée tous les quatre ans.
 
 
-**Art. 52.** <CONST 15 novembre 1920> Chaque membre de la Chambre des représentants jouit d'une indemnité annuelle de 12 000 francs.
+**Art. 52.** `CONST 15 novembre 1920` Chaque membre de la Chambre des représentants jouit d'une indemnité annuelle de 12 000 francs.
 
 Il a droit en outre, au libre parcours sur toutes les voies de communication exploitées ou concédées par l'Etat.
 
@@ -466,7 +466,7 @@ La Chambre détermine le montant des retenues qui peuvent être faites sur l'ind
 #### Section II  _ DU SENAT.
 
 
-**Art. 53.** <Modification à la Constitution 1993-05-05/38, art. 1, 039;  En vigueur :  1993-05-18> § 1. Sans préjudice de l'article 58 le Sénat se compose de 71 sénateurs, dont :
+**Art. 53.** `Modification à la Constitution 1993-05-05/38, art. 1, 039;  En vigueur :  1993-05-18` § 1. Sans préjudice de l'article 58 le Sénat se compose de 71 sénateurs, dont :
  1. 25 sénateurs élus conformément à l'article 47, par le collège électoral néerlandais;
  2. 15 sénateurs élus conformément à l'article 47, par le collège électoral français;
  3. 10 sénateurs désignés par le Conseil flamand en son sein;
@@ -520,10 +520,10 @@ L'élection des sénateurs élus en application des 2° et 3° se fait d'après 
 S'il faut pourvoir, après le 31 décembre 1994, au remplacement d'un sénateur qui a été élu par le conseil provincial du Brabant, le Sénat élit un membre selon les conditions fixées par la loi.
 
 
-**Art. 54.** (abrogé) <Modification à la Constitution 1993-05-05/39, art. 1, 040;  En vigueur :  1993-05-18>
+**Art. 54.** (abrogé) `Modification à la Constitution 1993-05-05/39, art. 1, 040;  En vigueur :  1993-05-18`
 
 
-**Art. 55.** <Modification à la Constitution 1993-05-05/40, art. 1, 041;  En vigueur :  1993-05-18> Les sénateurs visés à l'article 53, § 1er, 1° et 2°, sont élus pour quatre ans. Les sénateurs visés à l'article 53, § 1er, 6° et 7°, sont désignés pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.
+**Art. 55.** `Modification à la Constitution 1993-05-05/40, art. 1, 041;  En vigueur :  1993-05-18` Les sénateurs visés à l'article 53, § 1er, 1° et 2°, sont élus pour quatre ans. Les sénateurs visés à l'article 53, § 1er, 6° et 7°, sont désignés pour quatre ans. Le Sénat est renouvelé intégralement tous les quatre ans.
 
 L'élection des sénateurs visés à l'article 53, § 1er, 1° et 2°, coïncide avec les élections pour la Chambre des représentants.
 
@@ -532,49 +532,49 @@ Disposition transitoire.
 Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les sénateurs sont élus pour quatre ans.
 
 
-**Art. 56.** <CONST 15 octobre 1921> Pour être élu sénateur, il faut;
- 1. (Etre Belge) <DIVERS 1991-04-17/30, art. 1, 018;  En vigueur :  1991-05-13>
+**Art. 56.** `CONST 15 octobre 1921` Pour être élu sénateur, il faut;
+ 1. (Etre Belge) `DIVERS 1991-04-17/30, art. 1, 018;  En vigueur :  1991-05-13`
  2. Jouir des droits civils et politiques;
  3. Etre domicilié en Belgique;
- 4. (Etre âgé de 21 ans accomplis.) <Modification à la Constitution 1993-05-05/41, art. 1, 042;  En vigueur :  1993-05-18>
+ 4. (Etre âgé de 21 ans accomplis.) `Modification à la Constitution 1993-05-05/41, art. 1, 042;  En vigueur :  1993-05-18`
 
 (Disposition transitoire :
 
-Jusqu'au prochain renouvellement intégral de la Chambre des représentants, il faut, sans préjudice de l'article 56, 1°, 2° et 3°, avoir atteint l'âge de 40 ans accomplis.) <Modification à la Constitution 1993-05-05/41, art. 1, 042;  En vigueur :  1993-05-18>
+Jusqu'au prochain renouvellement intégral de la Chambre des représentants, il faut, sans préjudice de l'article 56, 1°, 2° et 3°, avoir atteint l'âge de 40 ans accomplis.) `Modification à la Constitution 1993-05-05/41, art. 1, 042;  En vigueur :  1993-05-18`
 
 
-**Art. 56bis.** (abrogé) <CONST 1985-06-03/32, art. 1, 006>
+**Art. 56bis.** (abrogé) `CONST 1985-06-03/32, art. 1, 006`
 
 
-**Art. 56ter.** (abrogé) <Modification à la Constitution 1993-05-05/42, art. 1, 043;  En vigueur :  1993-05-18>
+**Art. 56ter.** (abrogé) `Modification à la Constitution 1993-05-05/42, art. 1, 043;  En vigueur :  1993-05-18`
 
 
-**Art. 56quater.** (abrogé) <Modification à la Constitution 1993-05-05/43, art. 1, 044;  En vigueur :  1993-05-18>
+**Art. 56quater.** (abrogé) `Modification à la Constitution 1993-05-05/43, art. 1, 044;  En vigueur :  1993-05-18`
 
 
-**Art. 57.** <CONST 15 octobre 1921> Les sénateurs ne reçoivent pas de traitement. Ils ont droit, toutefois, à être indemnisés de leurs débours. Cette indemnité est fixée à quatre mille francs par an.
+**Art. 57.** `CONST 15 octobre 1921` Les sénateurs ne reçoivent pas de traitement. Ils ont droit, toutefois, à être indemnisés de leurs débours. Cette indemnité est fixée à quatre mille francs par an.
 
 Ils ont droit, en outre, au libre parcours sur toutes les voies de communication exploitées ou concédées par l'Etat.
 
 La loi détermine les moyens de transport qu'ils peuvent utiliser gratuitement en dehors des voies ci-dessus prévues.
 
 
-**Art. 58.** <Modification à la Constitution 1993-05-05/44, art. 1, 045;  En vigueur :  1993-05-18> Les enfants du Roi, ou à leur défaut, les descendants belges de la branche de la famille royale appelée à régner, sont de droit membres du Sénat à l'âge de 18 ans. Ils n'ont voix délibérative qu'à l'âge de 21 ans. Ils ne sont pas pris en compte pour la détermination du quorum des présences.
+**Art. 58.** `Modification à la Constitution 1993-05-05/44, art. 1, 045;  En vigueur :  1993-05-18` Les enfants du Roi, ou à leur défaut, les descendants belges de la branche de la famille royale appelée à régner, sont de droit membres du Sénat à l'âge de 18 ans. Ils n'ont voix délibérative qu'à l'âge de 21 ans. Ils ne sont pas pris en compte pour la détermination du quorum des présences.
 
 
 **Art. 59.** Toute assemblée du Sénat qui serait tenue hors du temps de la session de la Chambre est nulle de plein droit.
 
-#### Section III  _ <CONST 17 juillet 1980, article unique, A> DES CONSEILS DE COMMUNAUTE.
+#### Section III  _ `CONST 17 juillet 1980, article unique, A` DES CONSEILS DE COMMUNAUTE.
 
 
-**Art. 59bis.** <CONST 24-12-1970> § 1. (Il y a un Conseil et un Exécutif de la communauté française et un Conseil et un Exécutif de la communauté flamande dont la composition et le fonctionnement sont fixés par la loi. Les Conseils sont composés de mandataires élus.
+**Art. 59bis.** `CONST 24-12-1970` § 1. (Il y a un Conseil et un Exécutif de la communauté française et un Conseil et un Exécutif de la communauté flamande dont la composition et le fonctionnement sont fixés par la loi. Les Conseils sont composés de mandataires élus.
 
 En vue de l'application de l'article 107quater, le Conseil de la communauté française et le Conseil de la communauté flamande ainsi que leurs Exécutifs peuvent exercer les compétences respectivement de la région wallonne et de la région flamande, dans les conditions et selon les modalités fixées par la loi.
 
-Les lois visées aux alinéas précédents doivent être adoptées à la majorité prévue à l'article 1er, dernier alinéa.) <CONST 17 juillet 1980, article unique, B>
+Les lois visées aux alinéas précédents doivent être adoptées à la majorité prévue à l'article 1er, dernier alinéa.) `CONST 17 juillet 1980, article unique, B`
 
 
-§2.  Les (Conseils de communauté), chacun pour ce qui le concerne, règlent par décret : <CONST 17 juillet 1980>
+§2.  Les (Conseils de communauté), chacun pour ce qui le concerne, règlent par décret : `CONST 17 juillet 1980`
  1. les matières culturelles;
  2. (l'enseignement, à l'exception :
 
@@ -582,47 +582,47 @@ a) de la fixation du début et de la fin de l'obligation scolaire;
 
 b) des conditions minimales pour la délivrance des diplômes;
 
-c) du régime des pensions;) <L 1988-07-15/31, art. 1, A, 012;  En vigueur :  1989-01-01>
+c) du régime des pensions;) `L 1988-07-15/31, art. 1, A, 012;  En vigueur :  1989-01-01`
 
-(3° la coopération entre les Communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1° et 2° du présent paragraphe.) <L 1988-07-15/31, art. 1, B, 012;  En vigueur :  1989-01-01>
+(3° la coopération entre les Communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées aux 1° et 2° du présent paragraphe.) `L 1988-07-15/31, art. 1, B, 012;  En vigueur :  1989-01-01`
 
-(Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête les matières culturelles visées au 1°, les formes de coopération visées au 3°, ainsi que les modalités de conclusion de traités, visée au 3° du présent paragraphe.) <L 1988-07-15/31, art. 1, C, 012;  En vigueur :  1989-01-01>
+(Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête les matières culturelles visées au 1°, les formes de coopération visées au 3°, ainsi que les modalités de conclusion de traités, visée au 3° du présent paragraphe.) `L 1988-07-15/31, art. 1, C, 012;  En vigueur :  1989-01-01`
 
 (§ 2bis. Les Conseils de Communauté règlent par décret, chacun en ce qui le concerne, les matières personnalisables, de même qu'en ces matières, la coopération entre les Communautés et la coopération internationale, y compris la conclusion de traités.
 
-Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération et les modalités de conclusion de traités.) <L 1988-07-15/30, art. 1, D, 012;  En vigueur :  1989-01-01; voir aussi art. 5, § 1, II, 7° de L 1980-08-08/02>
+Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, arrête ces matières personnalisables, ainsi que les formes de coopération et les modalités de conclusion de traités.) `L 1988-07-15/30, art. 1, D, 012;  En vigueur :  1989-01-01; voir aussi art. 5, § 1, II, 7° de L 1980-08-08/02`
 
 
-§3.  En outre, les (Conseils de communauté), chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur, l'emploi des langues pour : <CONST 17 juillet 1980>
+§3.  En outre, les (Conseils de communauté), chacun pour ce qui le concerne, règlent par décret, à l'exclusion du législateur, l'emploi des langues pour : `CONST 17 juillet 1980`
  1. les matières administratives;
  2. l'enseignement dans les établissements créés, subventionnés ou reconnus par les pouvoirs publics;
  3. les relations sociales entre les employeurs et leur personnel, ainsi que les actes et documents des entreprises imposés par la loi et les règlements.
 
 
-§4.  Les décrets pris en application du § 2 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre (communauté) <CONST 17-7-1980, article unique, F, 3°>
+§4.  Les décrets pris en application du § 2 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi qu'à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leurs activités, doivent être considérées comme appartenant exclusivement à l'une ou à l'autre (communauté) `CONST 17-7-1980, article unique, F, 3°`
 
 Les décrets, pris en application du § 3 ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise excepté en ce qui concerne :
 
 _ les communes ou groupes de communes contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés;
 
-(Pour ces communes, une modification aux règles sur l'emploi des langues dans les matières visées au § 3 ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa.) <L 1988-07-15/30, art. 1, E, 012;  En vigueur :  1989-01-01>
+(Pour ces communes, une modification aux règles sur l'emploi des langues dans les matières visées au § 3 ne peut être apportée que par une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa.) `L 1988-07-15/30, art. 1, E, 012;  En vigueur :  1989-01-01`
 
 _ les services dont l'activité s'étend au-delà de la région linguistique dans laquelle ils sont établis;
 
-_ les institutions nationales et internationales désignées par la loi dont l'activité est commune à plus d'une (communauté) <CONST 17 juillet 1980>
+_ les institutions nationales et internationales désignées par la loi dont l'activité est commune à plus d'une (communauté) `CONST 17 juillet 1980`
 
 
-§4. bis. (Les décrets pris en application du § 2bis ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi que, sauf si une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, en dispose autrement, à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leur organisation, doivent être considérée comme appartenant exclusivement à l'une ou à l'autre communauté.) <CONST 17 juillet 1980>
+§4. bis. (Les décrets pris en application du § 2bis ont force de loi respectivement dans la région de langue française et dans la région de langue néerlandaise, ainsi que, sauf si une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, en dispose autrement, à l'égard des institutions établies dans la région bilingue de Bruxelles-Capitale qui, en raison de leur organisation, doivent être considérée comme appartenant exclusivement à l'une ou à l'autre communauté.) `CONST 17 juillet 1980`
 
-(Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, désigne les autorités qui, pour la région bilingue de Bruxelles-Capitale, exercent les compétences non dévolues aux Communautés dans les matières visées au § 2bis.) <L 1988-07-15/31, art. 1, F, 012;  En vigueur :  1989-01-01>
+(Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, désigne les autorités qui, pour la région bilingue de Bruxelles-Capitale, exercent les compétences non dévolues aux Communautés dans les matières visées au § 2bis.) `L 1988-07-15/31, art. 1, F, 012;  En vigueur :  1989-01-01`
 
 
-§5.  (Le droit d'initiative appartient à l'Exécutif et aux membres du Conseil.) <CONST 17 juillet 1980>
+§5.  (Le droit d'initiative appartient à l'Exécutif et aux membres du Conseil.) `CONST 17 juillet 1980`
 
 
 §6.  (Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, fixe le système de financement des Communautés.
 
-Les Conseils de Communauté règlent par décret, chacun en ce qui le concerne, l'affectation de leurs recettes.) <L 1988-07-15/31, art. 1, G, 012;  En vigueur :  1989-01-01>
+Les Conseils de Communauté règlent par décret, chacun en ce qui le concerne, l'affectation de leurs recettes.) `L 1988-07-15/31, art. 1, G, 012;  En vigueur :  1989-01-01`
 
 
 §7.  La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
@@ -630,10 +630,10 @@ Les Conseils de Communauté règlent par décret, chacun en ce qui le concerne, 
 
 §8.  La loi organise la procédure tendant à prévenir et à régler les conflits entre la loi et le décret, ainsi qu'entre les décrets.
 
-Disposition transitoire : (abrogé) <Modification à la Constitution 1992-12-30/44, art. 1, 027;  En vigueur :  1993-03-01>
+Disposition transitoire : (abrogé) `Modification à la Constitution 1992-12-30/44, art. 1, 027;  En vigueur :  1993-03-01`
 
 
-**Art. 59ter.** <CONST 1983-06-01, article unique> § 1er. Il y a un Conseil et un Exécutif de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.
+**Art. 59ter.** `CONST 1983-06-01, article unique` § 1er. Il y a un Conseil et un Exécutif de la Communauté germanophone dont la composition et le fonctionnement sont fixés par la loi.
 
 Le Conseil est composé de mandataires élus.
 
@@ -644,11 +644,11 @@ L'article 45 est applicable aux membres du Conseil.
  1. les matières culturelles;
  2. les matières personnalisables;
  3. l'enseignement, dans les limites fixées par l'article 59bis, § 2, 2°;
- 4. (la coopération entre les Communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées au 1°, 2° et 3° du présent paragraphe.) <DIVERS 1989-06-20/32, art. 1, A, 014;  En vigueur :  1989-07-30>
+ 4. (la coopération entre les Communautés, ainsi que la coopération internationale, y compris la conclusion de traités, pour les matières visées au 1°, 2° et 3° du présent paragraphe.) `DIVERS 1989-06-20/32, art. 1, A, 014;  En vigueur :  1989-07-30`
 
 Ces décrets ont force de loi dans la région de langue allemande.
 
-(La loi arrête les matières culturelles et personnalisables visées aux 1° et 2°, ainsi que les formes de coopération visées au 4° et le mode selon lequel les traités sont conclus.) <DIVERS 1989-06-20/32, art. 1, B, 014;  En vigueur :  1989-07-30>
+(La loi arrête les matières culturelles et personnalisables visées aux 1° et 2°, ainsi que les formes de coopération visées au 4° et le mode selon lequel les traités sont conclus.) `DIVERS 1989-06-20/32, art. 1, B, 014;  En vigueur :  1989-07-30`
 
 
 §3.  Sur proposition de leur Exécutif respectif, le Conseil de la communauté germanophone et le Conseil régional wallon peuvent, par décrets, décider de commun accord que le Conseil et l'Exécutif de la communauté germanophone exercent, dans la région de langue allemande, en tout ou en partie, des compétences de la région wallonne.
@@ -666,20 +666,20 @@ L'article 107 est applicable à ces arrêtés et règlements.
 
 §6.  (Une loi fixe le système de financement de la Communauté germanophone.
 
-Le Conseil règle l'affectation des ressources par décret.) <DIVERS 1989-06-20/32, art. 1, C, 014;  En vigueur :  1989-07-30>
+Le Conseil règle l'affectation des ressources par décret.) `DIVERS 1989-06-20/32, art. 1, C, 014;  En vigueur :  1989-07-30`
 
 
 §7.  La loi arrête les mesures en vue de prévenir toute discrimination pour des raisons idéologiques et philosophiques.
 
 Disposition transitoire.
 
-(abrogé) <DIVERS 1989-06-20/32, art. 1, D, 014;  En vigueur :  1989-07-30>
+(abrogé) `DIVERS 1989-06-20/32, art. 1, D, 014;  En vigueur :  1989-07-30`
 
 
-Section IV- (Des Conseils de Communauté et de Région et de leur Gouvernement.) <inséré par Modification à la Constitution 1993-05-05/45, art. 1,  En vigueur :  1993-05-18>
+Section IV- (Des Conseils de Communauté et de Région et de leur Gouvernement.) `inséré par Modification à la Constitution 1993-05-05/45, art. 1,  En vigueur :  1993-05-18`
 
 
-**Art. 59quater.** <inséré par Modification à la Constitution 1993-05-05/45, art. 1, 046;  En vigueur :  1993-05-18> § 1. Sans préjudice de l'article 59bis, § 1er, deuxième alinéa, les organes régionaux visés à l'article 107quater, comprennent, pour chaque Région, un Conseil et un Gouvernement.
+**Art. 59quater.** `inséré par Modification à la Constitution 1993-05-05/45, art. 1, 046;  En vigueur :  1993-05-18` § 1. Sans préjudice de l'article 59bis, § 1er, deuxième alinéa, les organes régionaux visés à l'article 107quater, comprennent, pour chaque Région, un Conseil et un Gouvernement.
 
 
 §2.  Chaque Conseil de Communauté visé aux articles 59bis, § 1er, premier alinéa, et 59ter, § 1er, premier alinéa, est composé de membres élus directement en qualité de membre du Conseil de Communauté concerné ou en qualité de membre d'une Conseil régional.
@@ -714,7 +714,7 @@ Les prochaines élections des Conseils, conformément aux dispositions de l'arti
 Jusqu'aux prochaines élections pour la Chambre des représentants, l'article 59quater, §§ 2, 3 et 5, n'est pas d'application.
 
 
-**Art. 59quinquies.** <inséré par Modification à la Constitution 1993-05-05/46, art. 1, 047;  En vigueur :  1993-05-18> § 1. Le Conseil de la Communauté française, d'une part, et le Conseil régional wallon et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, d'autre part, peuvent décider de commun accord et chacun par décret que le Conseil et le Gouvernement de la Région wallonne dans la région de langue française et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale et son Collège dans la région bilingue de Bruxelles-Capitale exercent, en tout ou en partie, des compétences de la Communauté française.
+**Art. 59quinquies.** `inséré par Modification à la Constitution 1993-05-05/46, art. 1, 047;  En vigueur :  1993-05-18` § 1. Le Conseil de la Communauté française, d'une part, et le Conseil régional wallon et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, d'autre part, peuvent décider de commun accord et chacun par décret que le Conseil et le Gouvernement de la Région wallonne dans la région de langue française et le groupe linguistique français du Conseil de la Région de Bruxelles-Capitale et son Collège dans la région bilingue de Bruxelles-Capitale exercent, en tout ou en partie, des compétences de la Communauté française.
 
 Ces décrets sont adoptés à la majorité des deux tiers des suffrages exprimés au sein du Conseil de la Communauté française et à la majorité absolue des suffrages exprimés au sein du Conseil régional wallon et du groupe linguistique français du Conseil de la Région de Bruxelles-Capitale, à condition que la majorité des membres du Conseil ou du groupe linguistique compétent soit présente. Ils peuvent régler le financement des compétences qu'ils désignent, ainsi que le transfert du personnel, des biens, droits et obligations qui les concernent.
 
@@ -724,21 +724,21 @@ Ces compétences exercées, suivant le cas, par voie de décrets, d'arrêtés ou
 §2.  Dans les conditions et suivant les modalités déterminées par la loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, le Conseil de la Région de Bruxelles-Capitale transfère, par le règle visée à l'article 26bis, des moyens financiers à la Commission communautaires commune et aux Commissions communautaires française et flamande.
 
 
-**Art. 59sexies.** <inséré par Modification à la Constitution 1993-05-05/47, art. 1, 048;  En vigueur :  1993-05-18> Les Conseils de Communauté et de Région, chacun pour ce qui le concerne, ont le droit d'accuser les membres de leur Gouvernement et de les traduire devant la Cour de cassation, qui seule a le droit de les juger, chambres réunies, sauf ce qui sera statué par la loi quant à l'exercice de l'action civile par la partie lésée et aux crimes et délits que des membres des Gouvernements de Communauté et de Région auraient commis hors l'exercice de leurs fonctions.
+**Art. 59sexies.** `inséré par Modification à la Constitution 1993-05-05/47, art. 1, 048;  En vigueur :  1993-05-18` Les Conseils de Communauté et de Région, chacun pour ce qui le concerne, ont le droit d'accuser les membres de leur Gouvernement et de les traduire devant la Cour de cassation, qui seule a le droit de les juger, chambres réunies, sauf ce qui sera statué par la loi quant à l'exercice de l'action civile par la partie lésée et aux crimes et délits que des membres des Gouvernements de Communauté et de Région auraient commis hors l'exercice de leurs fonctions.
 
 Une loi déterminera les cas de responsabilité, les peines à infliger aux membres des Gouvernements de Communauté et de Région et le mode de procéder contre eux, soit sur l'accusation admise par leur Conseil, soit sur la poursuite des parties lésées.
 
 Les lois visées aux alinéas précédents doivent être adoptées à la majorité prévue à l'article 1er, dernier alinéa.
 
 
-**Art. 59septies.** <inséré par Modification à la Constitution 1993-05-05/48, art. 1, 049;  En vigueur :  1993-05-18> Les dispositions constitutionnelles relatives aux membres des Gouvernements de Communauté et de Région, ainsi que les lois d'application visées à l'article 59sexies, dernier alinéa, s'appliquent aux secrétaires d'Etat régionaux.
+**Art. 59septies.** `inséré par Modification à la Constitution 1993-05-05/48, art. 1, 049;  En vigueur :  1993-05-18` Les dispositions constitutionnelles relatives aux membres des Gouvernements de Communauté et de Région, ainsi que les lois d'application visées à l'article 59sexies, dernier alinéa, s'appliquent aux secrétaires d'Etat régionaux.
 
 ### Chapitre II  _ DU ROI ET DES MINISTRES.
 
 #### Section Ière  _ DU ROI.
 
 
-**Art. 60.** <modification à la Constitution du 21 juin 1991, art. 1, 023;  En vigueur :  20-07-1991> Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, par ordre de primogéniture.
+**Art. 60.** `modification à la Constitution du 21 juin 1991, art. 1, 023;  En vigueur :  20-07-1991` Les pouvoirs constitutionnels du Roi sont héréditaires dans la descendance directe, naturelle et légitime de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, par ordre de primogéniture.
 
 Sera déchu de ses droits à la couronne, le descendant visé à l'alinéa 1er, qui se serait marié sans le consentement du Roi ou de ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution.
 
@@ -757,7 +757,7 @@ Sera déchu de ses droits à la couronne, le prince qui se serait marié sans le
 Toutefois, il pourra être relevé de cette déchéance par le Roi ou par ceux qui, à son défaut, exercent ses pouvoirs dans les cas prévus par la Constitution, et ce moyennant l'assentiment des deux Chambres.
 
 
-**Art. 61.** <Modification à la Constitution du 21-06-1991, art. 1; 022;  En vigueur :  20-07-1991> A défaut de descendance de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, le Roi pourra nommer son successeur avec l'assentiment des Chambres, émis de la manière prescrite par l'article suivant.
+**Art. 61.** `Modification à la Constitution du 21-06-1991, art. 1; 022;  En vigueur :  20-07-1991` A défaut de descendance de S.M. Léopold, Georges, Chrétien, Frédéric de Saxe-Cobourg, le Roi pourra nommer son successeur avec l'assentiment des Chambres, émis de la manière prescrite par l'article suivant.
 
 S'il n'y a pas eu de nomination faite d'après le mode ci-dessus, le trône sera vacant.
 
@@ -779,7 +779,7 @@ Aucune des deux Chambres ne peut délibérer sur cet objet, si deux tiers au moi
 
 Disposition transitoire.
 
-L'alinéa 2 entre en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.) <Modification à la Constitution 1993-05-05/49, art. 1, 050;  En vigueur :  1993-05-18>
+L'alinéa 2 entre en vigueur à partir du prochain renouvellement intégral de la Chambre des représentants.) `Modification à la Constitution 1993-05-05/49, art. 1, 050;  En vigueur :  1993-05-18`
 
 
 **Art. 66.** Il confère les grades dans l'armée.
@@ -792,7 +792,7 @@ Il ne nomme à d'autres emplois qu'en vertu de la disposition expresse d'une loi
 **Art. 67.** Il fait les règlements et arrêtés nécessaires pour l'exécution des lois, sans pouvoir jamais ni suspendre les lois elles-mêmes, ni dispenser de leur exécution.
 
 
-**Art. 68.** <Modification à la Constitution 1993-05-05/50, art. 1, 051;  En vigueur :  1993-05-18> § 1. Le Roi dirige les relations internationales, sans préjudice de la compétence des Communautés et des Régions de régler la coopération internationale, y compris la conclusion des traités, pour les matières qui relèvent de leurs compétences par ou en vertu de la Constitution.
+**Art. 68.** `Modification à la Constitution 1993-05-05/50, art. 1, 051;  En vigueur :  1993-05-18` § 1. Le Roi dirige les relations internationales, sans préjudice de la compétence des Communautés et des Régions de régler la coopération internationale, y compris la conclusion des traités, pour les matières qui relèvent de leurs compétences par ou en vertu de la Constitution.
 
 Il commande les forces armées, et constate l'état de guerre ainsi que la fin des hostilités. Il en donne connaissance aux Chambres aussitôt que l'intérêt et la sûreté de l'Etat le permettent, en y joignant les communications convenables.
 
@@ -834,7 +834,7 @@ Nulle cession, nul échange, nulle adjonction de territoire, ne peut avoir lieu 
 **Art. 69.** Le Roi sanctionne et promulgue les lois.
 
 
-**Art. 70.** (Les Chambres se réunissent de plein droit, chaque année, le deuxième mardi d'octobre, à moins qu'elles n'aient été réunies antérieurement par le Roi.) <CONST 30 juin 1969>
+**Art. 70.** (Les Chambres se réunissent de plein droit, chaque année, le deuxième mardi d'octobre, à moins qu'elles n'aient été réunies antérieurement par le Roi.) `CONST 30 juin 1969`
 
 Les Chambres doivent rester réunies chaque année au moins quarante jours.
 
@@ -843,7 +843,7 @@ Le Roi prononce la clôture de la session.
 Le Roi a le droit de convoquer extraordinairement les Chambres.
 
 
-**Art. 71.** <Modification à la Constitution 1993-05-05/51, art. 1, 052;  En vigueur :  1993-05-18> Le Roi n'a le droit de dissoudre la Chambre des représentants que si celle-ci, à la majorité absolue de ses membres :
+**Art. 71.** `Modification à la Constitution 1993-05-05/51, art. 1, 052;  En vigueur :  1993-05-18` Le Roi n'a le droit de dissoudre la Chambre des représentants que si celle-ci, à la majorité absolue de ses membres :
  1. soit rejette une motion de confiance au Gouvernement et ne propose pas au Roi, dans un délai de trois jours à compter du jour du rejet de la motion, la nomination d'un successeur au Premier Ministre;
  2. soit adopte une motion de méfiance à l'égard du Gouvernement et ne propose pas simultanément au Roi la nomination d'un successeur au Premier Ministre.
 
@@ -863,7 +863,7 @@ Jusqu'au prochain renouvellement intégral de la Chambre des représentants, le 
 **Art. 72.** Le Roi peut ajourner les Chambres. Toutefois, l'ajournement ne peut excéder le terme d'un mois, ni être renouvelé dans la même session sans l'assentiment des Chambres.
 
 
-**Art. 73.** <Modification à la Constitution 1993-05-05/52, art. 1, 053;  En vigueur :  1993-05-18> Il a le droit de réduire ou de remettre les peines prononcées par les juges, sauf ce qui est statué relativement aux ministres et aux membres des Gouvernements de Communauté et de Région.
+**Art. 73.** `Modification à la Constitution 1993-05-05/52, art. 1, 053;  En vigueur :  1993-05-18` Il a le droit de réduire ou de remettre les peines prononcées par les juges, sauf ce qui est statué relativement aux ministres et aux membres des Gouvernements de Communauté et de Région.
 
 
 **Art. 74.** Il a le droit de battre monnaie, en exécution de la loi.
@@ -906,7 +906,7 @@ Il ne prend possession du trône qu'après avoir solennellement prêté, dans le
 Le régent n'entre en fonctions qu'après avoir prêté le serment prescrit par l'article 80.
 
 
-**Art. 84.** <CONST 1984-07-31/33,art. 1, 004> Pendant une régence , aucun changement ne peut être apporté à la Constitution en ce qui concerne les pouvoirs constitutionnels du Roi et les articles 60 à 64 et 80 à 85 de la Constitution.
+**Art. 84.** `CONST 1984-07-31/33,art. 1, 004` Pendant une régence , aucun changement ne peut être apporté à la Constitution en ce qui concerne les pouvoirs constitutionnels du Roi et les articles 60 à 64 et 80 à 85 de la Constitution.
 
 
 **Art. 85.** En cas de vacance du trône, les Chambres, délibérant en commun, pourvoient provisoirement à la régence, jusqu'à la réunion des Chambres intégralement renouvelées; cette réunion a lieu au plus tard dans les deux mois. Les Chambres nouvelles, délibérant en commun, pourvoient définitivement à la vacance.
@@ -914,16 +914,16 @@ Le régent n'entre en fonctions qu'après avoir prêté le serment prescrit par 
 #### Section II  _ DES MINISTRES.
 
 
-**Art. 86.** <CONST 1991-02-01/34, art. 1, 016;  En vigueur :  25-02-1991> Seuls les Belges peuvent être ministres.
+**Art. 86.** `CONST 1991-02-01/34, art. 1, 016;  En vigueur :  25-02-1991` Seuls les Belges peuvent être ministres.
 
 
-**Art. 86bis.** <CONST 24 décembre 1970, article unique> Le Premier Ministre éventuellement excepté, le Conseil des Ministres compte autant de ministres d'expression française que d'expression néerlandaise.
+**Art. 86bis.** `CONST 24 décembre 1970, article unique` Le Premier Ministre éventuellement excepté, le Conseil des Ministres compte autant de ministres d'expression française que d'expression néerlandaise.
 
 
 **Art. 87.** Aucun membre de la famille royale ne peut être ministre.
 
 
-**Art. 88.** <Modification à la Constitution 1993-05-05/53, art. 1, 054;  En vigueur :  1993-05-18> Les ministres sont responsables devant la Chambre des représentants.
+**Art. 88.** `Modification à la Constitution 1993-05-05/53, art. 1, 054;  En vigueur :  1993-05-18` Les ministres sont responsables devant la Chambre des représentants.
 
 Aucun ministre ne peut être poursuivi ou recherché à l'occasion des opinions émises par lui dans l'exercice de ses fonctions.
 
@@ -950,16 +950,16 @@ Les Chambres peuvent requérir la présence des ministres.
 Une loi déterminera les cas de responsabilité, les peines à infliger aux ministres et le mode de procéder contre eux, soit sur l'accusation admise par la Chambre des Représentants, soit sur la poursuite des parties lésées.
 
 
-**Art. 91.** <Modification à la Constitution 1993-05-05/54, art. 1, 055;  En vigueur :  1993-05-18> Le Roi ne peut faire grâce au ministre condamné par la Cour de cassation et au membre d'un Gouvernement de Communauté ou de Région condamné par la Cour de cassation, que sur la demande de la Chambre des représentants ou du Conseil concerné.
+**Art. 91.** `Modification à la Constitution 1993-05-05/54, art. 1, 055;  En vigueur :  1993-05-18` Le Roi ne peut faire grâce au ministre condamné par la Cour de cassation et au membre d'un Gouvernement de Communauté ou de Région condamné par la Cour de cassation, que sur la demande de la Chambre des représentants ou du Conseil concerné.
 
 Disposition transitoire.
 
 Jusqu'au prochain renouvellement intégral de la Chambre des représentants, le Roi ne peut faire grâce à un ministre condamné par la Cour de cassation et à un membre d'un Gouvernement de Communauté ou de Région condamné par la Cour de cassation que sur la demande de l'une des deux Chambres ou du Conseil concerné.
 
-#### Section III  _ <CONST 24-12-1970, article unique> DES SECRETAIRES D'ETAT.
+#### Section III  _ `CONST 24-12-1970, article unique` DES SECRETAIRES D'ETAT.
 
 
-**Art. 91bis.** <CONST 24 décembre 1970>. Le Roi nomme et révoque les secrétaires d'Etat.
+**Art. 91bis.** `CONST 24 décembre 1970`. Le Roi nomme et révoque les secrétaires d'Etat.
 
 Ceux-ci sont membres du Gouvernement. Ils ne font pas partie du Conseil des Ministres. Ils sont adjoints à un ministre.
 
@@ -981,7 +981,7 @@ Les dispositions constitutionnelles qui concernent les ministres leur sont appli
 
 **Art. 95.** Il y a pour toute la Belgique une Cour de cassation.
 
-Cette cour ne connaît pas du fond des affaires, (sauf le jugement des ministres et des membres des Gouvernements de Communauté et de Région.) <Modification à la Constitution 1993-05-05/55, art. 1, 056;  En vigueur :  1993-05-18>
+Cette cour ne connaît pas du fond des affaires, (sauf le jugement des ministres et des membres des Gouvernements de Communauté et de Région.) `Modification à la Constitution 1993-05-05/55, art. 1, 056;  En vigueur :  1993-05-18`
 
 
 **Art. 96.** Les audiences des tribunaux sont publiques, à moins que cette publicité ne soit dangereuse pour l'ordre ou les moeurs; et, dans ce cas, le tribunal le déclare par un jugement.
@@ -997,9 +997,9 @@ En matière de délits politiques et de presse, le huis-clos ne peut être prono
 
 **Art. 99.** Les juges de paix et les juges des tribunaux sont directement nommés par le Roi.
 
-(Les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux et le Conseil de la Région de Bruxelles-Capitale, selon le cas.) <Modification à la Constitution 1993-05-05/56, art. 1, 057;  En vigueur :  1993-05-18>
+(Les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux et le Conseil de la Région de Bruxelles-Capitale, selon le cas.) `Modification à la Constitution 1993-05-05/56, art. 1, 057;  En vigueur :  1993-05-18`
 
-(Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par la Cour de cassation, l'autre alternativement par la Chambre des représentants et par le Sénat.) <Modification à la Constitution 1993-05-05/56, art. 1, 057;  En vigueur :  1993-05-18>
+(Les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par la Cour de cassation, l'autre alternativement par la Chambre des représentants et par le Sénat.) `Modification à la Constitution 1993-05-05/56, art. 1, 057;  En vigueur :  1993-05-18`
 
 Dans ces deux cas, les candidats portés sur une des listes peuvent également être portés sur l'autre.
 
@@ -1011,10 +1011,10 @@ Les Cours choisissent dans leur sein leurs présidents et vice-présidents.
 
 Jusqu'au 31 décembre 1994, les conseillers des cours d'appel et les présidents et vice-présidents des tribunaux de première instance de leur ressort sont nommés par le Roi, sur deux listes doubles, présentées l'une par ces cours, l'autre par les conseils provinciaux.
 
-Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par le Sénat, l'autre par la Cour de cassation.) <Modification à la Constitution 1993-05-05/56, art. 1, 057;  En vigueur :  1993-05-18>
+Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les conseillers de la Cour de cassation sont nommés par le Roi, sur deux listes doubles, présentées l'une par le Sénat, l'autre par la Cour de cassation.) `Modification à la Constitution 1993-05-05/56, art. 1, 057;  En vigueur :  1993-05-18`
 
 
-**Art. 100.** Les juges sont nommés à vie. (Ils sont mis à la retraite à un âge déterminé par la loi et bénéficient de la pension prévue par la loi.) <CONST 23 janvier 1981, article unique>
+**Art. 100.** Les juges sont nommés à vie. (Ils sont mis à la retraite à un âge déterminé par la loi et bénéficient de la pension prévue par la loi.) `CONST 23 janvier 1981, article unique`
 
 Aucun juge ne peut être privé de sa place ni suspendu que par un jugement.
 
@@ -1030,8 +1030,8 @@ Le déplacement d'un juge ne peut avoir lieu que par une nomination nouvelle et 
 **Art. 103.** Aucun juge ne peut accepter du gouvernement des fonctions salariées, à moins qu'il ne les exerce gratuitement et sauf les cas d'incompatibilité déterminés par la loi.
 
 
-**Art. 104.** <CONST 11 juin 1970, article unique> Il y a cinq cours d'appel en Belgique :
- 1. (celle de Bruxelles, dont le ressort comprend les provinces du Brabant flamand, du Brabant wallon et la région bilingue de Bruxelles-Capitale;) <Modification à la Constitution 1993-05-05/57, art. 1, 058;  En vigueur :  1993-05-18>
+**Art. 104.** `CONST 11 juin 1970, article unique` Il y a cinq cours d'appel en Belgique :
+ 1. (celle de Bruxelles, dont le ressort comprend les provinces du Brabant flamand, du Brabant wallon et la région bilingue de Bruxelles-Capitale;) `Modification à la Constitution 1993-05-05/57, art. 1, 058;  En vigueur :  1993-05-18`
  2. celle de Gand, dont le ressort comprend les provinces de Flandre occidentale et de Flandre orientale;
  3. celle d'Anvers, dont le ressort comprend les provinces d'Anvers et de Limbourg;
  4. celle de Liège, dont le ressort comprend les provinces de Liège, de Namur et de Luxembourg;
@@ -1039,14 +1039,14 @@ Le déplacement d'un juge ne peut avoir lieu que par une nomination nouvelle et 
 
 (Disposition transitoire :
 
-Jusqu'au 31 décembre 1994, le ressort de la Cour d'appel de Bruxelles comprend la province de Brabant.) <Modification à la Constitution 1993-05-05/57, art. 1, 058;  En vigueur :  1993-05-18>
+Jusqu'au 31 décembre 1994, le ressort de la Cour d'appel de Bruxelles comprend la province de Brabant.) `Modification à la Constitution 1993-05-05/57, art. 1, 058;  En vigueur :  1993-05-18`
 
 
 **Art. 105.** Des lois particulières règlent l'organisation des tribunaux militaires, leurs attributions, les droits et obligations des membres de ces tribunaux, et la durée de leurs fonctions.
 
 Il y a des tribunaux de commerce dans les lieux déterminés par la loi. Elle règle leur organisation, leurs attributions, le mode de nomination de leurs membres, et la durée des fonctions de ces derniers.
 
-(La loi règle aussi l'organisation des juridictions de travail, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.) <CONST 21 avril 1970, article unique>
+(La loi règle aussi l'organisation des juridictions de travail, leurs attributions, le mode de nomination de leurs membres et la durée des fonctions de ces derniers.) `CONST 21 avril 1970, article unique`
 
 
 **Art. 106.** La Cour de cassation prononce sur les conflits d'attribution, d'après le mode réglé par la loi.
@@ -1055,10 +1055,10 @@ Il y a des tribunaux de commerce dans les lieux déterminés par la loi. Elle r�
 **Art. 107.** Les cours et tribunaux n'appliqueront les arrêtés et règlements généraux, provinciaux et locaux, qu'autant qu'ils seront conformes aux lois.
 
 
-CHAPITRE IIIbis. _ <CONST 29 juillet 1980, article unique> PREVENTIONS ET REGLEMENT DE CONFLITS.
+CHAPITRE IIIbis. _ `CONST 29 juillet 1980, article unique` PREVENTIONS ET REGLEMENT DE CONFLITS.
 
 
-**Art. 107ter.** <CONST 29 juillet 1980, article unique>. § 1er. La loi organise la procédure tendant à prévenir les conflits entre la loi, le décret et les règles visées à l'article 26bis, ainsi qu'entre les décrets entre eux et entre les règles visées à l'article 26bis entre elles.
+**Art. 107ter.** `CONST 29 juillet 1980, article unique`. § 1er. La loi organise la procédure tendant à prévenir les conflits entre la loi, le décret et les règles visées à l'article 26bis, ainsi qu'entre les décrets entre eux et entre les règles visées à l'article 26bis entre elles.
 
 
 §2.  (Il y a, pour toute la Belgique, une Cour d'arbitrage, dont la composition, la compétence et le fonctionnement sont déterminés par la loi.
@@ -1070,12 +1070,12 @@ Cette Cour statue par voie d'arrêt sur :
 
 La Cour peut être saisie par toute autorité que la loi désigne, par toute personne justifiant d'un intérêt ou, à titre préjudiciel, par toute juridiction.
 
-Les lois visées au premier alinéa, au deuxième alinéa, 3°, et au troisième alinéa, sont adoptées à la majorité prévue à l'article 1er, dernier alinéa.) <L 1988-07-15/32, art. 1, A, 013;  En vigueur :  1989-01-17>
+Les lois visées au premier alinéa, au deuxième alinéa, 3°, et au troisième alinéa, sont adoptées à la majorité prévue à l'article 1er, dernier alinéa.) `L 1988-07-15/32, art. 1, A, 013;  En vigueur :  1989-01-17`
 
-DISPOSITION TRANSITOIRE (abrogé) <Modification à la Constitution 1992-12-30/45, art. 1, 028;  En vigueur :  1993-03-01>
+DISPOSITION TRANSITOIRE (abrogé) `Modification à la Constitution 1992-12-30/45, art. 1, 028;  En vigueur :  1993-03-01`
 
 
-**Art. 107terbis.** (107ter-bis) <inséré par Modification à la Constitution 1993-05-05/58, art. 1, 059;  En vigueur :  1993-05-18> § 1. Dans l'exercice de leurs compétences respectives, l'Etat fédéral, les Communautés, les Régions et la Commission communautaire commune agissent dans le respect de la loyauté fédérale, en vue d'éviter des conflits d'intérêts.
+**Art. 107terbis.** (107ter-bis) `inséré par Modification à la Constitution 1993-05-05/58, art. 1, 059;  En vigueur :  1993-05-18` § 1. Dans l'exercice de leurs compétences respectives, l'Etat fédéral, les Communautés, les Régions et la Commission communautaire commune agissent dans le respect de la loyauté fédérale, en vue d'éviter des conflits d'intérêts.
 
 
 §2.  Le Sénat se prononce, par voie d'avis motivé, sur les conflits d'intérêts entre les assemblées qui légifèrent par voie de loi, de décret et de règle visée à l'article 26bis, dans les conditions et suivant les modalités qu'une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, détermine.
@@ -1088,20 +1088,20 @@ Disposition transitoire.
 Pour ce qui concerne la prévention et le règlement des conflits d'intérêts, la loi ordinaire du 9 août 1980 de réformes institutionnelles reste d'application; elle ne peut toutefois être abrogée, complétée, modifiée ou remplacée que par les lois visées à l'article 107ter-bis, §§ 2 et 3.
 
 
-CHAPITRE IIIter. _ <CONST 24 décembre 1970, article unique> DES INSTITUTIONS REGIONALES.
+CHAPITRE IIIter. _ `CONST 24 décembre 1970, article unique` DES INSTITUTIONS REGIONALES.
 
 
-**Art. 107quater.** <CONST 24 décembre 1970, article unique>. La Belgique comprend trois régions : la région wallonne, la région flamande et la région bruxelloise.
+**Art. 107quater.** `CONST 24 décembre 1970, article unique`. La Belgique comprend trois régions : la région wallonne, la région flamande et la région bruxelloise.
 
 La loi attribue aux organes régionaux qu'elle crée et qui sont composés de mandataires élus, la compétence de régler les matières qu'elle détermine, à l'exception de celles visées aux articles 23 et 59bis, dans le ressort et selon le mode qu'elle établit.
 
 Cette loi doit être adoptée à la majorité des suffrages dans chaque groupe linguistique de chacune des Chambres, à la condition que la majorité des membres de chaque groupe se trouve réunie et pour autant que le total des votes positifs émis dans les deux groupes linguistiques atteigne les deux tiers des suffrages exprimés.
 
 
-CHAPITRE IIIquater. _ Du Conseil d'Etat et des juridictions administratives. <inséré par Modification à la Constitution 1993-06-18/31, art. 1,  En vigueur :  1993-07-09>
+CHAPITRE IIIquater. _ Du Conseil d'Etat et des juridictions administratives. `inséré par Modification à la Constitution 1993-06-18/31, art. 1,  En vigueur :  1993-07-09`
 
 
-**Art. 107quinquies.** <inséré par Modification à la Constitution 1993-06-18/31, art. 1,  En vigueur :  1993-07-09> Il y a pour toute la Belgique un Conseil d'Etat, dont la composition, la compétence et le fonctionnement sont déterminés par la loi. Toutefois, la loi peut attribuer au Roi le pouvoir de régler la procédure conformément aux principes qu'elle fixe.
+**Art. 107quinquies.** `inséré par Modification à la Constitution 1993-06-18/31, art. 1,  En vigueur :  1993-07-09` Il y a pour toute la Belgique un Conseil d'Etat, dont la composition, la compétence et le fonctionnement sont déterminés par la loi. Toutefois, la loi peut attribuer au Roi le pouvoir de régler la procédure conformément aux principes qu'elle fixe.
 
 Le Conseil d'Etat statue par voie d'arrêt en tant que juridiction administrative et donne des avis dans les cas déterminés par la loi.
 
@@ -1110,7 +1110,7 @@ Aucune juridiction administrative ne peut être établie qu'en vertu d'une loi.
 ### Chapitre IV  _ DES INSTITUTIONS PROVINCIALES OU COMMUNALES.
 
 
-**Art. 108.** <CONST 20 juillet 1970, art. unique> Les institutions provinciales et communales sont réglées par la loi.
+**Art. 108.** `CONST 20 juillet 1970, art. unique` Les institutions provinciales et communales sont réglées par la loi.
 
 La loi consacre l'application des principes suivants :
  1. l'élection directe des membres des conseils provinciaux et communaux;
@@ -1120,12 +1120,12 @@ La loi consacre l'application des principes suivants :
  5. la publicité des budgets et des comptes;
  6. l'intervention de l'autorité de tutelle ou du pouvoir législatif, pour empêcher que la loi ne soit violée ou l'intérêt général blessé.
 
-(En exécution d'une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Conseils de la communauté ou de la région.) <CONST 17-7-1980, article unique>
+(En exécution d'une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, l'organisation et l'exercice de la tutelle administrative peuvent être réglés par les Conseils de la communauté ou de la région.) `CONST 17-7-1980, article unique`
 
-(En exécution d'une loi adoptée à la majorité déterminée à l'article 1er, dernier alinéa, le décret ou la règle visée à l'article 26bis règle les conditions et le mode suivant lesquels plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer.) Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun. <Modification à la Constitution 1993-05-05/59, art. 1, 060;  En vigueur :  1993-05-18>
+(En exécution d'une loi adoptée à la majorité déterminée à l'article 1er, dernier alinéa, le décret ou la règle visée à l'article 26bis règle les conditions et le mode suivant lesquels plusieurs provinces ou plusieurs communes peuvent s'entendre ou s'associer.) Toutefois, il ne peut être permis à plusieurs conseils provinciaux ou à plusieurs conseils communaux de délibérer en commun. `Modification à la Constitution 1993-05-05/59, art. 1, 060;  En vigueur :  1993-05-18`
 
 
-**Art. 108bis.** <CONST 24 décembre 1970>. § 1. La loi crée des agglomérations et des fédérations de communes. Elle détermine leur organisation et leur compétence en consacrant l'application des principes énoncés à l'article 108.
+**Art. 108bis.** `CONST 24 décembre 1970`. § 1. La loi crée des agglomérations et des fédérations de communes. Elle détermine leur organisation et leur compétence en consacrant l'application des principes énoncés à l'article 108.
 
 Il y a pour chaque agglomération et pour chaque fédération un conseil et un collège exécutif.
 
@@ -1142,10 +1142,10 @@ Les limites des agglomérations et des fédérations de communes ne peuvent êtr
 §3.  Plusieurs fédérations de communes peuvent s'entendre ou s'associer entre elles ou avec une ou plusieurs agglomérations dans les conditions et suivant le mode à déterminer par la loi pour régler et gérer en commun des objets qui relèvent de leur compétence. Il n'est pas permis à leurs conseils de délibérer en commun.
 
 
-**Art. 108ter.** <CONST 24 décembre 1970, art. unique>. § 1er. L'article 108bis s'applique à l'agglomération à laquelle appartient la capitale du Royaume, sous réserve de ce qui est prévu ci-après.
+**Art. 108ter.** `CONST 24 décembre 1970, art. unique`. § 1er. L'article 108bis s'applique à l'agglomération à laquelle appartient la capitale du Royaume, sous réserve de ce qui est prévu ci-après.
 
 
-§2.  (Les compétences de l'agglomération à laquelle la capitale du Royaume appartient sont, de la manière déterminée par une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, exercées par les organes de la Région de Bruxelles-Capitale créés en vertu de l'article 107quater.) <L 1988-07-07/32, art. 1, A, 009;  En vigueur :  1989-01-01>
+§2.  (Les compétences de l'agglomération à laquelle la capitale du Royaume appartient sont, de la manière déterminée par une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, exercées par les organes de la Région de Bruxelles-Capitale créés en vertu de l'article 107quater.) `L 1988-07-07/32, art. 1, A, 009;  En vigueur :  1989-01-01`
 
 
 §3.  (Il y a des groupes linguistiques du Conseil de la Région de Bruxelles-Capitale et des Collèges, compétents pour les matières communautaires; leur composition, fonctionnement, compétences et, sans préjudice de l'article 59bis, § 6, leur financement, sont réglés par une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa.
@@ -1155,18 +1155,18 @@ Ces organes :
  2. exercent, chacun pour sa communauté, les compétences qui leur sont déléguées par les Conseils de Communautés;
  3. règlent conjointement les matières visées au 1° qui sont d'intérêt commun.
 
-Les Collèges forment ensemble le Collège réuni qui fait fonction d'organe de concertation et de coordination entre les deux communautés.) <L 1988-07-07/32, art. 1, A, 009;  En vigueur :  1989-01-01>
+Les Collèges forment ensemble le Collège réuni qui fait fonction d'organe de concertation et de coordination entre les deux communautés.) `L 1988-07-07/32, art. 1, A, 009;  En vigueur :  1989-01-01`
 
 
-§4.  (abrogé) <L 1988-07-07/32, art. 1, B, 009;  En vigueur :  1989-01-01>
+§4.  (abrogé) `L 1988-07-07/32, art. 1, B, 009;  En vigueur :  1989-01-01`
 
 
-§5.  (abrogé) <L 1988-07-07/32, art. 1, B, 009;  En vigueur :  1989-01-01>
+§5.  (abrogé) `L 1988-07-07/32, art. 1, B, 009;  En vigueur :  1989-01-01`
 
 
-§6.  (abrogé) <L 1988-07-07/32, art. 1, B, 009;  En vigueur :  1989-01-01>
+§6.  (abrogé) `L 1988-07-07/32, art. 1, B, 009;  En vigueur :  1989-01-01`
 
-Disposition transitoire (abrogé) <Modification à la Constitution 1992-12-30/46, art. 1, 029;  En vigueur :  1993-02-26>
+Disposition transitoire (abrogé) `Modification à la Constitution 1992-12-30/46, art. 1, 029;  En vigueur :  1993-02-26`
 
 
 **Art. 109.** La rédaction des actes de l'état civil et la tenue des registres sont exclusivement dans les attributions des autorités communales.
@@ -1174,7 +1174,7 @@ Disposition transitoire (abrogé) <Modification à la Constitution 1992-12-30/46
 ## Titre IV  _ DES FINANCES.
 
 
-**Art. 110.** <CONST 29 juillet 1980, art. unique>. § 1er. Aucun impôt au profit de l'Etat ne peut être établi que par une loi.
+**Art. 110.** `CONST 29 juillet 1980, art. unique`. § 1er. Aucun impôt au profit de l'Etat ne peut être établi que par une loi.
 
 
 §2.  Aucun impôt au profit de la communauté ou de la région ne peut être établi que par un décret ou une règle visée à l'article 26bis.
@@ -1194,7 +1194,7 @@ La loi peut supprimer en tout ou en partie les impositions visées à l'alinéa 
 La loi détermine relativement aux impositions visées à l'alinéa précédent, les exceptions dont la nécessité est démontrée.
 
 
-**Art. 111.** <CONST 29 juillet 1980> Les impôts au profit de l'Etat, de la communauté et de la région sont votés annuellement.
+**Art. 111.** `CONST 29 juillet 1980` Les impôts au profit de l'Etat, de la communauté et de la région sont votés annuellement.
 
 Les règles qui les établissent n'ont de force que pour un an si elles ne sont renouvelées.
 
@@ -1204,37 +1204,37 @@ Les règles qui les établissent n'ont de force que pour un an si elles ne sont 
 Nulle exemption ou modération d'impôt ne peut être établie que par une loi.
 
 
-**Art. 113.** <CONST 29 juillet 1980> Hors les provinces, les polders et wateringues et les cas formellement exceptés par la loi, le décret et les règles visés à l'article 26bis, aucune rétribution ne peut être exigée des citoyens qu'à titre d'impôt au profit de l'Etat, de la communauté, de la région, de l'agglomération, de la fédération de communes ou de la commune.
+**Art. 113.** `CONST 29 juillet 1980` Hors les provinces, les polders et wateringues et les cas formellement exceptés par la loi, le décret et les règles visés à l'article 26bis, aucune rétribution ne peut être exigée des citoyens qu'à titre d'impôt au profit de l'Etat, de la communauté, de la région, de l'agglomération, de la fédération de communes ou de la commune.
 
 
 **Art. 114.** Aucune pension, aucune gratification à la charge du trésor public, ne peut être accordée qu'en vertu d'une loi.
 
 
-**Art. 115.** (Chaque année, la Chambre des représentants arrête la loi des comptes et vote le budget. Toutefois, la Chambre des représentants et le Sénat fixent annuellement, chacun en ce qui le concerne, leur dotation de fonctionnement.) <Modification à la Constitution 1993-05-05/60, art. 1, 061;  En vigueur :  1993-05-18>
+**Art. 115.** (Chaque année, la Chambre des représentants arrête la loi des comptes et vote le budget. Toutefois, la Chambre des représentants et le Sénat fixent annuellement, chacun en ce qui le concerne, leur dotation de fonctionnement.) `Modification à la Constitution 1993-05-05/60, art. 1, 061;  En vigueur :  1993-05-18`
 
 Toutes les recettes et dépenses de l'Etat doivent être portées au budget et dans les comptes.
 
-(Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, fixe le système de financement des Régions prévues à l'article 107quater. Les organes de ces Régions déterminent, chacun pour ce qui le concerne, la destination de leurs recettes par les règles prévues à l'article 26bis.) <L 1988-07-07/33, art. 1, 010;  En vigueur :  1988-07-19>
+(Une loi adoptée à la majorité prévue à l'article 1er, dernier alinéa, fixe le système de financement des Régions prévues à l'article 107quater. Les organes de ces Régions déterminent, chacun pour ce qui le concerne, la destination de leurs recettes par les règles prévues à l'article 26bis.) `L 1988-07-07/33, art. 1, 010;  En vigueur :  1988-07-19`
 
 Disposition transitoire.
 
-(Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les Chambres arrêtent, chaque année, la loi des comptes et votent le budget.) <Modification à la Constitution 1993-05-05/60, art. 1, 061;  En vigueur :  1993-05-18>
+(Jusqu'au prochain renouvellement intégral de la Chambre des représentants, les Chambres arrêtent, chaque année, la loi des comptes et votent le budget.) `Modification à la Constitution 1993-05-05/60, art. 1, 061;  En vigueur :  1993-05-18`
 
 
 **Art. 116.** Les membres de la Cour des comptes sont nommés par la Chambre des Représentants et pour le terme fixé par la loi.
 
-Cette Cour est chargée de l'examen et de la liquidation des comptes de l'administration générale et de tous comptables envers le trésor public. Elle veille à ce qu'aucun article des dépenses du budget ne soit dépassé et qu'aucun transfert n'ait lieu. (La Cour exerce également un contrôle général sur les opérations relatives à l'établissement et au recouvrement des droits acquis par l'Etat, y compris les recettes fiscales.) Elle arrête les comptes des différentes administrations de l'Etat et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l'Etat est soumis (à la Chambre des représentants) avec les observations de la Cour des comptes. <Modification à la Constitution 1993-05-05/61, art. 1, 062;  En vigueur :  1993-05-18>
+Cette Cour est chargée de l'examen et de la liquidation des comptes de l'administration générale et de tous comptables envers le trésor public. Elle veille à ce qu'aucun article des dépenses du budget ne soit dépassé et qu'aucun transfert n'ait lieu. (La Cour exerce également un contrôle général sur les opérations relatives à l'établissement et au recouvrement des droits acquis par l'Etat, y compris les recettes fiscales.) Elle arrête les comptes des différentes administrations de l'Etat et est chargée de recueillir à cet effet tout renseignement et toute pièce comptable nécessaire. Le compte général de l'Etat est soumis (à la Chambre des représentants) avec les observations de la Cour des comptes. `Modification à la Constitution 1993-05-05/61, art. 1, 062;  En vigueur :  1993-05-18`
 
 Cette Cour est organisée par une loi.
 
 (Disposition transitoire :
 
-Jusqu'au prochain renouvellement intégral de la Chambre des représentants, la Cour des comptes soumet le compte général de l'Etat, avec ses observations, à la Chambre des représentants et au Sénat.) <Modification à la Constitution 1993-05-05/61, art. 1, 062;  En vigueur :  1993-05-18>
+Jusqu'au prochain renouvellement intégral de la Chambre des représentants, la Cour des comptes soumet le compte général de l'Etat, avec ses observations, à la Chambre des représentants et au Sénat.) `Modification à la Constitution 1993-05-05/61, art. 1, 062;  En vigueur :  1993-05-18`
 
 
 **Art. 117.** Les traitements et pensions des ministres des cultes sont à charge de l'Etat; les sommes nécessaires pour y faire face sont annuellement portées au budget.
 
-(Les traitements et pensions des délégués des organisations reconnues par la loi qui offrent une assistance morale selon une conception philosophique non confessionnelle sont à la charge de l'Etat; les sommes nécessaires pour y faire face sont annuellement portées au budget de l'Etat.) <Modification à la Constitution 1993-05-05/62, art. 1, 063;  En vigueur :  1993-05-18>
+(Les traitements et pensions des délégués des organisations reconnues par la loi qui offrent une assistance morale selon une conception philosophique non confessionnelle sont à la charge de l'Etat; les sommes nécessaires pour y faire face sont annuellement portées au budget de l'Etat.) `Modification à la Constitution 1993-05-05/62, art. 1, 063;  En vigueur :  1993-05-18`
 
 ## Titre V  _ DE LA FORCE PUBLIQUE.
 
@@ -1251,10 +1251,10 @@ Jusqu'au prochain renouvellement intégral de la Chambre des représentants, la 
 **Art. 121.** Aucune troupe étrangère ne peut être admise au service de l'Etat, occuper ou traverser le territoire, qu'en vertu d'une loi.
 
 
-**Art. 122.** (Abrogé) <CONST 1984-07-31/32,art. 1, 003>
+**Art. 122.** (Abrogé) `CONST 1984-07-31/32,art. 1, 003`
 
 
-**Art. 123.** (Abrogé) <CONST 24 août 1921>
+**Art. 123.** (Abrogé) `CONST 24 août 1921`
 
 
 **Art. 124.** Les militaires ne peuvent être privés de leurs grades, honneurs et pensions, que de la manière déterminée par la loi.
@@ -1293,33 +1293,33 @@ Ces Chambres statuent de commun accord avec le Roi, sur les points soumis à la 
 Dans ce cas, les Chambres ne pourront délibérer, si deux tiers au moins des membres qui composent chacune d'elles ne sont présents; et nul changement ne sera adopté, s'il ne réunit au moins les deux tiers des suffrages.
 
 
-**Art. 131bis.** <CONST 15 janvier 1968> Aucune révision de la Constitution ne peut être engagée ni poursuivi en temps de guerre ou lorsque les Chambres se trouvent empêchées de se réunir librement sur le territoire national.
+**Art. 131bis.** `CONST 15 janvier 1968` Aucune révision de la Constitution ne peut être engagée ni poursuivi en temps de guerre ou lorsque les Chambres se trouvent empêchées de se réunir librement sur le territoire national.
 
 ## Titre VIII  _ DISPOSITIONS TRANSITOIRES.
 
 
-**Art. 132.** <Modification à la Constitution 1993-05-05/63, art. 1, 064;  En vigueur :  1993-05-18> De commun accord avec le Roi, les Chambres constituantes peuvent adapter la numérotation des articles et des subdivisions des articles de la Constitution ainsi que les subdivisions de celle-ci en titres, chapitres et sections, modifier la terminologie des dispositions non soumises à révision pour les mettre en concordance avec la terminologie des nouvelles dispositions et assurer la concordance entre les textes français, néerlandais et allemand de la Constitution.
+**Art. 132.** `Modification à la Constitution 1993-05-05/63, art. 1, 064;  En vigueur :  1993-05-18` De commun accord avec le Roi, les Chambres constituantes peuvent adapter la numérotation des articles et des subdivisions des articles de la Constitution ainsi que les subdivisions de celle-ci en titres, chapitres et sections, modifier la terminologie des dispositions non soumises à révision pour les mettre en concordance avec la terminologie des nouvelles dispositions et assurer la concordance entre les textes français, néerlandais et allemand de la Constitution.
 
 Dans ce cas, les Chambres ne pourront délibérer, si deux tiers au moins des membres qui composent chacune d'elles ne sont présents; et les changements ne seront adoptés que si l'ensemble des adaptations réunit au moins les deux tiers des suffrages exprimés.
 
 
-**Art. 133.** (Abrogé) <CONST 1984-07-31/31,art. 1er, 002>
+**Art. 133.** (Abrogé) `CONST 1984-07-31/31,art. 1er, 002`
 
 
-**Art. 134.** <Modification à la Constitution 1993-05-05/64, art. 1, 065;  En vigueur :  1993-05-18> Jusqu'à ce qu'il y soit pourvu par la loi visée à l'article 90, deuxième alinéa, la Chambre des représentants aura un pouvoir discrétionnaire pour accuser un ministre, et la Cour de cassation pour le juger, dans les cas et moyennant application des peines prévues par les lois pénales.
+**Art. 134.** `Modification à la Constitution 1993-05-05/64, art. 1, 065;  En vigueur :  1993-05-18` Jusqu'à ce qu'il y soit pourvu par la loi visée à l'article 90, deuxième alinéa, la Chambre des représentants aura un pouvoir discrétionnaire pour accuser un ministre, et la Cour de cassation pour le juger, dans les cas et moyennant application des peines prévues par les lois pénales.
 
 Jusqu'à ce qu'il y soit pourvu par la loi visée à l'article 59sexies, deuxième alinéa, le Conseil de Communauté et de Région aura un pouvoir discrétionnaire pour accuser un membre de son gouvernement, et la Cour de cassation pour le juger, dans les cas et moyennant application des peines prévues par les lois pénales.
 
 Les articles 59sexies et 134, alinéa deux, sont d'application pour les faits postérieurs à l'entrée en vigueur de ces articles.
 
 
-**Art. 135.** (abrogé) <DIVERS 1991-04-17/33, art. 1, 021;  En vigueur :  1991-05-13>
+**Art. 135.** (abrogé) `DIVERS 1991-04-17/33, art. 1, 021;  En vigueur :  1991-05-13`
 
 
-**Art. 136.** (Abrogé) <CONST 21 avril 1970>
+**Art. 136.** (Abrogé) `CONST 21 avril 1970`
 
 
-**Art. 137.** (abrogé) <DIVERS 1991-07-15/33, art. 1, 024;  En vigueur :  1991-09-03>
+**Art. 137.** (abrogé) `DIVERS 1991-07-15/33, art. 1, 024;  En vigueur :  1991-09-03`
 
 
 **Art. 138.** A compter du jour où la Constitution sera exécutoire, toutes les lois, décrets, arrêtés, règlements et autres actes qui y sont contraires, sont abrogés.
@@ -1328,8 +1328,8 @@ Les articles 59sexies et 134, alinéa deux, sont d'application pour les faits po
 DISPOSITIONS SUPPLEMENTAIRES.
 
 
-**Art. 139.** (Abrogé) <CONST 14 juin 1971, art. unique>
+**Art. 139.** (Abrogé) `CONST 14 juin 1971, art. unique`
 
 
-**Art. 140.** <Modification du 23-10-1991, 025,  En vigueur :  11-11-1991> Le texte de la Constitution est établi en français, en néerlandais et en allemand.
+**Art. 140.** `Modification du 23-10-1991, 025,  En vigueur :  11-11-1991` Le texte de la Constitution est établi en français, en néerlandais et en allemand.
 
