@@ -1,0 +1,3234 @@
+---
+lang: fra
+dtype: loi
+url: http://www.ejustice.just.fgov.be/eli/loi/1836/04/30/1836043001/justel
+dateString: 30 AVRIL 1836
+title: Loi provinciale
+subTitle: LIVRE II, TITRE VII. (Art. 589 à 648)
+pubDate: 27-11-1891
+startDate: 01-01-2014
+number: 1836043001
+updated: 
+source: JUSTICE
+
+---
+# TITRE I. - Des autorités provinciales.
+
+
+**Art. 1.**Il y a dans chaque province un conseil provincial (, une députation permanente et un gouverneur). `L 1997-06-25/34, art. 2,  En vigueur :  15-07-1997`
+
+
+Art. 1_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006` 
+
+
+**Art. 1bis.**`Inséré par L 1921-10-19/30, art. 42, MB 19-10-1921` Le conseil provincial est composé de :
+
+(47) membres dans les provinces de moins de 250 000 habitants;
+
+(56) membres dans les provinces de 250 000 à 500 000 habitants;
+
+(65) membres dans les provinces de 500 000 à 750 000 habitants;
+
+(75) membres dans les provinces de 750 000 à 1 000 000 d'habitants;
+
+(84) membres dans les provinces de 1 000 000 d'habitants et au-dessus. `L 1993-07-16/31, art. 219, 1°,  En vigueur :  21-05-1995`
+
+(Toutefois le nombre de conseillers de la province de Liège restera fixé à (80) aussi longtemps que le chiffre de la population de cette province sera supérieur à 750 000 et inférieur à 1 000 000 d'habitants.) `L 11-04-1936, art. 1, MB 16-04-1936` `L 1993-07-16/31, art. 219, 2°,  En vigueur :  21-05-1995`
+
+(Le nombre de conseillers est mis en rapport avec la population par le Roi lors de chaque renouvellement intégral des conseils provinciaux. Le nombre d'habitants par province à prendre en considération est le nombre de personnes inscrites au Registre national des personnes physiques ayant leur résidence principale dans les communes de la province concernée à la date du 1er janvier de l'année précédant celle du renouvellement intégral.
+
+Ces chiffres de la population, par commune et par province, sont publiés au Moniteur belge par les soins du Ministre de l'Intérieur.
+
+Les chiffres de la population déterminés de la manière prévue à l'alinéa 3 sont publiés au Moniteur belge au plus tard le 1er mai de l'année durant laquelle le renouvellement intégral des conseils provinciaux a lieu.) `L 2000-05-14/35, art. 2,  En vigueur :  10-06-2000`
+
+
+Art. 1bis_REGION_FLAMANDE. 
+
+(NOTE : abrogé par l'Autorité flamande sauf pour ce qui concerne la fixation des chiffres de la population et leur publication `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  05-09-2006`) `Inséré par L 1921-10-19/30, art. 42, MB 19-10-1921` Le conseil provincial est composé de :
+
+(47) membres dans les provinces de moins de 250 000 habitants;
+
+(56) membres dans les provinces de 250 000 à 500 000 habitants;
+
+(65) membres dans les provinces de 500 000 à 750 000 habitants;
+
+(75) membres dans les provinces de 750 000 à 1 000 000 d'habitants;
+
+(84) membres dans les provinces de 1 000 000 d'habitants et au-dessus. `L 1993-07-16/31, art. 219, 1°,  En vigueur :  21-05-1995`
+
+(Toutefois le nombre de conseillers de la province de Liège restera fixé à (80) aussi longtemps que le chiffre de la population de cette province sera supérieur à 750 000 et inférieur à 1 000 000 d'habitants.) `L 11-04-1936, art. 1, MB 16-04-1936` `L 1993-07-16/31, art. 219, 2°,  En vigueur :  21-05-1995`
+
+(Le nombre de conseillers est mis en rapport avec la population par le Roi lors de chaque renouvellement intégral des conseils provinciaux. Le nombre d'habitants par province à prendre en considération est le nombre de personnes inscrites au Registre national des personnes physiques ayant leur résidence principale dans les communes de la province concernée à la date du 1er janvier de l'année précédant celle du renouvellement intégral.
+
+Ces chiffres de la population, par commune et par province, sont publiés au Moniteur belge par les soins du Ministre de l'Intérieur.
+
+Les chiffres de la population déterminés de la manière prévue à l'alinéa 3 sont publiés au Moniteur belge au plus tard le 1er mai de l'année durant laquelle le renouvellement intégral des conseils provinciaux a lieu.) `L 2000-05-14/35, art. 2,  En vigueur :  10-06-2000`
+
+**Art. 2.**`L 11-04-1936, art. 1, MB 16-04-1936` Le conseil provincial est élu directement par les collèges électoraux. Les élections se font par districts ayant pour limites celles des cantons électoraux visés à l'article 88 du Code électoral. Toutefois, un district peut comprendre deux ou plusieurs cantons électoraux.
+
+Chaque district compte autant de conseillers que le chiffre de sa population contient de fois le diviseur provincial, obtenu en divisant le chiffre de la population de la province par le nombre total de sièges à conférer, les sièges restants étant attribués aux districts ayant le plus grand excédent de population non encore représenté.
+
+(Le groupement des cantons électoraux et la désignation des chefs-lieux de districts sont fixés conformément au tableau annexé à la présente loi. La répartition des conseillers entre les districts électoraux est mise en rapport avec la population par le Roi lors de chaque renouvellement intégral des conseils provinciaux sur la base des chiffres de la population établis conformément à l'article 1bis, alinéa 3.
+
+Les chiffres de la population déterminés conformément à l'article 1bis, alinéa 3, sont publiés au Moniteur belge au plus tard le 1er mai de l'année durant laquelle le renouvellement intégral des conseils provinciaux a lieu.) `L 2000-05-14/35, art. 3,  En vigueur :  10-06-2000`
+
+
+Art. 2_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  05-09-2006`
+
+
+**Art. 3.**Le conseil élit dans son sein une députation permanente.
+
+
+Art. 3_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  05-09-2006`
+
+
+**Art. 4.**(Le gouverneur est le commissaire du Gouvernement dans la province.
+
+Les gouverneurs sont nommés et révoqués par le Roi.
+
+Les greffiers sont nommés, suspendus et révoqués par le conseil provincial. Pour pouvoir être nommé greffier provincial, les candidats doivent être âgés de 25 ans au moins. Les autres conditions de nomination, les conditions de suspension et de révocation des greffiers sont déterminées par le Roi.
+
+Les greffiers prêtent serment entre les mains du président du conseil provincial.) `L 1997-06-25/34, art. 3,  En vigueur :  15-07-1997`
+
+(Les greffiers provinciaux sont mis d'office à la retraite et admis à faire valoir leurs droits à la pension, dans les mêmes conditions que les fonctionnaires des administrations de l'Etat.) `L 1973-04-03/01, art. 1, MB 16-05-1973`
+
+
+Art. 4_REGION_FLAMANDE. 
+
+(1er alinéa abrogé par l'autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+(alinéa 2 abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+(alinéa 3 abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+(alinéa 4 abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+(Les greffiers provinciaux sont mis d'office à la retraite et admis à faire valoir leurs droits à la pension, dans les mêmes conditions que les fonctionnaires des administrations de l'Etat.) `L 1973-04-03/01, art. 1, MB 16-05-1973`
+
+**Art. 5.**`L 1993-07-16/31, art. 221,  En vigueur :  01-01-1995` § 1. [1 ...]1
+
+
+§2.  Dans l'arrondissement administratif de Bruxelles-Capitale il y a [1 ...]1 un commissaire du gouvernement fédéral, vice-gouverneur.
+
+Il doit justifier de la connaissance approfondie de la langue française et de la langue néerlandaise.
+
+Il est nommé et révoqué par le Roi.
+
+Il réside à Bruxelles (ou en tout autre lieu de l'arrondissement administratif de Bruxelles-Capitale que le Roi désigne.) `L 1994-07-11/31, art. 1,  En vigueur :  29-07-1994`
+
+[1 ...]1
+
+Le Roi désigne la personne chargée de remplir les fonctions de vice-gouverneur pendant l'absence de celui-ci ou en cas de vacance de la fonction. Toutefois, si la durée de l'absence n'excède pas quinze jours, le vice-gouverneur désigne lui-même son remplaçant.
+
+Le remplaçant du vice-gouverneur doit satisfaire aux conditions prévues à l'alinéa 2.
+
+[1 Pour le surplus, son statut est identique à celui du commissaire du gouvernement fédéral, gouverneur de province.]1
+
+
+§3.  [1 Le vice-gouverneur est assisté par des membres du personnel de l'Etat mis à sa disposition par le gouvernement fédéral. Il a la direction de ce personnel.]1
+
+> 1: L 2014-01-06/65, art. 2, 006; En vigueur : 01-07-2014
+
+
+
+**Art. 5bis.** `Inséré par L 1993-07-16/31, art. 222,  En vigueur :  01-01-1995` Dans la province du Brabant flamand il y a, outre le commissaire du gouvernement fédéral, gouverneur de province, prévu aux articles 1 et 4, un commissaire du gouvernement fédéral, gouverneur adjoint de la province du Brabant flamand.
+
+Il doit justifier de la connaissance approfondie de la langue française et de la langue néerlandaise.
+
+Il est nommé et révoqué par le Roi.
+
+Il réside au chef-lieu de la province (ou en tout autre lieu de la province que le Roi désigne de l'avis du conseil provincial). `L 1994-07-11/31, art. 2,  En vigueur :  29-07-1994`
+
+Il est assisté par des membres du personnel de l'Etat mis à sa disposition par le gouvernement fédéral.
+
+Les dispositions relatives au remplacement du vice-gouverneur visé à l'article 5, § 2, s'appliquent de la même manière au remplacement du gouverneur adjoint.
+
+Pour le surplus, son statut est identique à celui des commissaires du gouverneur fédéral, gouverneurs de province.
+
+## Titre II  (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+## Titre III  (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+## Titre IV  (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+## Titre V  (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 6.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 7.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 8.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 9.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 10.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 11.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 12.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 13.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 14.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 15.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 16.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 17.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 18.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 19.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 20.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 21.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 22.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 23.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 24.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 25.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 26.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 27.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 28.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 29.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 30.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 31.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 32.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 33.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 34.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 35.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 36.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 37.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 38.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 39.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 40.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+
+**Art. 41.** (...) `L 18-05-1972, art. 199, 17°, MB 19-05-1972`
+
+## Titre VI Du conseil provincial.
+
+### Chapitre I Dispositions concernant la réunion du conseil et le mode de ses délibérations.
+
+
+**Art. 42.**Le conseil provincial s'assemble au chef-lieu de la province, à moins que pour cause d'événement extraordinaire il ne soit convoqué (par son président) dans une autre ville de la province. `L 06-01-1984, art. 5, MB 09-02-1984`
+
+
+Art. 42_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 43.** (...) `L 06-01-1984, art. 6, MB 09-02-1984`
+
+
+**Art. 44.**`L 06-01-1984, art. 1, MB 09-02-1984` Le conseil provincial s'assemble toutes les fois que l'exigent les affaires comprises dans ses attributions (et au moins une fois par mois). `L 1997-06-25/34, art. 4, 1°, Ed : 15-07-1997`
+
+(Cette obligation ne s'applique pas aux mois de juillet et d'août.) `L 1997-06-25/34, art. 4, 2°, Ed : 15-07-1997`
+
+Le conseil est convoqué par son président.
+
+Sur la demande d'un tiers des conseillers, le président est tenu de convoquer le conseil aux jour et heure indiqués avec l'ordre du jour proposé.
+
+(Le président est également tenu de convoquer le conseil à la demande de la députation permanente aux jour et heure indiqués, avec l'ordre du jour proposé.) `L 1997-06-25/34, art. 4, 3°,  En vigueur :  15-07-1997`
+
+
+Art. 44_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 45.** (...) `L 06-01-1984, art. 6, MB 09-02-1984`
+
+
+**Art. 46.** (...) `L 06-01-1984, art. 6, MB 09-02-1984`
+
+
+**Art. 47.**`L 1997-06-25/34, art. 5,  En vigueur :  15-07-1997` Le conseil ne peut prendre de décision si la majorité de ses membres n'est présente.
+
+Cependant, si le conseil a été convoqué deux fois sans s'être trouvé en nombre requis, il pourra, après une nouvelle et dernière convocation, délibérer, quel que soit le nombre des membres présents, sur les objets mis pour la troisième fois à l'ordre du jour.
+
+Les deuxième et troisième convocations se feront conformément aux règles prescrites par l'article 57, et il sera fait mention si c'est pour la deuxième ou pour la troisième fois que la convocation a eu lieu; en outre, la troisième convocation rappellera textuellement les deux premiers alinéas du présent article.
+
+
+Art. 47_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 48.** (...) `L 01-07-1860, art. 3, MB 01-07-1860`
+
+
+**Art. 49.**`L 1994-07-11/31, art. 3,  En vigueur :  21-05-1995` Après chaque renouvellement intégral du conseil provincial, les conseillers nouvellement élus se réunissent de plein droit sans convocation le deuxième vendredi qui suit le jour de l'élection, à 14 heures, (sous la présidence du membre qui compte le plus d'ancienneté en qualité de conseiller provincial ou, en cas de parité, le plus âgé d'entre eux, assisté des deux membres les plus jeunes comme secrétaires). `L 1997-06-25/34, art. 6, 1°,  En vigueur :  15-07-1997`
+
+(Toutefois, si le deuxième vendredi visé à l'alinéa premier est un jour férié, la réunion du nouveau conseil provincial est reportée au lundi qui suit.) `L 1997-06-25/34, art. 6, 2°,  En vigueur :  15-07-1997`
+
+(Après vérification des pouvoirs et la prestation de serment, le conseil provincial nomme un président, un ou plusieurs vice-présidents, et forme son bureau.) `L 06-01-1984, art. 5, 2°, MB 09-02-1984`
+
+
+Art. 49_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 50.**Le conseil détermine, par son règlement, le mode suivant lequel il exerce ses attributions, en se conformant à la présente loi.
+
+(...) `L 06-01-1984, art. 6, MB 09-02-1984`
+
+(Le conseil provincial peut créer en son sein des commissions qui lui fourniront des avis sur toutes les matières relevant de sa compétence. Le conseil arrête, dans son règlement d'ordre intérieur, les dispositions relatives à la composition et au fonctionnement de ces commissions. La composition des commissions obéit au principe de la représentation proportionnelle.
+
+Les commissions peuvent toujours entendre des experts et des personnes intéressées.
+
+Les habitants de la province ont le droit de demander, par écrit, des explications sur les délibérations du conseil provincial ou de la députation permanente. Dans le respect des dispositions prévues par le règlement d'ordre intérieur, une commission ad hoc se charge d'y répondre oralement au cours de ses réunions, à moins que cette commission ne décide qu'il y sera répondu à l'issue de la séance suivante du conseil provincial.) `L 1997-06-25/34, art. 7,  En vigueur :  15-07-1997`
+
+
+Art. 50_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 50bis.**`Inséré par L 1998-09-20/50, art. 3,  En vigueur :  07-11-1998` Lorsque le conseil provincial institue des conseils consultatifs, il règle leur composition en fonction de leurs tâches et détermine les cas dans lesquels la consultation de ces conseils consultatifs est obligatoire.
+
+Les deux tiers au maximum des membres d'un conseil consultatif sont du même sexe.
+
+En cas de non-respect de la condition prévue au deuxième alinéa, les avis du conseil consultatif en question ne sont pas valablement émis.
+
+Le conseil provincial peut, sur requête motivée du conseil consultatif, accorder des dérogations, soit pour des raisons fonctionnelles ou qui tiennent à la nature spécifique de ce dernier, soit lorsqu'il est impossible de satisfaire à la condition visée au deuxième alinéa. Le conseil provincial fixe les conditions que cette requête doit remplir et arrête la procédure.
+
+Si aucune dérogation n'est accordée sur la base de l'alinéa précédent, le conseil consultatif dispose d'un délai de trois mois, qui prend cours à partir de la date du refus d'octroi de la dérogation, pour satisfaire à la condition prévue au deuxième alinéa. Si le conseil consultatif ne satisfait pas, à l'expiration de ce délai, aux conditions qui figurent au deuxième alinéa, il ne peut plus émettre d'avis valable à partir de cette date.
+
+Dans l'année du renouvellement du conseil provincial, la députation permanente présente un rapport d'évaluation au conseil provincial.
+
+Pour ce qui est des conseils consultatifs qui ont été créés avant l'entrée en vigueur de la présente loi, le conseil provincial met leur composition en concordance avec le deuxième alinéa lors du prochain renouvellement des mandats. L'ensemble des conseils consultatifs sont tenus d'appliquer la présente disposition le 31 décembre 2001 au plus tard.
+
+Le conseil provincial met à leur disposition les moyens nécessaires à l'accomplissement de leur tâche.
+
+
+Art. 50bis_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 51.**`L 1997-06-25/34, art. 8,  En vigueur :  15 07-1997` § 1. Les séances du conseil provincial sont publiques.
+
+
+§2.  Sauf en ce qui concerne les séances relatives au budget, le conseil provincial, statuant à la majorité des deux tiers des membres présents, peut, dans l'intérêt de l'ordre public et en raison des inconvénients graves qui résulteraient de la publicité, décider que la séance ne sera pas publique.
+
+
+§3.  La séance n'est pas publique lorsqu'il s'agit de questions de personnes.
+
+Dés qu'une question de ce genre est soulevée, le président prononce immédiatement le huis clos.
+
+
+§4.  Sauf en matière disciplinaire, la séance à huis clos ne peut avoir lieu qu'après la séance publique.
+
+
+§5.  S'il paraît nécessaire, pendant la séance publique, de continuer l'examen d'un point en séance à huis clos, la séance publique peut être interrompue, à cette seule fin.
+
+
+Art. 51_REGION_FLAMANDE.
+
+`Abrogé par DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 52.** (Forme fédérale) `L 1997-06-25/34, art. 9,  En vigueur :  15-07-1997` Sans préjudice de l'alinéa 4, les membres du conseil provincial votent à haute voix ou par assis et levé.
+
+Néanmoins, le vote se fait toujours à haute voix et par appel nominal sur l'ensemble de chaque résolution. Il en va de même chaque fois qu'un tiers des membres présents le demande.
+
+Le règlement d'ordre intérieur peut prévoir un mode de scrutin équivalent au vote à haute voix ou au vote par assis et levé. Le vote exprimé électroniquement est considéré comme équivalent au vote à haute voix et par appel nominal. Le vote à main levée est considéré comme équivalent au vote par assis et levé.
+
+Seules les présentations de candidats, les nominations aux emplois, les mises en disponibilité, les suspensions préventives dans l'intérêt du service et les sanctions disciplinaires font l'objet d'un scrutin secret, à la majorité absolue des suffrages.
+
+En cas de vote à haute voix, le président vote en dernier lieu.
+
+++++++++++ Communautés et Régions.
+
+Communauté flamande.
+
+**Art. 52.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 53.** (Forme fédérale) Le conseil a le droit de diviser et d'amender chaque proposition.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 53.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 54.** (Forme fédérale) Toute résolution est prise à la majorité absolue des suffrages.
+
+En cas de partage des voix, la proposition est rejetée.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 54.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 55.** (Forme fédérale) `L 1997-06-25/34, art. 10,  En vigueur :  15-07-1997` La séance est ouverte et close par le président.
+
+Sauf stipulation contraire dans le règlement d'ordre intérieur, il est donné lecture du procès-verbal de la précédente séance, à l'ouverture de chaque séance.
+
+Dans tous les cas, le procès-verbal est mis à la disposition des conseillers sept jours francs au moins avant le jour de la séance. Dans les cas d'urgence, il est mis à la disposition en même temps que l'ordre du jour.
+
+Tout membre a le droit, pendant la séance, de réclamer contre sa rédaction.
+
+Si la réclamation est adoptée, le greffier est chargé de présenter, séance tenante ou, au plus tard, dans la séance suivante, une nouvelle rédaction, conformément à la décision du conseil.
+
+Si la séance s'écoule sans réclamation, le procès-verbal est approuvé et transcrit comme stipulé à l'article 119, alinéa 1.
+
+Chaque fois que le conseil le juge convenable, le procès-verbal est rédigé séance tenante, en tout ou en partie, et signé par les membres présents.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 55.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 56.** (Forme fédérale) Il est permis à chaque membre de faire insérer au procès-verbal, que son vote est contraire à la résolution adoptée, sans pouvoir exiger qu'il soit fait mention des motifs de son vote.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 56.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 56bis.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 11,  En vigueur :  15-07-1997` Au plus tard sept jours francs après la réunion du conseil provincial, un rapport succinct des délibérations, y compris du résultat des votes, est rédigé et transmis aux conseillers.
+
+En cas de vote nominatif, le compte rendu mentionnera le vote émis par chaque conseiller.
+
+Le règlement d'ordre intérieur fixe les modalités de la rédaction de ce rapport.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 56bis.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 57.** (Forme fédérale) `L 1997-06-25/34, art. 12,  En vigueur :  15-07-1997` § 1. La convocation se fait par écrit et à domicile au moins sept jours francs avant celui de la réunion, elle contient l'ordre du jour et les propositions de décision.
+
+Ce délai est toutefois ramené à trois jours francs pour l'application de l'article 47, troisième alinéa.
+
+En cas d'urgence, le délai de convocation visé à l'alinéa 1 peut être diminué, sans toutefois pouvoir être inférieur à un jour franc avant celui de la réunion.
+
+Les points de l'ordre du jour doivent être définis avec suffisamment de clarté.
+
+
+§2.  Pour chaque point de l'ordre du jour, toutes les pièces s'y rapportant sont mises à la disposition, au greffe provincial, des membres du conseil provincial, dés l'envoi de l'ordre du jour.
+
+Le règlement d'ordre inférieur visé à l'article 50, alinéa 1, peut prévoir que le greffier, ou les fonctionnaires désignés par lui, fournissent aux conseillers qui le demandent des informations techniques au sujet des documents figurant au dossier, dans ce cas, le règlement d'ordre inférieur détermine également les modalités suivant lesquelles les informations techniques seront fournies.
+
+
+§3.  Un point ne figurant pas à l'ordre du jour ne peut être mis en discussion en séance, sauf dans le cas d'urgence, lorsque le moindre report pourrait causer un préjudice grave.
+
+L'urgence ne peut être décidée que par les deux tiers au moins des membres présents; leur nom est inséré au procès-verbal.
+
+
+§4.  Toute proposition étrangère à l'ordre du jour doit être remise au président du conseil au moins cinq jours francs avant l'assemblée; elle doit être accompagnée d'une note explicative ou de tout document propre à éclairer le conseil. Le président transmet sans délai les points complémentaires de l'ordre du jour aux membres du conseil.
+
+Il est interdit à un membre de la députation permanente de faire usage de la faculté prévue à l'alinéa précédent. La députation permanente dispose toutefois de cette faculté.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 57.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 57bis.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 13, ED 15-07-1997` Le lieu, jour, heure et l'ordre du jour des séances du conseil provincial sont portés à la connaissance du public par voie d'affichage au lieu du siège du conseil provincial, dans les mêmes délais que ceux prévus à l'article 57 relatif à la convocation du conseil provincial.
+
+La presse et les habitants intéressés de la province sont, à leur demande et dans un délai utile, informés de l'ordre du jour du conseil provincial, moyennant éventuellement paiement d'une redevance qui ne peut excéder le prix de revient. Ce délai ne s'applique pas pour des points qui sont ajoutés à l'ordre du jour après l'envoi de la convocation conformément à l'article 57, § 4.
+
+Le règlement d'ordre intérieur peut prescrire d'autres mode de publication.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 57bis.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 58.** (Forme fédérale) `L 1997-06-25/34, art. 14,  En vigueur :  15-07-1997` Le président a la police de l'assemblée; il peut, après en avoir donné l'avertissement, faire expulser à l'instant du lieu de l'auditoire tout individu qui donnera des signes publics soit d'approbation, soit d'improbation, ou excitera au tumulte de quelque manière que ce soit.
+
+Le président, peut en outre, dresser procès-verbal à charge du contrevenant et le renvoyer devant le tribunal de police qui pourra le condamner à une amende d'un à vingt francs, sans préjudice d'autres poursuites si le fait y donne lieu.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 58.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 59.** (Forme fédérale) Les membres du conseil ne pourront prendre la parole sans l'avoir demandée et obtenue du président.
+
+Le président rappelle à la question l'orateur qui s'en écarte.
+
+Toute personnalité, toute injure, toute imputation de mauvaise intention est réputée violation de l'ordre.
+
+Si un orateur trouble l'ordre, il y est rappelé nominativement par le président, après avoir été entendu dans ses explications; il n'en est fait mention au procès-verbal que si le conseil l'ordonne expressément.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 59.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 60.** (Forme fédérale) `L 27-05-1975, art. 2, MB 22-08-1975` Pour les élections et les présentations de candidats, le président est assisté des quatre conseillers les moins âgés faisant fonction de scrutateurs.
+
+Le président fait procéder à l'appel nominal et ensuite à un réappel des membres qui n'étaient pas présents. Celui-ci étant terminé, le président demande à l'assemblée s'il y a des membres présents qui n'ont pas voté; ceux qui se présenteront immédiatement sont admis à voter. Ces opérations achevées, le scrutin est déclaré clos.
+
+Le nombre des bulletins est vérifié avant le dépouillement. S'il est plus grand ou moindre que celui des votants, il en est fait mention au procès-verbal. S'il résulte du dépouillement que cette différence rend douteuse la majorité qu'un candidat aurait obtenue, le président fait procéder à un scrutin de ballottage entre les deux candidats qui ont obtenu le plus de voix.
+
+Lors du dépouillement, un des scrutateurs prend successivement chaque bulletin, le déplie, le remet au président, qui en donne lecture à haute voix, et le passe à un autre scrutateur. Le résultat de chaque scrutin est immédiatement proclamé.
+
+Les bulletins nuls n'entrent pas en compte pour déterminer la majorité.
+
+Les bulletins qui contiennent plus d'un nom sont valides, mais seul le premier nom entre en ligne de compte.
+
+Si aucun candidat n'obtient la majorité absolue des voix au premier scrutin, il est procédé à un scrutin de ballottage entre les deux candidats qui ont obtenu le plus de voix. En cas de parité de voix, le candidat le plus âgé l'emporte.
+
+Après le dépouillement, les bulletins qui n'ont pas donné lieu à contestation sont détruits en présence de l'assemblée.
+
+(Les élections et les présentations des candidats peuvent également se faire au moyen d'un système électronique, approuvé par le Roi, qui garantit le scrutin secret.) `L 1999-05-04/53, art. 2,  En vigueur :  22-06-1999`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 60.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 61.** (Forme fédérale) `L 06-01-1984, art. 3, MB 09-02-1984` Les conseillers provinciaux ne reçoivent aucun traitement. (A l'exception des membres de la députation permanente, les conseillers provinciaux touchent un jeton de présence lorsqu'ils assistent aux réunions du conseil provincial et aux réunions des commissions et des sections.) `L 1999-05-04/86, art. 2,  En vigueur :  08-10-2000`
+
+(Le jeton de présence est égal au montant le plus élevé de l'échelle de traitement des assistants administratifs de la fonction publique de l'Etat fédéral, majoré ou réduit en application des règles de liaison à l'indice de cette échelle, puis divisé par 180.) `L 1997-06-25/34, art. 15, 1°,  En vigueur :  15-07-1997`
+
+Ceux qui sont domiciliés à 5 km au moins du lieu de la réunion reçoivent, en outre, une (indemnité de frais de déplacement) égale au prix du parcours du lieu de leur domicile au siège du conseil provincial, sur les lignes des services publics de transport. S'ils utilisent leur véhicule personnel, cette indemnité est calculée d'après le tarif fixé par le Roi en matière de frais de parcours accordés au personnel des ministères; en aucun cas la puissance imposable du véhicule admise pour la liquidation de l'indemnité ne peut dépasser celle qui est prévue pour les fonctionnaires du rang 13. `L 1997-06-25/34, art. 15, 2°,  En vigueur :  15-07-1997`
+
+Les jetons de présence et l'(indemnité de frais de déplacement) sont fixés en fonction de la présence constatée aux registres tenus à cet effet. Il ne peut être alloué, par jour, à chaque conseiller, qu'un seul jeton de présence et une seule indemnité de frais de route. `L 1997-06-25/34, art. 15, 2°,  En vigueur :  15-07-1997`
+
+(Le montant de l'indemnité de frais de déplacement est fixé par le conseil provincial. Ce montant, ainsi que le montant des jetons de présence, sont à charge de la province.) `L 1997-06-25/34, art. 15, 3°,  En vigueur :  15-07-1997`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 61.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 62.** (Forme fédérale) `L 27-05-1975, art. 2, MB 22-08-1975` Les membres du conseil votent sans en référer à ceux qui les ont élus; ils représentent la province et non uniquement le district qui les a élus.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 62.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 63.** (Forme fédérale) `L 1997-06-25/34, art. 16,  En vigueur :  15-07-1997` Il est interdit à tout membre du conseil :
+ 1. d'être présent à la délibération sur des objets auxquels il a un intérêt direct, soit personnellement, soit comme chargé d'affaires, avant ou après son élection, ou auxquels ses parents ou alliés jusqu'au quatrième degré inclusivement ont un intérêt personnel et direct;
+ 2. de prendre part directement ou indirectement dans aucun service, perception de droits, fourniture ou adjudication quelconque pour la province;
+ 3. d'intervenir comme avocat, notaire ou homme d'affaires dans les procès dirigés contre la province; il ne pourra, en la même qualité, plaider, aviser ou suivre aucune affaire litigieuse quelconque dans l'intérêt de la province;
+ 4. d'intervenir comme conseil d'un membre du personnel en matière disciplinaire ou de suspension par mesure d'ordre;
+ 5. d'intervenir comme délégué ou expert d'une organisation syndicale dans un comité de négociation ou de concertation de la province.
+
+Les dispositions qui précédent sont applicables au greffier et aux membres de la députation permanente, ainsi qu'à la personne de confiance visée à l'article 63bis.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 63.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 63bis.** (Forme fédérale) `inséré par L 1997-06-25/34, art. 17,  En vigueur :  15-07-1997` Le conseiller qui, en raison d'un handicap, ne peut exercer seul son mandat peut, pour l'accomplissement de ce mandat, se faire assister par une personne de confiance, choisie parmi les électeurs du conseil provincial qui satisfont aux critères d'éligibilité applicables en ce qui concerne le mandat de conseiller provincial et qui ne fait pas partie du personnel de la province ni des sociétés ou associations desquelles la province est membre ou dans lesquelles elle est représentée.
+
+Pour l'application du premier alinéa, le Roi définit les critères servant à établir la qualité de conseiller handicapé.
+
+Lorsqu'elle fournit cette assistance, la personne de confiance dispose des mêmes moyens et est soumise aux mêmes obligations que le conseiller. Elle n'a pas le droit de percevoir des jetons de présence, mais bien une indemnité de frais de déplacement, telle que prévue à l'article 61.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 63bis.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 63ter.** (Forme fédérale) `inséré par L 1997-06-25/34, art. 18,  En vigueur :  15-07-1997` Le conseiller provincial empêché par le fait qu'il effectue son terme de service militaire actif ou son terme de service civil en tant qu'objecteur de conscience, est remplacé, à sa demande écrite adressée au président du conseil provincial, pendant cette période.
+
+Le conseiller provincial qui souhaite prendre un congé parental en raison de la naissance ou de l'adoption d'un enfant, est remplacé, à sa demande écrite adressée au président du conseil provincial, au plus tôt à partir de la septième semaine avant la date présumée de la naissance ou de l'adoption jusqu'à la fin de la huitième semaine qui suit la naissance ou l'adoption. L'interruption de l'exercice du mandat est prorogée à sa demande écrite, au-delà de la huitième semaine, pour une période égale à celle durant laquelle il a continue à exercer son mandat pendant la période de sept semaines qui a précédé le jour de la naissance ou de l'adoption.
+
+Le conseiller provincial empêché en raison de l'accomplissement de son terme de service militaire actif ou de son terme de service civil en tant qu'objecteur de conscience ou pour cause de congé parental, qui demande son remplacement, est remplacé par le suppléant appartenant à sa liste et arrivant le premier dans l'ordre indiqué à l'article 21, § 2, de la loi du 19 octobre 1921 organique des élections provinciales, après vérification des pouvoirs de celui-ci par le consul provincial.
+
+Les dispositions des premier et deuxième alinéas ne sont toutefois applicables qu'à partir de la première séance du conseil provincial suivant celle au cours de laquelle le conseiller empêché a été installé.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 63ter.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+### Chapitre II Des attributions du conseil.
+
+
+**Art. 64.**
+
+`Abrogé par L 2016-05-04/03, art. 4, 008; En vigueur : 23-05-2016` 
+
+
+**Art. 65.** (Forme fédérale) `L 1997-06-25/34, art. 19,  En vigueur :  15-07-1997` Le conseil règle tout ce qui est d'intérêt provincial; il délibère sur tout autre objet qui lui est soumis par l'autorité supérieure.
+
+Il nomme, suspend et révoque tous les agents de l'administration provinciale à l'exception de ceux dont il attribue la nomination, la suspension et la révocation à la députation permanente.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 65.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 65bis.** (Forme fédérale) `inséré par L 1997-06-25/34, art. 20,  En vigueur :  15-07-1997` § 1. Aucun acte, aucune pièce concernant l'administration provinciale ne peut être soustrait à l'examen des membres du conseil, même si cet acte ou cette pièce concerne une mission attribuée au gouverneur ou à la députation permanente.
+
+Il est tenu un registre des pièces entrantes et sortantes dans les services et institutions de la province.
+
+Une copie des actes et pièces est délivrée aux conseillers provinciaux qui en font la demande auprès du greffier provincial.
+
+Les conseillers provinciaux reçoivent, à leur demande, copie des procès-verbaux des séances de la députation permanente dans les 15 jours qui suivent la tenue de ces séances.
+
+
+§2.  Les conseillers provinciaux peuvent visiter tous les établissements et services créés et gérés par la province.
+
+Le règlement d'ordre intérieur visé à l'article 50 prévoit selon quelles modalités et quels horaires le droit de consultation et de visite peut être exercé, ainsi que les conditions dans lesquelles une copie des actes ou pièces peut être obtenue. Une redevance peut être demandée pour l'obtention d'une copie des actes ou pièces. Le montant de cette redevance est calculé en fonction du prix courant, sans que les frais de personnel ne puissent en aucun cas être pris en compte.
+
+
+§3.  Les conseillers provinciaux ont le droit de poser des questions à la députation permanente ou au gouverneur sur les matières qui ont trait à l'administration de la province.
+
+Sans préjudice des exceptions par la loi et sans porter atteinte aux compétences conférées au gouverneur et à la députation permanente, les conseillers provinciaux ont le droit d'être informés par le gouverneur et par la députation permanente sur la manière dont ceux-ci exercent leurs compétences.
+
+Afin de permettre aux conseillers provinciaux de leur poser des questions orales d'actualité, il est réservé 1 heure au début de chaque séance du conseil.
+
+Les membres du conseil ont également le droit de leur poser des questions écrites auxquelles il doit être répondu dans un délai de 20 jours ouvrables. (Les questions écrites et les réponses) doivent être publiées dans un bulletin ad hoc. `L 1999-05-04/53, art. 3,  En vigueur :  22-06-1999`
+
+Le règlement d'ordre intérieur visé à l'article 50 fixe les modalités d'application du présent article.
+
+Le droit d'interrogation ne peut pas porter sur des dossiers de tutelle administrative à l'égard de communes et de centres publics d'aide sociale.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 65bis.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 66.**(Forme fédérale) `L 1997-06-25/34, art. 21,  En vigueur :  15-07-1997` § 1. Le Roi arrête les règles budgétaires, financières et comptables des provinces selon les principes de la comptabilité en partie double, ainsi que celles relatives aux modalités d'exercice des fonctions du receveur provincial et des comptables et receveurs visés à l'article 114.
+
+
+§2.  Chaque année, lors d'une séance qui a lieu au mois d'octobre, la députation permanente soumet au conseil provincial le projet de budget pour l'exercice suivant, (l'avis de la Cour des comptes y afférent,) les comptes de l'exercice précédent (accompagnés des observations de la Cour des comptes) ainsi qu'une note de politique générale. `L 1999-05-04/53, art. 4, a),  En vigueur :  22-06-1999`
+
+La note de politique générale comprend au moins les priorités et les objectifs politiques, les moyens budgétaires et l'indication du délai dans lequel ces priorités et ces objectifs doivent être réalisés.
+
+(Les documents visés à l'alinéa 1), sont distribués à tous les membres du conseil provincial, au moins sept jours francs avant la séance au cours de laquelle ils seront examinés. `L 1999-05-04/53, art. 4, b),  En vigueur :  22-06-1999`
+
+(L'avis de la Cour des comptes et la note de politique générale visés à l'alinéa 1 sont publiés) au Mémorial administratif. La députation permanente soumet également au conseil toutes autres propositions qu'elle juge utiles. `L 1999-05-04/53, art. 4, c),  En vigueur :  22-06-1999`
+
+(§ 2bis. Dans les trois mois après son élection, la députation permanente soumet au conseil provincial un programme de politique générale couvrant la durée de son mandat et comportant au moins les principaux projets politiques.
+
+Après approbation par le conseil provincial, ce programme de politique générale est inséré au mémorial administratif et publié de la manière prescrite par le conseil provincial.) `L 2001-02-05/41, art. 2,  En vigueur :  01-01-2001`
+
+
+§3.  A l'occasion de l'examen des budgets et des comptes, le conseil provincial discute de manière approfondie de la note visée au § 2. Il discute également des politiques des différentes intercommunales ou associations au sein desquelles la province participe et à la gestion desquelles elle est représentée.
+
+
+§4.  Chaque année, le conseil provincial arrête les comptes de la province pour l'exercice antérieur. Les comptes annuels comprennent le compte budgétaire, le compte de résultats et le bilan.
+
+En outre il vote chaque année le budget des dépenses de l'exercice suivant et les moyens d'y faire face, pour le 31 octobre au plus tard.
+
+Toutes les recettes et dépenses de la province doivent être portées au budget et dans les comptes.
+
+
+Art. 66_REGION_FLAMANDE. 
+
+(NOTE : abrogé par l'Autorité flamande à l'exception des dispositions relatives aux compétences de la Cour des Comptes `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :   indéterminée, mais 01-12-2006 pour ce qui concerne les mots "Dans les trois mois" au § 2bis`) `L 1997-06-25/34, art. 21,  En vigueur :  15-07-1997` § 1. Le Roi arrête les règles budgétaires, financières et comptables des provinces selon les principes de la comptabilité en partie double, ainsi que celles relatives aux modalités d'exercice des fonctions du receveur provincial et des comptables et receveurs visés à l'article 114.
+
+
+§2.  Chaque année, lors d'une séance qui a lieu au mois d'octobre, la députation permanente soumet au conseil provincial le projet de budget pour l'exercice suivant, (l'avis de la Cour des comptes y afférent,) les comptes de l'exercice précédent (accompagnés des observations de la Cour des comptes) ainsi qu'une note de politique générale. `L 1999-05-04/53, art. 4, a),  En vigueur :  22-06-1999`
+
+La note de politique générale comprend au moins les priorités et les objectifs politiques, les moyens budgétaires et l'indication du délai dans lequel ces priorités et ces objectifs doivent être réalisés.
+
+(Les documents visés à l'alinéa 1), sont distribués à tous les membres du conseil provincial, au moins sept jours francs avant la séance au cours de laquelle ils seront examinés. `L 1999-05-04/53, art. 4, b),  En vigueur :  22-06-1999`
+
+(L'avis de la Cour des comptes et la note de politique générale visés à l'alinéa 1 sont publiés) au Mémorial administratif. La députation permanente soumet également au conseil toutes autres propositions qu'elle juge utiles. `L 1999-05-04/53, art. 4, c),  En vigueur :  22-06-1999`
+
+(§ 2bis. Dans les trois mois après son élection, la députation permanente soumet au conseil provincial un programme de politique générale couvrant la durée de son mandat et comportant au moins les principaux projets politiques.
+
+Après approbation par le conseil provincial, ce programme de politique générale est inséré au mémorial administratif et publié de la manière prescrite par le conseil provincial.) `L 2001-02-05/41, art. 2,  En vigueur :  01-01-2001`
+
+
+§3.  A l'occasion de l'examen des budgets et des comptes, le conseil provincial discute de manière approfondie de la note visée au § 2. Il discute également des politiques des différentes intercommunales ou associations au sein desquelles la province participe et à la gestion desquelles elle est représentée.
+
+
+§4.  Chaque année, le conseil provincial arrête les comptes de la province pour l'exercice antérieur. Les comptes annuels comprennent le compte budgétaire, le compte de résultats et le bilan.
+
+En outre il vote chaque année le budget des dépenses de l'exercice suivant et les moyens d'y faire face, pour le 31 octobre au plus tard.
+
+Toutes les recettes et dépenses de la province doivent être portées au budget et dans les comptes.
+
+**Art. 67.** Aucun transfert de dépense ne peut avoir lieu d'une section à l'autre, ni d'un article a l'autre du budget, sans l'autorisation du conseil (...). `L 04-12-1984, art. 1, MB 22-12-1984`
+
+
+**Art. 68.** (Dans le mois qui suit celui au cours duquel ils ont été arrêtés, les comptes sommaires par nature des recettes et dépenses sont insérés au Mémorial administratif et déposés aux archives des deux Chambres.) Il en est de même des budgets dans le mois qui suit leur approbation. `L 06-01-1984, art. 5, 4°, MB 09-02-1984`
+
+Les comptes sont déposés au greffe de la province, à l'inspection du public, pendant un mois, à partir de l'arrêté de compte.
+
+Le public sera informé de ce dépôt par la voie du Mémorial administratif et d'un journal de la province.
+
+
+**Art. 69.**Le conseil est tenu de porter annuellement au budget des dépenses toutes celles que les lois mettent à la charge de la province et spécialement les suivantes :
+ 1. (les traitements du greffier et des membres de la députation permanente, leurs pensions de retraite et de survie et, le cas échéant, les cotisations qui permettent de les couvrir ainsi que leurs indemnités pour frais de parcours;) `L 1993-08-06/34, art. 16, 1°,  En vigueur :  01-01-1994`
+ 2. [2 ...]2
+ 3. (les crédits nécessaires pour couvrir la charge financière inhérente à l'emploi (des fonctionnaires de liaison visés à l'article 134);) `L 1989-12-22/31, art. 304,  En vigueur :  09-01-1990`
+ 4. (...) `L 27-05-1975, art 2, 8°, MB 22-08-1975`
+ 5. (...) `L 27-05-1975, art 2, 8°, MB 22-08-1975`
+ 6. l'entretien des routes, les travaux hydrauliques et de dessèchement qui sont légalement à charge de la province;
+ 7. (...) `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 8. les frais des listes du jury (...); `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 9. (les dépenses relatives aux églises, cathédrales, aux palais épiscopaux et aux séminaires diocésains, conformément aux décrets des 18 germinal an XI et 30 décembre 1809;) `L 1997-06-25/34, art. 22,  En vigueur :  15-07-1997`
+ 10. le loyer, les contributions, l'entretien des édifices et bâtiments provinciaux ou à l'usage de la province;
+ 11. l'entretien et le renouvellement du mobilier provincial;
+ 12. [3 ...]3
+ 13. les dettes de la province liquidées et exigibles, et celles résultant des condamnations judiciaires à sa charge;
+ 14. (les pensions aux anciens employés de la province, conformément au règlement adopté par le conseil, et, le cas échéant, les cotisations qui permettent de les couvrir;) `L 1993-08-06/34, art. 16, 2°,  En vigueur :  01-01-1994`
+ 15. (...) `L 27-05-1975, art 2, 8°, MB 22-08-1975`
+ 16. les frais d'impression du budget et des comptes sommaires des recettes et dépenses de la province;
+ 17. (les frais relatifs aux séances du conseil et les jetons de présence et indemnités alloués aux conseillers, ainsi que l'indemnité allouée aux personnes de confiance visées à l'article 63bis;) `L 1997-06-25/34, art. 23,  En vigueur :  15-07-1997`
+ 18. les secours à accorder aux communes (...) pour les grosses réparations des édifices communaux; `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 19. (...) `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 20. les fonds destinés à faire face aux dépenses accidentelles ou imprévues de la province;
+ 21. (...) `L 22-01-1931, art. 9, 3°, MB 29-01-1931`
+ 22. (les dépenses relatives aux établissements de l'assistance morale selon une conception philosophique non confessionnelle, telles que reprises à l'article 27 de la loi du 21 juin 2002.) `L 2002-06-21/34, art. 59,  En vigueur :  01-11-2002`
+
+> 2: L 2014-04-25/23, art. 145, 007; En vigueur : 01-01-2014
+
+
+> 3: L 2018-06-18/03, art. 117,12°, 009; En vigueur : 31-03-2019
+
+
+
+Art. 69_REGION_WALLONNE.
+
+Le conseil est tenu de porter annuellement au budget des dépenses toutes celles que les lois mettent à la charge de la province et spécialement les suivantes :
+ 1. (les traitements du greffier et des membres de la députation permanente, leurs pensions de retraite et de survie et, le cas échéant, les cotisations qui permettent de les couvrir ainsi que leurs indemnités pour frais de parcours;) `L 1993-08-06/34, art. 16, 1°,  En vigueur :  01-01-1994`
+ 2. [2 ...]2
+ 3. (les crédits nécessaires pour couvrir la charge financière inhérente à l'emploi (des fonctionnaires de liaison visés à l'article 134);) `L 1989-12-22/31, art. 304,  En vigueur :  09-01-1990`
+ 4. (...) `L 27-05-1975, art 2, 8°, MB 22-08-1975`
+ 5. (...) `L 27-05-1975, art 2, 8°, MB 22-08-1975`
+ 6. [1 l'entretien des routes, les travaux hydrauliques et de dessèchement qui sont légalement à charge de la province;]1
+ 7. (...) `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 8. les frais des listes du jury (...); `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 9. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 10. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 11. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 12. [3 ...]3
+ 13. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 14. (les pensions aux anciens employés de la province, conformément au règlement adopté par le conseil, et, le cas échéant, les cotisations qui permettent de les couvrir;) `L 1993-08-06/34, art. 16, 2°,  En vigueur :  01-01-1994`
+ 15. (...) `L 27-05-1975, art 2, 8°, MB 22-08-1975`
+ 16. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 17. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 18. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 19. (...) `L 27-05-1975, art. 2, 8°, MB 22-08-1975`
+ 20. (...) `DRW 2004-02-12/53, art. 137;  En vigueur :  01-01-2004`
+ 21. (...) `L 22-01-1931, art. 9, 3°, MB 29-01-1931`
+ 22. (les dépenses relatives aux établissements de l'assistance morale selon une conception philosophique non confessionnelle, telles que reprises à l'article 27 de la loi du 21 juin 2002.) `L 2002-06-21/34, art. 59,  En vigueur :  01-11-2002`
+
+> 1: DRW 2008-07-03/35, art. 8, 005; En vigueur : 01-01-2004
+
+
+> 2: L 2014-04-25/23, art. 145, 007; En vigueur : 01-01-2014
+
+
+> 3: L 2018-06-18/03, art. 117,12°, 009; En vigueur : 31-03-2019
+
+
+
+**Art. 70.**Sont spécialement à charge de l'Etat :
+ 1. (le traitement et les frais de route du gouverneur); (Sont toutefois à charge de la province les frais de route résultant de déplacements effectués par le gouverneur dans le cadre d'une mission provinciale;) `L 24-04-1958, art. 3, MB 06-06-1958` `L 25-06-1973, art. 1, MB 03-08-1973`
+ 2. (...) `L 06-07-1987, art. 4, a, MB 18-08-1987`
+ 3. (les traitements et les frais de bureau des agents de l'Etat du gouvernement provincial;) `L 06-07-1987, art. 4, b, MB 18-08-1987`
+ 4. le loyer et l'entretien de l'hôtel du gouvernement provincial, l'entretien et le renouvellement de son mobilier;
+ 5. les traitements (...) des commissaires d'arrondissement; `L 27-05-1975, art. 2, 9°, a, MB 22-08-1975`
+ 6. (les frais des commissions médicales;) `L 27-05-1975, art. 2, 9°, b, MB 22-08-1975`
+ 7. (...) `L 27-05-1975, art 2, 9°, c, MB 22-08-1975`
+ 8. [1 ...]1
+
+> 1: L 2018-06-18/03, art. 117,12°, 009; En vigueur : 31-03-2019
+
+
+
+**Art. 71.** (Forme fédérale) Le conseil fixe le taux des traitements et des pensions des employés salariés par la province.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 71.** (NOTE : abrogé par l'Autorité flamande sauf dans la mesure où il se rapporte aux pensions. `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`) Le conseil fixe le taux des traitements et des pensions des employés salariés par la province.
+
+++++++++++
+
+
+**Art. 71bis.** (Région flamande) `inséré par DCFL 2002-05-08/41, art. 4,  En vigueur :  01-01-2002` Le personnel provincial reçoit, dans les mêmes conditions que le personnel du Ministère de la Communauté flamande, une allocation de foyer et de résidence.
+
+Le personnel provincial reçoit le pécule de vacances dans les conditions fixées par le Gouvernement flamand.
+
+
+**Art. 72.** (Forme fédérale) `L 27-05-1975, art 2, 10°, MB 22-08-1975` Le conseil décide de la création et de l'amélioration d'établissements d'intérêt provincial.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 72.** (abrogé par Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 73.** (Forme fédérale) (Le conseil) autorise les emprunts, les acquisitions, aliénations et échanges de biens de la province, et les transactions relatives aux mêmes biens. `L 27-05-1975, art. 2, 11°, MB 22-08-1975`
+
+(Il peut régler ou charger la députation permanente de régler les conditions des emprunts.) `L 04-12-1984, art. 2, MB 22-12-1984`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 73.** (abroge par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 74.** (Forme fédérale) (Le conseil) autorise les actions en justice relatives aux biens de la province, soit en demandant, soit en défendant, sans préjudice de ce qui est statué à l'article 106 (...) (...) `L 27-05-1975, art. 2, 12°, MB 22-08-1975` `L 1997-06-25/34, art. 24,  En vigueur :  15-07-1997`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 74.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 75.** (Forme fédérale) `L 1997-06-25/34, art. 25,  En vigueur :  15-07-1997` Le conseil provincial choisit le mode de passation des marchés publics de travaux, de fournitures ou de services et en arrête les conditions.
+
+Il peut déléguer ces compétences à la députation permanente pour les marchés qui portent sur la gestion journalière de la province, dans les limites des crédits inscrits à cet effet au budget ordinaire et, si le montant du marché ne dépasse pas (62 000 EUR) hors TVA au budget extraordinaire. `L 2000-07-20/71, art. 7,  En vigueur :  01-01-2002`
+
+En cas d'urgence impérieuse résultant d'événements imprévisibles, la députation peut exercer d'initiative les pouvoirs du conseil visés à l'alinéa premier.
+
+Sa décision est communiquée au conseil provincial, qui en prend acte lors de sa prochaine séance.
+
+La députation permanente engage la procédure et attribue le marché. Elle peut apporter au contrat toute modification qu'elle juge nécessaire au cours de son exécution, pour autant qu'il n'en résulte pas des dépenses supplémentaires de plus de 10 %.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 75.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 76.** (Forme fédérale) Lorsqu'il s'agit d'exécuter des ouvrages d'entretien ou de réparation concernant plusieurs provinces, (le conseil de chaque province est appelé) à en délibérer; en cas de contestation, (le Roi) décide. `L 27-05-1975, art. 2, 13°, MB 22-08-1975`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 76.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 77.** (...) `L 1997-06-25/34, art. 78, 1°,  En vigueur :  15-07-1997`
+
+
+**Art. 78.** (Forme fédérale) `L 1948-08-04/32, art. 1, MB 25-08-1948` Le classement entre l'Etat et les provinces des routes faisant actuellement partie de la grande voirie est réglé par le Roi, les députations permanentes entendues.
+
+Il emporte attribution, à titre gratuit, de la propriété desdites routes. (...) `L 1997-06-25/34, art. 26,  En vigueur :  15-07-1997`
+
+Le Roi procède au classement, soit en une fois, soit par étapes.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 78.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 79.** (Forme fédérale) Le conseil prononce sur l'exécution des travaux qui intéressent à la fois plusieurs communes de la province et sur la part de la dépense afférente à chacune, en prenant leur avis préalable et sauf leur recours au Roi dans le délai de quarante jours, à partir de celui où la résolution leur a été notifiée.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 79.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 80.** (...) `L 27-05-1975, art. 2, 15°, MB 22-08-1975`
+
+
+**Art. 81.** (...) `L 27-05-1975, art. 2, 15°, MB 22-08-1975`
+
+
+**Art. 82.** (...) `L 27-05-1975, art. 2, 15°, MB 22-08-1975`
+
+
+**Art. 83.** (Forme fédérale) Le conseil donne son avis sur les changements proposés pour la circonscription de la province, des arrondissements, (districts électoraux, cantons) et communes et pour la désignation des chefs-lieux. `L 27-05-1975, art. 2, 16°, MB 22-08-1975`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 83.** (NOTE : abrogé par l'Autorité flamande, sauf pour ce qui concerne les aspects fédéraux. `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`) Le conseil donne son avis sur les changements proposés pour la circonscription de la province, des arrondissements, (districts électoraux, cantons) et communes et pour la désignation des chefs-lieux. `L 27-05-1975, art. 2, 16°, MB 22-08-1975`
+
+++++++++++
+
+
+**Art. 84.** (Forme fédérale) Le conseil peut charger un ou plusieurs de ses membres de la mission de recueillir sur les lieux les renseignements dont il a besoin dans le cercle de ses attributions.
+
+Il peut correspondre avec les autorités constituées et les fonctionnaires publics à l'effet d'obtenir les mêmes renseignements.
+
+Si, malgré deux avertissements consécutifs constatés par la correspondance, des autorités administratives subordonnées sont en retard de donner les renseignements demandés, le conseil peut déléguer un ou plusieurs de ses membres aux frais personnels desdites autorités, à l'effet de prendre les renseignements sur les lieux.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 84.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 85.** (Forme fédérale) (Le conseil) peut faire des règlements provinciaux d'administration intérieure et des ordonnances de police. `L 27-05-1975, art. 2, 17°, a), MB 22-08-1975`
+
+Ces règlements et ordonnances ne peuvent porter sur des objets déjà régis par des lois ou par des règlements d'administration générale.
+
+Ils sont abrogés de plein droit si, dans la suite, il est statué sur les mêmes objets par des lois ou règlements d'administration générale.
+
+Le conseil peut établir pour leur exécution des peines qui n'excèdent pas huit jours d'emprisonnement et 200 francs d'amende.
+
+Ils sont publiés dans la forme déterminée aux articles 117 et 118 (...). `L 27-05-1975, art. 2, 17°, b), MB 22-08-1975`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 85.** (NOTE : abrogé par l'Autorité flamande dans la mesure où il se rapporte à des règlements de police. `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`) (Le conseil) peut faire des règlements provinciaux d'administration intérieure et des ordonnances de police. `L 27-05-1975, art. 2, 17°, a), MB 22-08-1975`
+
+Ces règlements et ordonnances ne peuvent porter sur des objets déjà régis par des lois ou par des règlements d'administration générale.
+
+Ils sont abrogés de plein droit si, dans la suite, il est statué sur les mêmes objets par des lois ou règlements d'administration générale.
+
+Le conseil peut établir pour leur exécution des peines qui n'excèdent pas huit jours d'emprisonnement et 200 francs d'amende.
+
+Ils sont publiés dans la forme déterminée aux articles 117 et 118 (...). `L 27-05-1975, art. 2, 17°, b), MB 22-08-1975`
+
+++++++++++
+
+### Chapitre III De l'approbation et de l'intervention du Roi ou du pouvoir législatif relativement aux actes du conseil.
+
+
+**Art. 86.** (Texte fédéral) `abrogé implicitement suite à l'abrogation de la province de Brabant.`
+
+**Art. 86.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 2°,  En vigueur :  01-10-1989`
+
+**Art. 86.** (Région flamande) (...) `DCFL 1995-02-22/30, art. 25, 1°,  En vigueur :  01-04-1995`
+
+
+**Art. 87.** (Texte fédéral) `abrogé implicitement à cause de l'abrogation de la province de Brabant`
+
+**Art. 87.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 3°,  En vigueur :  01-10-1989`
+
+**Art. 87.** (Région flamande) (...) `DCFL 1995-02-22/30, art 25 1°, ED 01-04-1995`
+
+
+**Art. 87bis.** (Région wallonne) (...) `DRW 1989-07-20/31, art 40 §2 4°, ED 01-10-1989`
+
+
+**Art. 88.** (Texte fédéral) `abrogé implicitement à cause de l'abrogation de la province de Brabant.`
+
+**Art. 88.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 5°, ED 01-10-1989`
+
+**Art. 88.** (Région flamande) (...) `DCFL 1995-02-22/30, art. 25, 1°, ED 01-04-1995`
+
+
+**Art. 88bis.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 6°, ED 01-10-1989`
+
+
+**Art. 89.** (Texte fédéral) `abrogé implicitement à cause de l'abrogation de la province de Brabant.`
+
+**Art. 89.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 7°, ED 01-10-1989`
+
+**Art. 89.** (Région flamande) (...) `DCFL 1995-02-22/30, art. 25, 1°, ED 01-04-1995`
+
+
+**Art. 89bis.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 7°, ED 01-10-1989`
+
+
+**Art. 90.** (...) `L 06-01-1984, art. 6, MB 09-02-1984`
+
+
+**Art. 91.** (Texte fédéral) Aucun conseil provincial ne pourra se mettre en correspondance avec le conseil d'une autre province sur des objets qui sortent de ses attributions.
+
+Aucun conseil provincial ne pourra faire des proclamations ou adresses aux habitants sans l'assentiment du gouverneur.
+
+++++++++++ Communautés et Régions.
+
+Région wallonne.
+
+**Art. 91.** (Région wallonne) Aucun conseil provincial ne pourra se mettre en correspondance avec le conseil d'une autre province sur des objets qui sortent de ses attributions.
+
+(...) `DRW 1989-07-20/31, art. 40, §2, 9°, ED 01-10-1989`
+
+Région flamande.
+
+**Art. 91.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+### Chapitre IV (...) `L 27-05-1975, art. 2, MB 22-08-1975`
+
+
+**Art. 92.** (...) `L 18-05-1872, art. 199, 17°, MB 19-05-1872`
+
+
+**Art. 93.** (...) `L 18-05-1872, art. 199, 17°, MB 19-05-1872`
+
+
+**Art. 94.** (...) `L 18-05-1872, art. 199, 17°, MB 19-05-1872`
+
+
+**Art. 95.** (...) `L 18-05-1872, art. 199, 17°, MB 19-05-1872`
+
+## Titre VII De la députation permanente du conseil.
+
+### Chapitre I Du nombre des députés, des incompatibilités et de la durée de leurs fonctions.
+
+
+**Art. 96.** (Forme fédérale) (§ 1er.) La députation permanente du conseil est composée de six membres (...) `L 1997-06-25/34, art. 27, 1° et 2°,  En vigueur :  15-07-1997`
+
+Un de ses membres au moins sera pris, dans chaque arrondissement judiciaire, parmi les conseillers élus ou domiciliés dans le ressort.
+
+(Par dérogation a l'alinéa 2, un des membres au moins de la députation permanente du conseil provincial de la province du Brabant flamand sera pris dans l'arrondissement de Hal-Vilvorde parmi les conseillers élus ou domiciliés dans le ressort.) `L 1993-07-16/31, art. 223,  En vigueur :  01-01-1995`
+
+(§ 2. Les membres de la députation permanente sont élus par le conseil en son sein.
+
+En cas de renouvellement du conseil provincial, les élus au conseil peuvent présenter des candidats en vue de cette élection. Un acte de présentation daté doit, pour chaque mandat, être déposé à cet effet entre les mains du gouverneur, au plus tard trois jours avant la séance d'installation du conseil.
+
+Pour être recevables, les actes de présentation doivent être signés au moins par une majorité des élus de la liste du candidat présenté. Si la liste sur laquelle figure le candidat ne compte que deux élus, la signature d'un seul d'entre eux suffit pour que la disposition qui précède soit respectée. Sauf en cas de décès d'un candidat présenté ou de renonciation au mandat de conseiller provincial par un tel candidat, nul ne peut signer plus d'un acte de présentation pour le même mandat.
+
+Si aucune présentation de candidats n'a été faite conformément à l'alinéa précité ou que les candidatures présentées par écrit ne suffisent pas à constituer entièrement la députation permanente, des candidats peuvent être présentés de vive voix en séance, à l'exclusion des candidats présentés par écrit qui n'ont pas été élus.
+
+L'élection a lieu au scrutin secret et à la majorité absolue, par autant de scrutins séparés qu'il y a de membres de la députation permanente à élire. Le rang des membres de la députation permanente est déterminé par l'ordre des scrutins.
+
+Si un seul candidat a été présenté pour un mandat à conférer, il est procédé à un seul tour de scrutin; dans tous les autres cas et si aucun candidat n'a obtenu la majorité après deux scrutins, il est procédé au ballottage entre les deux candidats qui ont obtenu le plus de voix; en cas de parité au ballottage, le membre qui compte le plus d'ancienneté en qualité de membre de la députation permanente est élu. `L 1997-06-25/34, art. 27, 3°,  En vigueur :  15-07-1997`
+
+
+§3.  Les membres de la députation permanente prêtent serment entre les mains du président du conseil provincial, séance tenante. `L 1997-06-25/34, art. 27, 3°,  En vigueur :  15-07-1997`
+
+
+§4.  Les membres de la députation permanente sortants lors d'un renouvellement intégral et les démissionnaires restent en fonction jusqu'à ce que les pouvoirs de leurs successeurs aient été vérifiés et que leur installation ait eu lieu.) `L 1997-06-25/34, art. 27, 3°,  En vigueur :  15-07-1997`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 96.** § 1er. (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  14-07-2006`
+
+
+§2.  (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  05-09-2006`
+
+
+§3.  (abrogé par Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+§4.  (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  05-09-2006`
+
+
+**Art. 97.** (Forme fédérale) `L 1997-06-25/34, art. 28,  En vigueur :  15-07-1997 ` Le président, le ou les vice-président(s) et les membres du bureau du conseil provincial ne peuvent être membres de la députation permanente.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 97.** (abrogé par Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 97bis.** (Forme fédérale) `Inséré par L 1999-05-04/86, art. 3,  En vigueur :  31-01-2001` La fonction de membre de la députation permanente ne peut pas être cumulée avec plus d'un mandat exécutif rémunéré.
+
+Sont considérés comme mandats exécutifs rémunérés au sens de l'alinéa précédent :
+ 1. tout mandat exercé au sein d'un organisme public ou privé, en tant que Représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que ce mandat confère davantage de pouvoir que la simple qualité de membre de l'assemblée générale ou du conseil d'administration de cet organisme et quel que soit le revenu y afférent;
+ 2. tout mandat exercé au sein d'un organisme public ou privé, en tant que Représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que le revenu mensuel brut imposable y afférent atteigne un montant de 20 000 francs au moins. Ce montant est adapté annuellement à l'évolution de l'indice des prix à la consommation.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 97bis.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 98.** (Forme fédérale) Les avocats membres de la députation ne pourront consulter dans les affaires qui sont de nature à être soumises à la députation ou dont elle aurait autorisé la poursuite.
+
+Ils ne peuvent prendre part aux délibérations relatives à des affaires sur lesquelles ils auraient été consultés avant leur élection à la députation.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 98.** (abrogé par Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 99.** (Forme fédérale) Le membre de la députation nommé par le gouvernement à un emploi salarié qu'il accepte, cesse immédiatement de siéger en cette qualité et ne reprend ses fonctions qu'en vertu d'une nouvelle élection.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 99.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 100.** (Forme fédérale) `L 15-05-1949, art. 10, MB 19-05-1949` Les membres de la députation permanente sont élus pour le terme de (six ans). `L 1993-07-16/31, art. 224,  En vigueur :  21-05-1995`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 100.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 101.** (Forme fédérale) `L 1997-06-25/34, art. 29,  En vigueur :  15-07-1997` Tout membre de la députation qui s'absente des séances, pendant un mois consécutif, sans l'assentiment de la députation, est réputé démissionnaire.
+
+Cette démission devient effective après son approbation par le conseil provincial.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 101.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 102.** (Forme fédérale) En cas de remplacement, le député nouvellement élu siège jusqu'à l'expiration du terme des fonctions de son prédécesseur, à moins qu'il ne cesse auparavant de faire partie du conseil.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 102.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+### Chapitre II Dispositions générales concernant la députation.
+
+
+**Art. 103.** (...) `L 01-07-1860, art. 3, MB 02-07-1860`
+
+
+**Art. 104.**(La députation permanente est présidée par le gouverneur; en cas d'empêchement, la députation désigne un de ses membres pour la présider. Le gouverneur n'a pas voix délibérative, sauf lorsque la députation permanente exerce une mission juridictionnelle.) `L 1997-06-25/34, art. 30,  En vigueur :  15-07-1997`
+
+(...) `L 1993-07-16/31, art. 225,  En vigueur :  01-01-95`
+
+(La députation permanente soumet à l'approbation du conseil son règlement d'ordre et de service intérieur.
+
+En vue de la préparation de ses délibérations, la députation permanente répartit entre ses membres (élus) les matières qui sont de sa compétence. Elle communique cette répartition au conseil. `L 1999-05-04/53, art. 5, a),  En vigueur :  22-06-1999`
+
+La députation permanente peut délibérer lorsque la majorité de ses membres (qui ont voix délibérative) est présente. Si, dans une matière quelconque, la députation permanente n'est pas en nombre suffisant pour délibérer, il peut être assumé un ou deux conseillers provinciaux pour compléter ce nombre. (Les conseillers sont appelés d'après l'ordre d'inscription au tableau des présences. Ce tableau est établi en tenant compte de l'ordre d'ancienneté des conseillers, à compter du jour de leur première entrée en service, et, en cas d'égalité, du nombre de suffrage obtenus aux dernières élections. Les incompatibilités s'appliquant aux membres de la députation permanente s'appliquent également aux conseillers provinciaux qui sont appelés, en application du présent article, à compléter la députation permanente. Si une telle incompatibilité existe, ils peuvent, par lettre adressée au gouverneur, renoncer à compléter la députation permanente soit sur un point précis, soit de manière plus générale.) `L 06-07-1987, art. 5, 1° et 3°, MB 18-08-1987` `L 1999-05-04/53, art. 5, b) et c),  En vigueur :  22-06-1999`
+
+(Toute résolution est prise à la majorité absolue des membres qui ont voix délibérative présents. Une proposition est rejetée en cas de partage des voix. Lorsque la députation permanente exerce une mission juridictionnelle :
+
+a) seuls les membres ayant suivi la totalité de la procédure peuvent prendre part au vote;
+
+b) la voix du président, pour autant qu'il ait voix délibérative, est prépondérante en cas de partage des voix.) `L 1999-05-04/53, art. 5, d),  En vigueur :  22-06-1999`
+
+(La députation permanente peut désigner le rapporteur qui présente le dossier et formule les propositions.) `L 1997-06-25/34, art. 30,  En vigueur :  15-07-1997`
+
+(Il est tenu procès-verbal des délibérations. Les procès-verbaux font mention des noms des membres qui ont assisté à la séance.) `L 27-05-1870, art. 1, 4°, MB 29-05-1870`
+
+(Chaque fois qu'il s'agit de validation d'élections, l'exposé de l'affaire par un membre de la députation et le prononcé des décisions ont lieu en séance publique.
+
+La décision doit être motivée.
+
+Toute décision de la députation doit mentionner le nom du rapporteur, ainsi que ceux des membres présents.
+
+Les formalités prescrites aux trois (alinéas) précédents sont requises à peine de nullité.) `L 30-12-1887, art. 4, MB 04-01-1988` `L 27-05-1975, art. 2, 24°, MB 22-08-1975`
+
+
+Art. 104_REGION_FLAMANDE. 
+
+(NOTE : abrogé par l'Autorité flamande, sauf dans la mesure où la disposition concerne la mission juridictionnelle de la députation. `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`) (La députation permanente est présidée par le gouverneur; en cas d'empêchement, la députation désigne un de ses membres pour la présider. Le gouverneur n'a pas voix délibérative, sauf lorsque la députation permanente exerce une mission juridictionnelle.) `L 1997-06-25/34, art. 30,  En vigueur :  15-07-1997`
+
+(...) `L 1993-07-16/31, art. 225,  En vigueur :  01-01-95`
+
+(La députation permanente soumet à l'approbation du conseil son règlement d'ordre et de service intérieur.
+
+En vue de la préparation de ses délibérations, la députation permanente répartit entre ses membres (élus) les matières qui sont de sa compétence. Elle communique cette répartition au conseil. `L 1999-05-04/53, art. 5, a),  En vigueur :  22-06-1999`
+
+La députation permanente peut délibérer lorsque la majorité de ses membres (qui ont voix délibérative) est présente. Si, dans une matière quelconque, la députation permanente n'est pas en nombre suffisant pour délibérer, il peut être assumé un ou deux conseillers provinciaux pour compléter ce nombre. (Les conseillers sont appelés d'après l'ordre d'inscription au tableau des présences. Ce tableau est établi en tenant compte de l'ordre d'ancienneté des conseillers, à compter du jour de leur première entrée en service, et, en cas d'égalité, du nombre de suffrage obtenus aux dernières élections. Les incompatibilités s'appliquant aux membres de la députation permanente s'appliquent également aux conseillers provinciaux qui sont appelés, en application du présent article, à compléter la députation permanente. Si une telle incompatibilité existe, ils peuvent, par lettre adressée au gouverneur, renoncer à compléter la députation permanente soit sur un point précis, soit de manière plus générale.) `L 06-07-1987, art. 5, 1° et 3°, MB 18-08-1987` `L 1999-05-04/53, art. 5, b) et c),  En vigueur :  22-06-1999`
+
+(Toute résolution est prise à la majorité absolue des membres qui ont voix délibérative présents. Une proposition est rejetée en cas de partage des voix. Lorsque la députation permanente exerce une mission juridictionnelle :
+
+a) seuls les membres ayant suivi la totalité de la procédure peuvent prendre part au vote;
+
+b) la voix du président, pour autant qu'il ait voix délibérative, est prépondérante en cas de partage des voix.) `L 1999-05-04/53, art. 5, d),  En vigueur :  22-06-1999`
+
+(La députation permanente peut désigner le rapporteur qui présente le dossier et formule les propositions.) `L 1997-06-25/34, art. 30,  En vigueur :  15-07-1997`
+
+(Il est tenu procès-verbal des délibérations. Les procès-verbaux font mention des noms des membres qui ont assisté à la séance.) `L 27-05-1870, art. 1, 4°, MB 29-05-1870`
+
+(Chaque fois qu'il s'agit de validation d'élections, l'exposé de l'affaire par un membre de la députation et le prononcé des décisions ont lieu en séance publique.
+
+La décision doit être motivée.
+
+Toute décision de la députation doit mentionner le nom du rapporteur, ainsi que ceux des membres présents.
+
+Les formalités prescrites aux trois (alinéas) précédents sont requises à peine de nullité.) `L 30-12-1887, art. 4, MB 04-01-1988` `L 27-05-1975, art. 2, 24°, MB 22-08-1975`
+
+**Art. 104bis.** `inséré par L 06-07-1987, art. 6, MB 18-08-1987` Dans tous les cas où la députation permanente exerce une mission juridictionnelle :
+ 1. l'instruction a lieu par écrit, sauf le pouvoir de la députation permanente de convoquer et d'entendre les parties;
+ 2. la députation permanente correspond directement avec les autorités et administrations soumises à sa juridiction; elle a le droit de se faire communiquer par ces autorités et administrations tous documents et renseignements relatifs aux affaires sur lesquelles elle est appelée à statuer;
+ 3. l'instruction est contradictoire; les parties et leurs avocats ont le droit de prendre connaissance au greffe provincial du dossier de l'affaire et de déposer un mémoire;
+ 4. s'il y a lieu à enquête, la députation permanente ordonne qu'il y soit procédé soit à son audience, soit par celui de ses membres qu'elle aura commis, et ce conformément à l'article 25, alinéas 2 à 5, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973;
+ 5. l'audience est publique, à moins que cette publicité ne soit dangereuse pour l'ordre ou les moeurs; dans ce cas, la députation permanente le déclare par décision motivée;
+ 6. un exposé de l'affaire est fait à l'audience par un membre de la députation permanente, après quoi les parties et leurs avocats peuvent présenter des observations orales;
+ 7. toute décision interlocutoire ou définitive est motivée et prononcée en audience publique; elle mentionne le nom du rapporteur ainsi que ceux des membres présents.
+
+Sauf dans les cas prévus aux Titres V et VI de la loi électorale communale et aux articles 18, 21 et 22 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, le Roi fixe les délais de recours à la députation permanente. Ces délais doivent être de soixante jours au moins.
+
+Le Roi règle la procédure.
+
+
+**Art. 105.** (Forme fédérale) `L 1999-05-04/86, art. 4,  En vigueur :  08-10-2000` § 1er. Les membres de la députation permanente reçoivent un traitement dont le montant est égal au montant de l'indemnité parlementaire liée au mandat de sénateur.
+
+
+§2.  Ils reçoivent une indemnité forfaitaire qui couvre toutes les charges inhérentes à l'exercice de leurs fonctions.
+
+Le montant de cette indemnité équivaut au montant de l'indemnité forfaitaire pour frais exposés liée au mandat de sénateur.
+
+Toutefois, les membres de la députation permanente qui ne résident pas au chef-lieu de la province sont indemnisés de leurs frais de parcours selon les règles fixées par le conseil provincial.
+
+
+§3.  Le montant des indemnités, traitements ou jetons de présence perçus en rétribution des activités exercées par le membre de la députation permanente en dehors de son mandat de députe permanent, ne peut excéder la moitié du montant du traitement prévu au § 1.
+
+Sont pris en considération pour le calcul de ce montant les indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique.
+
+En cas de dépassement de la limite fixée à l'alinéa 1, le montant des indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique visés à l'alinéa 2 est réduit à due concurrence.
+
+Lorsque les activités visées aux alinéas 1 et 2 débutent ou prennent fin en cours de mandat, le député permanent concerné en informe le président du conseil provincial.
+
+
+§4.  Le conseil provincial fixe le montant du traitement et de l'indemnité forfaitaire visés au §§ 1 et 2, alinéa 1.
+
+Il fixe en outre le montant de l'indemnité prévue au § 2, alinéa 3.
+
+Il fixe les modalités d'application des règles prévues au § 3.
+
+
+§5.  Les anciens membres de la députation permanente ou leurs ayants droit reçoivent une pension dont le conseil provincial fixe les conditions et modalités d'attribution.
+
+(§ 6. Chaque député permanent peut être assisté par un secrétariat. Le conseil provincial règle la composition et le financement des secrétariats, ainsi que le mode de recrutement, le statut administratif, la rémunération et les indemnités éventuelles des collaborateurs des secrétariats.) `L 1999-12-22/46, art. 2,  En vigueur :  08-10-2000`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 105.** `L 1999-05-04/86, art. 4,  En vigueur :  08-10-2000` § 1er. (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+§2.  (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+§3.  (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+§4.  (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+§5.  Les anciens membres de la députation permanente ou leurs ayants droit reçoivent une pension dont le conseil provincial fixe les conditions et modalités d'attribution.
+
+
+§6.  (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+
+**Art. 106.** (Forme fédérale) La députation donne son avis sur toutes les affaires qui lui sont soumises à cet effet, en vertu des lois ou par le gouvernement.
+
+Elle délibère (...) sur tout ce qui concerne l'administration journalière des intérêts de la province et sur l'exécution des lois pour lesquelles son intervention est requise ou qui lui sont adressées, à cet effet, par le gouvernement; elle délibère également sur les réquisitions qui lui sont faites par le gouverneur. `L 06-01-1984, art. 5, MB 09-02-1984`
+
+(La députation permanente veille à l'instruction préalable des affaires d'intérêt provincial qui sont soumises au conseil ou à la députation permanente elle-même.
+
+Elle exécute ses propres délibérations ainsi que celles prises par le conseil; elle peut en charger un de ses membres. Elle peut également charger un ou plusieurs de ses membres de l'instruction d'une affaire.) `L 06-07-1987, art. 8, 1°`
+
+(Elle peut défendre en justice à toute action intentée contre la province; elle peut intenter (...) les actions qui ont pour objet des biens meubles, ainsi que les actions possessoires, et faire tous actes conservatoires; elle nomme les conseils de la province et les mandataires chargés de la représenter devant les tribunaux; (...). (Les actions en justice de la province, en demandant ou en défendant, décidées par la députation permanente, sont exercées, au nom de celle-ci, par son président.) `L 30-12-1887, art. 5` `L 27-05-1975, art. 2` `L 06-01-1984, art. 5` `L 06-07-1987, art. 8`
+
+(Aux fins d'instruction des affaires, la députation permanente peut requérir le recours des employés des bureaux de la province.) `L 06-07-1987, art. 8, 4°`
+
+(...) `L 06-07-1987, art. 8, 5°`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 106.** (abrogé) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 106bis.** (Forme fédérale) `Inséré par L 1999-05-04/85, art. 5,  En vigueur :  07-08-1999` Le membre de la députation permanente, qui fait l'objet d'une action en dommages et intérêts devant la juridiction civile ou répressive, peut appeler à la cause l'Etat ou la province.
+
+L'Etat ou la province peut intervenir volontairement.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 106bis.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 106ter.** (Forme fédérale) `L 1999-05-04/85, art. 6,  En vigueur :  07-08-1999` La province est civilement responsable du paiement des amendes auxquelles sont condamnés les membres de la députation permanente à la suite d'une infraction commise dans l'exercice normal de leurs fonctions, sauf en cas de récidive.
+
+L'action récursoire de la province à l'encontre du membre condamné de la députation permanente est limitée au dol, à la faute lourde ou à la faute légère présentant un caractère habituel.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 106ter.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 002;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 107.** (Forme fédérale) `L 1997-06-25/34, art. 32,  En vigueur :  15-07-1997` La députation permanente est responsable de l'organisation des archives de l'administration provinciale.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 107.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 108.** (Forme fédérale) Les membres de la députation ne peuvent prendre part directement ni indirectement, dans aucun service, perception de droit, fourniture ou adjudication de travaux publics pour compte de la province, de l'Etat (, des communautés et régions) ou des communes dans la province. `L 1997-06-25/34, art. 33,  En vigueur :  15-07-1997`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 108.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 109.** (Forme fédérale) La députation peut charger un ou plusieurs de ses membres d'une mission, lorsque l'intérêt du service l'exige.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 109.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 110.** (Forme fédérale) La députation peut, après deux avertissements consécutifs constatés par la correspondance, charger un ou plusieurs commissaires de se transporter sur les lieux aux frais personnels des autorités administratives subordonnées, en retard de satisfaire aux avertissements, à l'effet de recueillir les renseignements ou observations demandés, ou de mettre à exécution les mesures prescrites par le conseil ou par la députation.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 110.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+Région wallonne.
+
+**Art. 110.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, § 2, 10°,  En vigueur :  01-10-1989`
+
+++++++++++
+
+
+**Art. 111.** (Forme fédérale) La députation désigne un ou plusieurs de ses membres aussi souvent qu'elle le juge convenable, et au moins une fois par an, pour vérifier l'état des recettes et dépenses de la province.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 111.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 112.** (Forme fédérale) `L 28-12-1883, art. 1, MB 31-12-1883` Il ne peut être disposé des fonds de la province qu'au moyen de mandats délivrés par la députation (permanente). `L 1997-06-25/34, art. 34, 1°,  En vigueur :  15-07-1997`
+
+(Les mandats donnés au cours d'une séance de la députation permanente sont signés par la personne qui a présidé ladite séance et par la personne qui en a assumé le secrétariat.) `L 1999-05-04/53, art. 7, a),  En vigueur :  22-06-1999`
+
+(...) `L 1997-06-25/34, art. 34, 4°,  En vigueur :  15-07-1997`
+
+(Par dérogation aux dispositions qui précédent :
+
+a) toutes les dépenses de personnel, quel qu'en soit le montant, ainsi que les dépenses de fonctionnement (et les dépenses d'investissement du service extraordinaire) ne dépassant pas (50 000 EUR) F, peuvent être payées sur des crédits ouverts conformément à l'article 15, alinéa 1, de la loi du 29 octobre 1846 organique de la Cour des comptes; `L 1999-05-04/53, art. 7, b,  En vigueur :  22-06-1999` `AR 2000-07-20/71, art. 7,  En vigueur :  01-01-2002`
+
+b) toutes les rémunérations payables de la main à la main, quel qu'en soit le montant, ainsi que les dépenses pour travaux, fournitures et transports qui ne dépassent pas (2 500 EUR) F, peuvent être payées sur avances de fonds délivrées conformément à l'article 15, alinéa 1, 2°, de la même loi. Ces avances ne peuvent excéder (37 500 EUR) par comptable. Toutefois, cette limite peut être dépassée jusqu'à concurrence du montant nécessaire pour assurer le paiement des rémunérations de la main à la main.) `L 10-07-1979, art. 3, MB 04-08-1979` `AR 2000-07-20/71, art. 7,  En vigueur :  01-01-2002`
+
+(...) `L 1997-06-25/34, art. 34, 4°,  En vigueur :  15-07-1997`
+
+(Les pièces justificatives des dépenses à régler sur ouverture de crédit ou sur avance de fonds sont, avant le paiement, revêtues de l'approbation de la députation ou des autorités et fonctionnaires délégués à ces fins par ce collège.) `L 18-05-1951, art. 1, MB 04-06-1951`
+
+(...) `L 1997-06-25/34, art. 34, 4°,  En vigueur :  15-07-1997`
+
+Aucun mandat ne peut être payé que dans les limites des crédits ouverts au budget de la province.
+
+(Le règlement général sur le contrôle des engagements de dépenses (...) des provinces est établi par le Roi.) `L 1963-06-28/30, art. 78, MB 31-07-1963` `L 1997-06-25/34, art. 34, 5°,  En vigueur :  15-07-1997`
+
+++++++++++ Communauté et Régions.
+
+Autorité flamande.
+
+**Art. 112.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006, sauf pour l'alinéa 3, point b, et l'alinéa 4, pour lesquels l'entrée en vigueur est le 01-01-2008`
+
+++++++++++
+
+
+**Art. 112bis.** `Inséré par L 1999-05-04/53, art. 8,  En vigueur :  22-06-1999` La Cour des comptes contrôle les comptes des recettes et des dépenses de la province.
+
+
+**Art. 113.**(Forme fédérale) `L 11-07-1952, art 2, MB 22-08-1952` Les recettes et les dépenses générales des provinces sont opérées par l'entremise (d'une ou de plusieurs institutions financières qui satisfont, selon le cas, au prescrit des articles 7, 65 et 66) de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit. `L 1999-05-04/53, art. 9, a),  En vigueur :  22-06-1999`
+
+(Les institutions visées à l'alinéa 1 sont autorisées à prélever d'office, sur l'avoir des comptes qu'elles ont ouverts au nom de la province, le montant des dettes devenues exigibles que la province à contractée envers elles.) `L 1999-05-04/53, art. 9, b),  En vigueur :  22-06-1999`
+
+Lorsque les dépenses provinciales autres que celles réglées d'office sont payées à l'intervention (d'une institution)(financière visée à l'alinéa 1), l'avis de débit figurant sur le coupon des ordres de paiement remis par la province à cette (institution) vaut quittance du paiement. Cet avis de débit est daté au moyen d'un timbre apposé (par une institution)(financière visée à l'alinéa 1).`L 1997-06-25/34, art. 35, 2°,  En vigueur :  15-07-1997` `L 1999-05-04/53, art. 9, c),  En vigueur :  22-06-1999`
+
+Avant la fin de chaque mois, le Ministre des finances fait procéder au règlement des fonds perçus pour le compte de la province par les employés des finances dans le mois précédent.
+
+Les subventions et autres interventions de l'Etat sont réglées par les administrations compétentes dès leur attribution.
+
+Le règlement sur le placement des fonds provinciaux est établi par le Roi.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :   indéterminée et  En vigueur :  01-07-2009, en ce qui concerne son alinéa deux (AGF 2009-06-05/05, art. 1)`
+
+++++++++++
+
+## Titre VIIbis (Du receveur provincial) `Inséré par L 1997-06-25/34, art. 36,  En vigueur :  01-01-1998`
+
+
+**Art. 113bis.** (Forme fédérale) `L 1997-06-25/34, art. 37,  En vigueur :  01-01-1998 (à l'exception du §2, lequel entre en vigueur le 11-10-1997 voir AR 1997-08-19/53, art. 1)` § 1. Dans chaque province est institué un emploi de receveur provincial.
+
+
+§2.  Le receveur provincial est nommé par le conseil provincial. Il est nommé sur la base d'un concours organisé par la province et ouvert aux candidats titulaires d'un diplôme leur permettant d'accéder aux emplois de niveau 1 dans les administrations de l'Etat, ainsi qu'aux membres du personnel provincial appartenant au niveau 1 par recrutement ou par avancement en grade. Cette nomination a lieu dans les six mois de la vacance de l'emploi.
+
+Par dérogation à l'alinéa précédent, le comptable de la province nommé à titre définitif peut être nommé receveur provincial.
+
+A défaut de cette nomination, le comptable nommé à titre définitif est nommé d'office receveur provincial adjoint par le conseil provincial avec maintien de son traitement et les avantages qui y sont liés.
+
+
+§3.  Les receveurs provinciaux prêtent serment entre les mains du président du conseil provincial.
+
+
+§4.  Le receveur provincial est placé sous l'autorité de la députation permanente.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113bis.** (NOTE : abrogé par l'Autorité flamande sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `L 1997-06-25/34, art. 37,  En vigueur :  01-01-1998 (à l'exception du § 2, lequel entre en vigueur le 11-10-1997 voir AR 1997-08-19/53, art. 1)` § 1. Dans chaque province est institué un emploi de receveur provincial.
+
+
+§2.  Le receveur provincial est nommé par le conseil provincial. Il est nomme sur la base d'un concours organisé par la province et ouvert aux candidats titulaires d'un diplôme leur permettant d'accéder aux emplois de niveau 1 dans les administrations de l'Etat, ainsi qu'aux membres du personnel provincial appartenant au niveau 1 par recrutement ou par avancement en grade. Cette nomination a lieu dans les six mois de la vacance de l'emploi.
+
+Par dérogation à l'alinéa précédent, le comptable de la province nommé à titre définitif peut être nommé receveur provincial.
+
+A défaut de cette nomination, le comptable nommé à titre définitif est nommé d'office receveur provincial adjoint par le conseil provincial avec maintien de son traitement et les avantages qui y sont liés.
+
+
+§3.  Les receveurs provinciaux prêtent serment entre les mains du président du conseil provincial.
+
+
+§4.  Le receveur provincial est placé sous l'autorité de la députation permanente.
+
+++++++++++
+
+
+**Art. 113ter.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 38,  En vigueur :  01-01-1998` § 1er. En cas d'absence justifiée, le receveur provincial peut, dans les trois jours, sous sa responsabilité, désigner, pour une période de trente jours au plus, un remplaçant agréé par la députation permanente. Cette mesure peut être renouvelée à deux reprises pour une même absence.
+
+
+§2.  Dans tous les autres cas, le conseil provincial peut désigner un receveur provincial faisant fonction. Le conseil provincial y est tenu lorsque l'absence excède un terme de trois mois.
+
+
+§3.  Le receveur provincial faisant fonction doit réunir les conditions requises pour l'exercice de la fonction de receveur provincial. Il exerce toutes les attributions dévolues au receveur provincial.
+
+
+§4.  Lors de son installation et de la cessation de ses fonctions, il est procédé à l'établissement d'un compte de fin de gestion et à la remise de l'encaisse et des pièces comptables, sous la surveillance de la députation permanente.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113ter.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 38,  En vigueur :  01-01-1998` § 1er. En cas d'absence justifiée, le receveur provincial peut, dans les trois jours, sous sa responsabilité, désigner, pour une période de trente jours au plus, un remplaçant agréé par la députation permanente. Cette mesure peut être renouvelée à deux reprises pour une même absence.
+
+
+§2.  Dans tous les autres cas, le conseil provincial peut désigner un receveur provincial faisant fonction. Le conseil provincial y est tenu lorsque l'absence excède un terme de trois mois.
+
+
+§3.  Le receveur provincial faisant fonction doit réunir les conditions requises pour l'exercice de la fonction de receveur provincial. Il exerce toutes les attributions dévolues au receveur provincial.
+
+
+§4.  Lors de son installation et de la cessation de ses fonctions, il est procédé à l'établissement d'un compte de fin de gestion et à la remise de l'encaisse et des pièces comptables, sous la surveillance de la députation permanente.
+
+++++++++++
+
+
+**Art. 113quater.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 39,  En vigueur :  01-01-1998` Le receveur provincial est tenu de fournir, pour garantie de sa gestion, un cautionnement en numéraire, en titres ou sous la forme d'une ou de plusieurs hypothèques.
+
+Le Roi fixe le montant minimum et maximum de cautionnement.
+
+Au plus tard lors de la séance au cours de laquelle le receveur provincial prête serment, le conseil provincial fixe, dans les limites visées à l'alinéa 2, le montant du cautionnement qu'il doit constituer ainsi que le délai qui lui est imparti pour ce faire.
+
+Le cautionnement est placé à la Caisse des dépôts et consignations; l'intérêt qu'il porte appartient au receveur.
+
+(Le receveur peut remplacer le cautionnement par la caution solidaire d'une association sans but lucratif agréée par le Roi. L'agrément et les statuts de l'association sont publiés au Moniteur belge.
+
+L'association peut contrôler l'encaisse et la comptabilité du receveur dont elle s'est portée garante. Ce contrôle s'exerce selon les modalités et aux conditions convenues entre l'association, le receveur et le conseil provincial.
+
+L'association transmet chaque année ses comptes, auxquels est joint un rapport d'activités, à tous les conseils provinciaux dont elle s'est portée garante.
+
+Le receveur peut aussi remplacer le cautionnement par une garantie bancaire ou une assurance, qui satisfait aux conditions fixées par le Roi.) `L 1999-05-04/53, art. 10,  En vigueur :  22-06-1999`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113quater.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 39,  En vigueur :  01-01-1998` Le receveur provincial est tenu de fournir, pour garantie de sa gestion, un cautionnement en numéraire, en titres ou sous la forme d'une ou de plusieurs hypothèques.
+
+Le Roi fixe le montant minimum et maximum de cautionnement.
+
+Au plus tard lors de la séance au cours de laquelle le receveur provincial prête serment, le conseil provincial fixe, dans les limites visées à l'alinéa 2, le montant du cautionnement qu'il doit constituer ainsi que le délai qui lui est imparti pour ce faire.
+
+Le cautionnement est placé à la Caisse des dépôts et consignations; l'intérêt qu'il porte appartient au receveur.
+
+(Le receveur peut remplacer le cautionnement par la caution solidaire d'une association sans but lucratif agréée par le Roi. L'agrément et les statuts de l'association sont publiés au Moniteur belge.
+
+L'association peut contrôler l'encaisse et la comptabilité du receveur dont elle s'est portée garante. Ce contrôle s'exerce selon les modalités et aux conditions convenues entre l'association, le receveur et le conseil provincial.
+
+L'association transmet chaque année ses comptes, auxquels est joint un rapport d'activités, à tous les conseils provinciaux dont elle s'est portée garante.
+
+Le receveur peut aussi remplacer le cautionnement par une garantie bancaire ou une assurance, qui satisfait aux conditions fixées par le Roi.) `L 1999-05-04/53, art. 10,  En vigueur :  22-06-1999`
+
+
+**Art. 113quinquies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 40,  En vigueur :  01-01-1998` Lorsque, en raison d'augmentation des recettes annuelles ou pour toute autre cause, il sera jugé que le cautionnement fixé par le conseil provincial n'est pas suffisant, le receveur devra fournir, dans un temps limité, un cautionnement supplémentaire à l'égard duquel on suivra les mêmes règles que pour le cautionnement primitif.
+
+La députation permanente veille à ce que le cautionnement soit réellement fourni et renouvelé en temps requis.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande
+
+**Art. 113quinquies.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 40,  En vigueur :  01-01-1998` Lorsque, en raison d'augmentation des recettes annuelles ou pour toute autre cause, il sera jugé que le cautionnement fixé par le conseil provincial n'est pas suffisant, le receveur devra fournir, dans un temps limité, un cautionnement supplémentaire à l'égard duquel on suivra les mêmes règles que pour le cautionnement primitif.
+
+La députation permanente veille à ce que le cautionnement soit réellement fourni et renouvelé en temps requis.
+
+++++++++++
+
+
+**Art. 113sexies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 41,  En vigueur :  01-01-1998` Tout receveur provincial qui n'aura pas fourni son cautionnement ou supplément de cautionnement dans les délais prescrits, et qui n'aura pas justifié ce retard par des motifs suffisants, sera considéré comme démissionnaire et il sera pourvu à son remplacement.
+
+Tous frais relatifs à la constitution du cautionnement sont à la charge du receveur provincial.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113sexies.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 41,  En vigueur :  01-01-1998` Tout receveur provincial qui n'aura pas fourni son cautionnement ou supplément de cautionnement dans les délais prescrits, et qui n'aura pas justifié ce retard par des motifs suffisants, sera considéré comme démissionnaire et il sera pourvu à son remplacement.
+
+Tous frais relatifs à la constitution du cautionnement sont à la charge du receveur provincial.
+
+++++++++++
+
+
+**Art. 113septies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 42,  En vigueur :  01-01-1998` En cas de déficit dans une caisse provinciale, la province a privilège sur le cautionnement du receveur provincial, lorsque ces garanties ont été fournies en numéraire.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113septies.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 42,  En vigueur :  01-01-1998` En cas de déficit dans une caisse provinciale, la province a privilège sur le cautionnement du receveur provincial, lorsque ces garanties ont été fournies en numéraire.
+
+++++++++++
+
+
+**Art. 113octies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 43,  En vigueur :  01-01-1998` Le receveur provincial est chargé :
+
+a) de la tenue de la comptabilité de la province et de l'établissement des comptes annuels;
+
+b) (de procéder au paiement des dépenses sur mandats réguliers, seul et sous sa responsabilité;) `L 1999-05-04/53, art. 11, a),  En vigueur :  22-06-1999`
+
+c) de la gestion des comptes ouverts au nom de la province et du service de la trésorerie générale de la province;
+
+d) du placement des fonds de trésorerie;
+
+e) du contrôle et de la centralisation des engagements;
+
+f) du contrôle des receveurs spéciaux;
+
+g) de la perception et du recouvrement forcé des impôts provinciaux en application de (la loi du 24 décembre 1996 relative à l'établissement et au recouvrement des taxes provinciales et communales); `L 1999-05-04/53, art. 11, b),  En vigueur :  22-06-1999`
+
+h) de la fourniture d'avis financiers lors de l'établissement du budget et du plan financier pluriannuel.
+
+Chaque année, à la date fixée par le règlement général sur la comptabilité des provinces, il rend compte de sa gestion a la Cour des comptes.)
+
+(S'il y a, de la part du receveur, refus ou retard d'acquitter le montant de mandats réguliers, le paiement en sera poursuivi sur l'exécution du conseil provincial, qui pourra convoquer le receveur et l'entendra préalablement, s'il se présente.) `L 1999-05-04/53, art. 11, c),  En vigueur :  22-06-1999`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113octies.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006, sauf pour le point f, pour lequel l'entrée en vigueur est le 01-01-2007`) `Inséré par L 1997-06-25/34, art. 43,  En vigueur :  01-01-1998` Le receveur provincial est chargé :
+
+a) de la tenue de la comptabilité de la province et de l'établissement des comptes annuels;
+
+b) (de procéder au paiement des dépenses sur mandats réguliers, seul et sous sa responsabilité;) `L 1999-05-04/53, art. 11, a),  En vigueur :  22-06-1999`
+
+c) de la gestion des comptes ouverts au nom de la province et du service de la trésorerie générale de la province;
+
+d) du placement des fonds de trésorerie;
+
+e) du contrôle et de la centralisation des engagements;
+
+f) du contrôle des receveurs spéciaux;
+
+g) de la perception et du recouvrement forcé des impôts provinciaux en application de (la loi du 24 décembre 1996 relative à l'établissement et au recouvrement des taxes provinciales et communales); `L 1999-05-04/53, art. 11, b),  En vigueur :  22-06-1999`
+
+h) de la fourniture d'avis financiers lors de l'établissement du budget et du plan financier pluriannuel.
+
+Chaque année, à la date fixée par le règlement général sur la comptabilité des provinces, il rend compte de sa gestion à la Cour des comptes.)
+
+(S'il y a, de la part du receveur, refus ou retard d'acquitter le montant de mandats réguliers, le paiement en sera poursuivi sur l'exécution du conseil provincial, qui pourra convoquer le receveur et l'entendra préalablement, s'il se présente.) `L 1999-05-04/53, art. 11, c),  En vigueur :  22-06-1999`
+
+++++++++++
+
+
+**Art. 113novies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 44,  En vigueur :  01-01-1998` Le traitement du receveur provincial est fixé par le conseil provincial conformément à l'échelle des traitements applicable aux secrétaires communaux des communes de 80 001 à 150 000 habitants, telle que prévue par l'article 28 de la nouvelle loi communale.
+
+Les services que le receveur provincial a accomplis dans une administration fédérale, régionale, provinciale ou communale, avant sa nomination en cette qualité, sont intégralement pris en compte pour le calcul de son traitement et de sa pension de retraite ou de survie, lesquels sont à charge de la province.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113novies.** (NOTE : abroge par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 44,  En vigueur :  01-01-1998` Le traitement du receveur provincial est fixé par le conseil provincial conformément à l'échelle des traitements applicable aux secrétaires communaux des communes de 80 001 à 150 000 habitants, telle que prévue par l'article 28 de la nouvelle loi communale.
+
+Les services que le receveur provincial a accomplis dans une administration fédérale, régionale, provinciale ou communale, avant sa nomination en cette qualité, sont intégralement pris en compte pour le calcul de son traitement et de sa pension de retraite ou de survie, lesquels sont à charge de la province.
+
+++++++++++
+
+
+**Art. 113decies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 45,  En vigueur :  01-01-1998` Il est interdit au receveur provincial d'exercer un commerce, même par personne interposée.
+
+(...) `L 1999-05-04/53, art. 12,  En vigueur :  22-06-1999`
+
+Le conseil provincial inflige une sanction disciplinaire au receveur provincial qui enfreint (cette interdiction). `L 1999-05-04/53, art. 12,  En vigueur :  22-06-1999`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113decies.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 45,  En vigueur :  01-01-1998` Il est interdit au receveur provincial d'exercer un commerce, même par personne interposée.
+
+(...) `L 1999-05-04/53, art. 12,  En vigueur :  22-06-1999`
+
+Le conseil provincial inflige une sanction disciplinaire au receveur provincial qui enfreint (cette interdiction). `L 1999-05-04/53, art. 12,  En vigueur :  22-06-1999`
+
+++++++++++
+
+
+**Art. 113undecies.** (Forme fédérale) `inséré par L 1997-06-25/34, art. 46,  En vigueur :  01-01-1998` Un compte de fin de gestion est établi lorsque le receveur provincial cesse définitivement d'exercer ses fonctions. Le compte de fin de gestion du receveur provincial, accompagné, s'il y a lieu, de ses observations, ou, en cas de décès, de celles de ses ayants cause, est soumis par la députation permanente à la Cour des comptes, qui l'arrête définitivement selon les modalités prescrites aux articles 10 à 13 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 113undecies.** (NOTE : abrogé par l'Autorité flamande, sauf lorsqu'il se rapporte aux pensions et à l'exception des dispositions relatives aux compétences de la Cour des Comptes.) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `inséré par L 1997-06-25/34, art. 46,  En vigueur :  01-01-1998` Un compte de fin de gestion est établi lorsque le receveur provincial cesse définitivement d'exercer ses fonctions. Le compte de fin de gestion du receveur provincial, accompagné, s'il y a lieu, de ses observations, ou, en cas de décès, de celles de ses ayants cause, est soumis par la députation permanente à la Cour des comptes, qui l'arrête définitivement selon les modalités prescrites aux articles 10 à 13 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.
+
+++++++++++
+
+
+**Art. 114.** (Forme fédérale) `L 11-07-1952, art. 4, MB 22-08-1952` Lorsque les conseils établiront des receveurs spéciaux chargés d'effectuer certaines recettes, ils détermineront les garanties qui seront exigées de ces comptables dont les recettes seront versées périodiquement soit au compte général des chèques postaux de la province, (au compte général de la province, conformément à l'article 113). `L 1997-06-25/34, art. 47, 1°,  En vigueur :  01-01-1998`
+
+Les agents commis à la garde, à la conservation ou à l'emploi des matières ou du matériel appartenant à la province, sont responsables de ces matières ou matériel, et sont assimilés aux receveurs spéciaux ou comptables en deniers, en ce qui concerne les garanties à fournir et les comptes à rendre à la Cour des comptes.
+
+Le mobilier de la province est inventorié. Sont compris dans le mobilier, les machines, appareils et matériel non confiés à la garde des agents comptables visés au second alinéa.
+
+Les inventaires de mobiliers établis pour chaque institution ou service sont récoltés chaque année, et à chaque mutation de fonctionnaire responsable. (...) `L 1997-06-25/34, art. 47, 2°,  En vigueur :  01-01-1998`
+
+++++++++++
+
+Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006, excepté pour les régies provinciales`) `L 11-07-1952, art. 4, MB 22-08-1952` Lorsque les conseils établiront des receveurs spéciaux chargés d'effectuer certaines recettes, ils détermineront les garanties qui seront exigées de ces comptables dont les recettes seront versées périodiquement soit au compte général des chèques postaux de la province, (au compte général de la province, conformément à l'article 113). `L 1997-06-25/34, art. 47, 1°,  En vigueur :  01-01-1998`
+
+Les agents commis à la garde, à la conservation ou à l'emploi des matières ou du matériel appartenant à la province, sont responsables de ces matières ou matériel, et sont assimilés aux receveurs spéciaux ou comptables en deniers, en ce qui concerne les garanties à fournir et les comptes à rendre à la Cour des comptes.
+
+Le mobilier de la province est inventorié. Sont compris dans le mobilier, les machines, appareils et matériel non confiés à la garde des agents comptables visés au second alinéa.
+
+Les inventaires de mobiliers établis pour chaque institution ou service sont récoltés chaque année, et à chaque mutation de fonctionnaire responsable. (...) `L 1997-06-25/34, art. 47, 2°,  En vigueur :  01-01-1998`
+
+++++++++++
+
+## Titre VIIter (Des régies provinciales et des régies provinciales autonomes) `Inséré par L 1997-06-25/34, art. 48,  En vigueur :  15-07-1997`
+
+### Chapitre I (Des régies provinciales) `Inséré par L 1997-06-25/34, art. 48,  En vigueur :  15-07-1997`
+
+
+**Art. 114bis.** (Forme fédérale) `L 1997-06-25/34, art. 49,  En vigueur :  15-07-1997` Les établissements et services provinciaux peuvent être organisés en régies et gérés en dehors des services généraux de la province.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114bis.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `L 1997-06-25/34, art. 49,  En vigueur :  15-07-1997` Les établissements et services provinciaux peuvent être organisés en régies et gérés en dehors des services généraux de la province.
+
+++++++++++
+
+
+**Art. 114ter.** (Forme fédérale) `Inséré par AR24 26-07-1939, art. 2, III, MB 12-08-1939` La gestion des régies se fait suivant des méthodes industrielles et commerciales.
+
+L'exercice financier des régies cadre avec l'année civile.
+
+Le compte des régies comprend le bilan, le compte d'exploitation et le compte de profits et pertes arrêtés le 31 décembre de chaque année.
+
+Les bénéfices nets des régies sont versés annuellement à la caisse provinciale.
+
+Les autres règles propres à la gestion financière des régies sont déterminées par le Roi (, sauf celles qui sont fixées par d'autres lois et décrets). `L 1999-05-04/53, art. 13,  En vigueur :  22-06-1999`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114ter.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par AR24 26-07-1939, art. 2, III, MB 12-08-1939` La gestion des régies se fait suivant des méthodes industrielles et commerciales.
+
+L'exercice financier des régies cadre avec l'année civile.
+
+Le compte des régies comprend le bilan, le compte d'exploitation et le compte de profits et pertes arrêtés le 31 décembre de chaque année.
+
+Les bénéfices nets des régies sont versés annuellement à la caisse provinciale.
+
+Les autres règles propres à la gestion financière des régies sont déterminées par le Roi (, sauf celles qui sont fixées par d'autres lois et décrets). `L 1999-05-04/53, art. 13,  En vigueur :  22-06-1999`
+
+++++++++++
+
+
+**Art. 114quater.** (Forme fédérale) `Inséré par AR 26-07-1939, art. 2, III, MB 12-08-1939` Les recettes et dépenses des régies provinciales peuvent être effectuées par un comptable particulier.
+
+Ce comptable est assimilé aux receveurs spéciaux visés à l'article 114 (...) quant aux garanties à fournir et aux comptes à rendre à la Cour des comptes. `L 27-05-1975, art. 2, MB 22-08-1975`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114quater.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par AR 26-07-1939, art. 2, III, MB 12-08-1939` Les recettes et dépenses des régies provinciales peuvent être effectuées par un comptable particulier.
+
+Ce comptable est assimilé aux receveurs spéciaux vises à l'article 114 (...) quant aux garanties à fournir et aux comptes à rendre à la Cour des comptes. `L 27-05-1975, art. 2, MB 22-08-1975`
+
+++++++++++
+
+### Chapitre II (Des régies provinciales autonomes) `Inséré par L 1997-06-25/34, art. 48,  En vigueur :  15-07-1997`
+
+
+**Art. 114quinquies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 50,  En vigueur :  15-07-1997` Le conseil provincial peut ériger les établissements et services à caractère industriel ou commercial en régies provinciales autonomes dotées de la personnalité civile.
+
+Le Roi détermine les activités a caractère industriel ou commercial pour lesquelles le conseil provincial peut créer une régie provinciale autonome dotée de la personnalité juridique.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114quinquies.** (NOTE : abrogé par l'autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 50,  En vigueur :  15-07-1997` Le conseil provincial peut ériger les établissements et services à caractère industriel ou commercial en régies provinciales autonomes dotées de la personnalité civile.
+
+Le Roi détermine les activités à caractère industriel ou commercial pour lesquelles le conseil provincial peut créer une régie provinciale autonome dotée de la personnalité juridique.
+
+++++++++++
+
+
+**Art. 114sexies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 51,  En vigueur :  15-07-1997` § 1. Les régies provinciales autonomes sont gérées par un conseil d'administration et un comité de direction.
+
+
+§2.  Le conseil d'administration a le pouvoir d'accomplir tous les actes utiles ou nécessaires à la réalisation de l'objet de la régie provinciale autonome.
+
+Le conseil d'administration contrôle la gestion assurée par le comité de direction. Celui-ci fait régulièrement rapport au conseil d'administration.
+
+Le conseil provincial désigne les membres du conseil d'administration de la régie provinciale autonome. Leur nombre ne peut dépasser un cinquième du nombre des conseillers provinciaux. La majorité du conseil d'administration est composée de membres du conseil provincial. Chaque groupe politique y est représenté.
+
+Le conseil d'administration choisit un président parmi ses membres.
+
+En cas de partage des voix au sein du conseil d'administration, la voix du président est prépondérante.
+
+
+§3.  Le comité de direction est chargé de la gestion journalière, de la représentation quant à cette gestion, ainsi que de l'exécution des décisions du conseil d'administration. Il est composé d'un administrateur délégué et de quatre administrateurs directeurs désignés par le conseil d'administration.
+
+Le comité de direction est présidé par l'administrateur délégué. En cas de partage des voix au comité de direction, sa voix est prépondérante.
+
+++++++++++
+
+Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114sexies.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 51,  En vigueur :  15-07-1997` § 1. Les régies provinciales autonomes sont gérées par un conseil d'administration et un comité de direction.
+
+
+§2.  Le conseil d'administration a le pouvoir d'accomplir tous les actes utiles ou nécessaires à la réalisation de l'objet de la régie provinciale autonome.
+
+Le conseil d'administration contrôle la gestion assurée par le comité de direction. Celui-ci fait régulièrement rapport au conseil d'administration.
+
+Le conseil provincial désigne les membres du conseil d'administration de la régie provinciale autonome. Leur nombre ne peut dépasser un cinquième du nombre des conseillers provinciaux. La majorité du conseil d'administration est composée de membres du conseil provincial. Chaque groupe politique y est représenté.
+
+Le conseil d'administration choisit un président parmi ses membres.
+
+En cas de partage des voix au sein du conseil d'administration, la voix du président est prépondérante.
+
+
+§3.  Le comité de direction est chargé de la gestion journalière, de la représentation quant à cette gestion, ainsi que de l'exécution des décisions du conseil d'administration. Il est composé d'un administrateur délégué et de quatre administrateurs directeurs désignés par le conseil d'administration.
+
+Le comité de direction est présidé par l'administrateur délégué. En cas de partage des voix au comité de direction, sa voix est prépondérante.
+
+++++++++++
+
+
+**Art. 114septies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 52,  En vigueur :  15-07-1997` Le contrôle de la situation financière et des comptes annuels des régies provinciales autonomes est confié à un collège de trois commissaires désignés par le conseil provincial en dehors du conseil d'administration de la régie et dont l'un au moins a la qualité de membre de l'institut des réviseurs d'entreprises.
+
+Ce dernier excepté, les membres du collège des commissaires sont tous membres du conseil provincial.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114septies.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :   indéterminée`) `Inséré par L 1997-06-25/34, art. 52,  En vigueur :  15-07-1997` Le contrôle de la situation financière et des comptes annuels des régies provinciales autonomes est confié à un collège de trois commissaires désignés par le conseil provincial en dehors du conseil d'administration de la régie et dont l'un au moins a la qualité de membre de l'institut des réviseurs d'entreprises.
+
+Ce dernier excepté, les membres du collège des commissaires sont tous membres du conseil provincial.
+
++++++++++
+
+
+**Art. 114octies.** `Inséré par L 1997-06-25/34, art. 53,  En vigueur :  15-07-1997` Les conseillers provinciaux dont le mandat prend fin sont réputés démissionnaires de plein droit de la régie provinciale autonome.
+
+Tous les mandats dans les différents organes des régies provinciales autonomes prennent fin lors de la première réunion du conseil d'administration suivant l'installation du conseil provincial.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114octies.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 53,  En vigueur :  15-07-1997` Les conseillers provinciaux dont le mandat prend fin sont réputés démissionnaires de plein droit de la régie provinciale autonome.
+
+Tous les mandats dans les différents organes des régies provinciales autonomes prennent fin lors de la première réunion du conseil d'administration suivant l'installation du conseil provincial.
+
+++++++++++
+
+
+**Art. 114novies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 54,  En vigueur :  15-07-1997` § 1. Les régies provinciales autonomes décident librement, dans les limites de leur objet, de l'acquisition, de l'utilisation et de l'aliénation de leurs biens corporels et incorporels, de la constitution ou de la suppression de droits réels sur ces biens, ainsi que de l'exécution de telles décisions et de leur mode de financement.
+
+
+§2.  Elles peuvent prendre des participations directes ou indirectes dans des sociétés, associations et institutions de droit public ou de droit privé, ci-après dénommées les filiales, dont l'objet social est compatible avec leur objet.
+
+Quelle que soit l'importance des apports des diverses parties à la constitution du capital social, la régie provinciale autonome dispose de la majorité des voix et assume la présidence dans les organes des filiales.
+
+Les membres du conseil provincial siégeant comme administrateur ou commissaire dans les organes d'une régie provinciale autonome, ne peuvent détenir aucun mandat rémunéré d'administrateur ou de commissaire ni exercer aucune activité salariée dans une filiale de cette régie.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114novies.** (NOTE : abrogé par l'autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 54,  En vigueur :  15-07-1997` § 1. Les régies provinciales autonomes décident librement, dans les limites de leur objet, de l'acquisition, de l'utilisation et de l'aliénation de leurs biens corporels et incorporels, de la constitution ou de la suppression de droits réels sur ces biens, ainsi que de l'exécution de telles décisions et de leur mode de financement.
+
+(En ce qui concerne les projets PPP locaux au sens du décret relatif au partenariat public-privé, les régies provinciales autonomes et leurs filiales peuvent, moyennant motivation spéciale et détaillée, constituer des droits réels sur les biens immeubles appartenant au domaine public, pour autant que les droits réels constitués ne sont pas manifestement incompatibles avec la destination de ces biens.) `DCFL 2003-07-18/62, art. 16, 1°,  En vigueur :  29-09-2003`
+
+
+§2.  Elles peuvent prendre des participations directes ou indirectes dans des sociétés, associations et institutions de droit public ou de droit privé, ci-après dénommées les filiales, dont l'objet social est compatible avec leur objet.
+
+Quelle que soit l'importance des apports des diverses parties à la constitution du capital social, la régie provinciale autonome dispose de la majorité des voix et assume la présidence dans les organes des filiales. (Cette condition ne s'applique toutefois pas si l'unique objectif de la filiale consiste en la réalisation des projets PPP locaux au sens du décret relatif au partenariat public-privé.) `DCFL 2003-07-18/62, art. 16, 2°,  En vigueur :  29-09-2003`
+
+Les membres du conseil provincial siégeant comme administrateur ou commissaire dans les organes d'une régie provinciale autonome, ne peuvent détenir aucun mandat rémunéré d'administrateur ou de commissaire ni exercer aucune activité salariée dans une filiale de cette régie.
+
+++++++++++
+
+
+**Art. 114decies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 55,  En vigueur :  15-07-1997` § 1. Le conseil d'administration établit chaque année un plan d'entreprise fixant les objectifs et la stratégie à moyen terme de la régie provinciale autonome, ainsi qu'un rapport d'activité. Le plan d'entreprise et le rapport d'activité sont communiqués au conseil provincial.
+
+
+§2.  Le conseil provincial peut, à tout moment, demander au conseil d'administration un rapport sur les activités de la régie provinciale autonome ou sur certaines d'entre elles.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114decies.** (NOTE : abrogé par l'autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 55,  En vigueur :  15-07-1997` § 1. Le conseil d'administration établit chaque année un plan d'entreprise fixant les objectifs et la stratégie à moyen terme de la régie provinciale autonome, ainsi qu'un rapport d'activité. Le plan d'entreprise et le rapport d'activité sont communiqués au conseil provincial.
+
+
+§2.  Le conseil provincial peut, à tout moment, demander au conseil d'administration un rapport sur les activités de la régie provinciale autonome ou sur certaines d'entre elles.
+
+++++++++++
+
+
+**Art. 114undecies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 56,  En vigueur :  15-07-1997` Les articles 53 à 67 des lois coordonnées sur les sociétés commerciales sont applicables aux régies provinciales autonomes, a moins qu'il n'y soit dérogé expressément par la présente loi.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114undecies.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 1997-06-25/34, art. 56,  En vigueur :  15-07-1997` Les articles 53 à 67 des lois coordonnées sur les sociétés commerciales sont applicables aux régies provinciales autonomes, à moins qu'il n'y soit dérogé expressément par la présente loi.
+
+++++++++++
+
+
+**Art. 114duodecies.** (Forme fédérale) `Inséré par L 1997-06-25/34, art. 57,  En vigueur :  15-07-1997` Les régies provinciales autonomes sont soumises à la loi du 17 juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114duodecies.** (NOTE : abrogé par l'Autorité flamande, à l'exception des dispositions relatives aux compétences de la Cour des Comptes. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :   indéterminée`) `Inséré par L 1997-06-25/34, art. 57,  En vigueur :  15-07-1997` Les régies provinciales autonomes sont soumises à la loi du 17 juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises.
+
+++++++++++
+
+
+**Art. 114terdecies.** (Forme fédérale) `Inséré par L 1999-05-04/52, art. 2,  En vigueur :  22-06-1999` Les provinces peuvent, sur décision du conseil provincial, participer à des institutions et des associations qui jouissent de la personnalité civile, ou s'y faire représenter, des lors que le fonctionnement de celles-ci se rapporte à des questions d'intérêt provincial.
+
+Chaque année, il est fait rapport de leurs activités au conseil provincial et leurs comptes lui sont soumis.
+
+++++++++++
+
+Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 114terdecies.** (abroge par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+## Titre VIIquater (Des règlements et ordonnances du conseil provincial ou de la députation permanente) `Inséré par L 1997-06-25/34, art. 58,  En vigueur :  15-07-1997`
+
+
+**Art. 115.** (...) `L 1997-06-25/34, art. 78, 2°,  En vigueur :  15-07-1997`
+
+
+**Art. 116.** (Forme fédérale) `L 1997-06-25/34, art. 59,  En vigueur :  15-07-1997` L'article 91 est applicable à la députation permanente.
+
+++++++++++ Communautés et Régions.
+
+Région wallonne.
+
+**Art. 116.** (Abrogé pour la région wallonne) `DRW 1989-07-20/31, art. 40, §2, 12°,  En vigueur :  01-10-1989`
+
+Autorité flamande.
+
+**Art. 116.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+
+**Art. 116bis.** (Région flamande) (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 117.** (Forme fédérale) Les règlements et les ordonnances du conseil ou de la députation sont publiés en leur nom, signés par leur président respectif et contresignés par le greffier provincial.
+
+(Ces règlements et ordonnances) sont publiés par la voie du Mémorial administratif de la province dans la forme suivante :
+
+" Le conseil provincial (ou la députation du conseil provincial) de la province de... (arrête ou ordonne) ".
+
+(Suivent les règlements ou ordonnances) `L 27-05-1975, art. 2, MB 22-08-1975`
+
+++++++++++
+
+Communautés et Régions
+
+Autorité flamande.
+
+**Art. 117.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 118.** (Forme fédérale) (§ 1.) (Les règlements et ordonnances) signés par le président et contresignés par le greffier provincial, munis de l'approbation du Roi, quand il y a lieu, seront transmis aux autorités que la chose concerne. `L 27-05-1975, art. 2, MB 22-08-1975` `L 1997-06-25/34, art. 60,  En vigueur :  15-07-1997`
+
+Ils deviennent obligatoires le huitième jour après celui de l'insertion dans le Mémorial administratif, sauf le cas où ce délai aurait été abrégé par le règlement ou l'ordonnance.
+
+Le conseil ou la députation pourra, outre l'insertion dans le Mémorial administratif, prescrire un mode particulier de publication.
+
+(§ 2. La correspondance (et les actes) de la province est signée par le gouverneur et contresignée par le greffier provincial. `L 1999-05-04/53, art. 14,  En vigueur :  22-06-1999`
+
+Le gouverneur peut déléguer par écrit la signature de certains documents à un ou plusieurs membres de la députation permanente. Il peut révoquer cette délégation à tout moment.
+
+La mention de la délégation doit précéder la signature, le nom et la qualité du membre de la députation permanente titulaire de la délégation.
+
+La députation permanente peut autoriser le greffier provincial à déléguer le contreseing de certains documents à un ou plusieurs fonctionnaires de la province.
+
+Cette délégation est faite par écrit; le conseil provincial en est informé au cours de sa plus prochaine séance.
+
+La mention de la délégation doit précéder la signature, le nom et la qualité du fonctionnaire délégué sur tous les documents qu'il signe.) `§ 2 inséré par L 1997-06-25/34, art. 60,  En vigueur :  15-07-1997`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 118.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+## Titre VIII Du greffier provincial.
+
+
+**Art. 119.** (Forme fédérale) `L 27-05-1870, art 1, 6°, MB 29-05-1870` Le greffier provincial assiste aux séances du conseil et de la députation; il est spécialement chargé de la rédaction des procès-verbaux et de la transcription des délibérations; il tient, à cet effet, des registres distincts pour le conseil et pour la députation, sans blanc ni interligne; ces registres sont cotés et paraphés par le président.
+
+Les règlements d'ordre et de service intérieur déterminent quelles sont les délibérations qui doivent être transcrites.
+
+(Les actes ainsi transcrits, de même que les minutes de toutes les délibérations, sont signés par le greffier, soit avec le président du conseil ou de la députation permanente selon qu'il s'agit de séances du conseil ou de la députation permanente, soit avec tous les membres de la députation permanente qui y ont assiste, conformément à ce qui est statué par le règlement.) `L 1997-06-25/34, art. 61,  En vigueur :  15-07-1997`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 119.** (abroge par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 120.** (Forme fédérale) `L 27-05-1870, art. 1, MB 29-05-1870` Les expéditions sont délivrées sous la signature du greffier et le sceau de la province dont il est le dépositaire.
+
+Le greffier a la garde des archives; il est tenu de communiquer, sans déplacement, aux membres du conseil et de la députation, toutes les pièces qui lui sont demandées et d'en délivrer, au besoin, des copies.
+
+Il transmet à chaque conseiller provincial un exemplaire de tout ce qui est imprimé au nom du conseil et de la députation.
+
+Il est tenu de donner communication, sans déplacement, à toute personne intéressée, des actes du conseil ou de la députation et des pièces déposées aux archives.
+
+(Le greffier provincial est à la tête de l'ensemble du personnel, agents de l'Etat et agents provinciaux, affecté à l'administration provinciale.
+
+Il dirige les travaux des services, conformément aux directives du gouverneur pour les agents de l'Etat et de la députation permanente pour le personnel provincial.) `L 06-07-1987, art. 9, MB 18-08-1987`
+
+(Le conseil provincial fixe le traitement du greffier provincial dans les limites minimum et maximum de l'échelle de traitement liée à la fonction de secrétaire communal des communes classées dans la catégorie supérieure conformément à l'article 28 de la loi communale. Le conseil provincial détermine les indemnités et allocations dont le greffier jouit à l'instar des autres fonctionnaires provinciaux.) `L 1997-06-25/34, art. 62,  En vigueur :  15-07-1997`
+
+(Le greffier provincial est tenu de résider dans la province.) `L 1994-07-11/31, art. 4,  En vigueur :  29-07-1994`
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 120.** (NOTE : abrogé par l'Autorité flamande, à l'exception des alinéas cinq et six pour autant qu'ils se rapportent au personnel de l'Etat travaillant auprès de la province. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `L 27-05-1870, art. 1, MB 29-05-1870` Les expéditions sont délivrées sous la signature du greffier et le sceau de la province dont il est le dépositaire.
+
+Le greffier a la garde des archives; il est tenu de communiquer, sans déplacement, aux membres du conseil et de la députation, toutes les pièces qui lui sont demandées et d'en délivrer, au besoin, des copies.
+
+Il transmet à chaque conseiller provincial un exemplaire de tout ce qui est imprimé au nom du conseil et de la députation.
+
+Il est tenu de donner communication, sans déplacement, à toute personne intéressée, des actes du conseil ou de la députation et des pièces déposées aux archives.
+
+(Le greffier provincial est à la tête de l'ensemble du personnel, agents de l'Etat et agents provinciaux, affecté à l'administration provinciale.
+
+Il dirige les travaux des services, conformément aux directives du gouverneur pour les agents de l'Etat et de la députation permanente pour le personnel provincial.) `L 06-07-1987, art. 9, MB 18-08-1987`
+
+(Le conseil provincial fixe le traitement du greffier provincial dans les limites minimum et maximum de l'échelle de traitement liée à la fonction de secrétaire communal des communes classées dans la catégorie supérieure conformément à l'article 28 de la loi communale. Le conseil provincial détermine les indemnités et allocations dont le greffier jouit à l'instar des autres fonctionnaires provinciaux.) `L 1997-06-25/34, art. 62,  En vigueur :  15-07-1997`
+
+(Le greffier provincial est tenu de résider dans la province.) `L 1994-07-11/31, art. 4,  En vigueur :  29-07-1994`
+
+++++++++++
+
+
+**Art. 121.** (Forme fédérale) `L 1997-06-25/34, art. 63,  En vigueur :  15-07-1997` En cas d'empêchement ou d'absence du greffier provincial, il est remplacé par un fonctionnaire de l'administration provinciale, désigné par la députation permanente.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 121.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+TITRE IX. - Du gouverneur.
+
+### Chapitre I Du gouverneur dans ses rapports avec le conseil ou la députation.
+
+
+**Art. 122.** (Forme fédérale) `L 06-07-1987, art. 10, MB 18-08-1987` Le gouverneur veille à l'instruction de toutes les affaires autres que celles visées à l'article 106.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 122.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 123.** (Forme fédérale) Le gouverneur ou celui qui le remplace dans ses fonctions a le droit d'assister aux délibérations du conseil; il peut se faire assister de commissaires; il est entendu quand il le demande; il peut adresser au conseil, qui est tenu d'en délibérer, tel réquisitoire qu'il trouve convenable.
+
+Le conseil peut requérir sa présence.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 123.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 124.**`L 06-07-1987, art. 11, MB 18-08-1987` Le gouverneur est chargé, dans la province, de l'exécution des lois, des décrets et des arrêtes d'administration générale ainsi que des arrêtés des Exécutifs des Communautés et des Régions, à moins que la loi, le décret, le Roi ou les Exécutifs en décident autrement.
+
+Il est le représentant de l'Etat dans la province. A ce titre, il préside une commission interministérielle chargée de promouvoir la coordination et la concertation entre les administrations, les établissements et organismes publics de l'Etat établis dans la province et compétents pour celle-ci, à l'exclusion des services dépendant des départements de la Justice et de la Défense nationale. Le Roi règle la composition et le fonctionnement de cette commission.
+
+A la demande de l'Exécutif d'une Communauté ou d'une Région, les travaux de la commission interministérielle sont élargis aux services de cet Exécutif dans la province.
+
+Les modalités de cet élargissement sont définies par un arrêté royal délibéré en Conseil des ministres, après avis des Exécutifs communautaires et régionaux concernés.
+
+
+Art. 124_REGION_FLAMANDE. 
+
+`L 06-07-1987, art. 11, MB 18-08-1987` Le gouverneur est chargé, dans la province, de l'exécution des lois, des décrets et des arrêtés d'administration générale ainsi que des arrêtés des Exécutifs des Communautés et des Régions, à moins que la loi, le décret, le Roi ou les Exécutifs en décident autrement. (NOTE : ce premier alinéa est abrogé par l'Autorité flamande. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`)
+
+Il est le représentant de l'Etat dans la province. A ce titre, il préside une commission interministérielle chargée de promouvoir la coordination et la concertation entre les administrations, les établissements et organismes publics de l'Etat établis dans la province et compétents pour celle-ci, à l'exclusion des services dépendant des départements de la Justice et de la Défense nationale. Le Roi règle la composition et le fonctionnement de cette commission.
+
+A la demande de l'Exécutif d'une Communauté ou d'une Région, les travaux de la commission interministérielle sont élargis aux services de cet Exécutif dans la province.
+
+Les modalités de cet élargissement sont définies par un arrêté royal délibéré en Conseil des ministres, après avis des Exécutifs communautaires et régionaux concernés.
+
+**Art. 125.** (Texte fédéral) `Abrogé implicitement à cause de l'abrogation de la province de Brabant`
+
+**Art. 125.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 13°, MB 01-10-1989`
+
+**Art. 125.** (Région flamande) (...) `DCFL 1995-02-22/30, art. 25, 1°,  En vigueur :  01-04-1995`
+
+
+**Art. 125bis.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 14°,  En vigueur :  01-10-1989`
+
+### Chapitre II Des dispositions générales concernant le gouverneur.
+
+
+**Art. 126.**Le gouverneur réside au chef-lieu de la province (ou en tout autre lieu de la province que le Roi désigne de l'avis du conseil provincial). `L 1994-07-11/31, art. 5,  En vigueur :  29-07-1994`
+
+(...) `L 06-07-1987, art. 12, 1° MB 18-08-1987`
+
+(Le Roi nomme les agents de l'Etat du niveau 1 du gouvernement provincial sur présentation du gouverneur, qui tient compte du statut des agents de l'Etat. Les agents de l'Etat des niveaux 2, 3 et 4 sont nommés par le gouverneur.
+
+Le Roi règle le transfert du personnel du gouvernement provincial au cadre du personnel de la province nommé conformément à l'article 65, deuxième alinéa, de la loi provinciale.) `L 06-07-1987, art. 12, MB 18-08-1987`
+
+(...) `L 06-07-1987, art. 12, 4°, MB 18-08-1987`
+
+(Le gouverneur de province, le vice-gouverneur et l'adjoint du gouverneur sont assistés par un secrétariat. Le Roi fixe la composition de ces secrétariats ainsi que le statut administratif et pécuniaire de leurs membres et les indemnités auxquelles ceux-ci peuvent prétendre.) `L 1999-05-04/53, art. 15,  En vigueur :  22-06-1999`
+
+
+Art. 126_REGION_FLAMANDE. 
+
+(premier alinéa abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+(...) `L 06-07-1987, art. 12, 1° MB 18-08-1987`
+
+(Le Roi nomme les agents de l'Etat du niveau 1 du gouvernement provincial sur présentation du gouverneur, qui tient compte du statut des agents de l'Etat. Les agents de l'Etat des niveaux 2, 3 et 4 sont nommes par le gouverneur.
+
+Le Roi règle le transfert du personnel du gouvernement provincial au cadre du personnel de la province nommé conformément à l'article 65, deuxième alinéa, de la loi provinciale.) `L 06-07-1987, art. 12, MB 18-08-1987`
+
+(...) `L 06-07-1987, art. 12, 4°, MB 18-08-1987`
+
+(quatrième alinéa abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+**Art. 127.** (Forme fédérale) Lorsque les autorités administratives ou les fonctionnaires subordonnés à l'administration provinciale sont en retard de lui donner les avis et informations qu'il requiert dans l'intérêt de ses fonctions, il peut, après leur avoir fixé un nouveau délai, envoyer, à leurs frais personnels, un commissaire spécial, pour recueillir les renseignements demandés.
+
+++++++++++ Communautés et Régions.
+
+Région wallonne.
+
+**Art. 127.** (Région wallonne) (...) `DRW 1989-07-20/31, art. 40, §2, 15°,  En vigueur :  01-10-1989`
+
+Autorité flamande.
+
+**Art. 127.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 128.** `L 1998-12-07/31, art. 226,  En vigueur :  01-01-2001` Le gouverneur veille dans la province au maintien de l'ordre public, à savoir la tranquillité, la sûreté et la salubrité publiques.
+
+Il peut à cet effet faire appel à la police fédérale. A cette fin, il s'adresse alors au directeur coordonnateur administratif.
+
+Il veille à la bonne coopération entre les services de police et entre les zones de police dans la province.
+
+Il peut être chargé par les ministres compétents de missions spéciales relatives à la sécurité et à la police.
+
+
+**Art. 129.** En cas de rassemblements tumultueux, de sédition ou d'opposition avec voie de fait à l'exécution des lois ou des ordonnances légales, le gouverneur a le droit de requérir la force armée. Il en informe immédiatement les ministres de l'intérieur et (de la défense nationale); l'officier commandant est tenu d'obtempérer à la réquisition écrite du gouverneur. `L 27-05-1975, art 2, MB 22-08-1975`
+
+
+**Art. 130.** (Forme fédérale) Il est défendu au gouverneur de prendre, directement ou indirectement, une part quelconque dans aucune fourniture, adjudication ou entreprise faites ou à faire dans la province pour le compte de l'Etat ou d'une administration publique.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 130.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 131.** (Forme fédérale) Le gouverneur fait, au moins une fois par an, la vérification de la caisse provinciale; il peut vérifier les caisses publiques toutes les fois qu'il le juge nécessaire.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 131.** (abrogé par l'autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+### Chapitre III (Le collège des gouverneurs de province) `Chapitre III inséré par L 1988-08-09/30, art. 1, MB 13-08-1988`
+
+
+**Art. 131bis.** `Inséré par L 1988-08-09/30, art. 1, MB 13-08-1988` Le collège des gouverneurs de province est composé des gouverneurs de chaque province (...). (Dans les cas visés au deuxième alinéa de l'article 83 de la nouvelle loi communale) et au dernier alinéa de l'article 22 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, les gouverneurs des provinces de Hainaut et de Limbourg ne siègent pas au collège. `L 1993-07-16/31, art 226, ED 01-01-1995`
+
+Pour les matières définies par la loi, le collège émet un avis sur les propositions de décision émanant du gouverneur de la province de Limbourg ou de Hainaut.
+
+La demande d'avis suspend les délais dans lesquels l'autorité de tutelle doit prendre sa décision jusqu'au jour de la réception de l'avis au gouvernement provincial.
+
+Le collège émet son avis à la majorité des voix. En cas de partage des voix, l'avis est considéré comme négatif.
+
+Par arrêté délibéré en Conseil des ministres, le Roi fixe les modalités de fonctionnement du collège, notamment en vue d'assurer la parité linguistique en son sein.
+
+
+TITRE X. - Des commissaires d'arrondissement (et des fonctionnaires de liaison) `L 1998-12-07/31, art. 227, ED 01-01-2001`
+
+
+**Art. 132.** `L 1993-07-16/31, art. 227,  En vigueur :  01-01-1995` A l'exception de l'arrondissement administratif de Bruxelles-Capitale, il y a, pour un ou plusieurs arrondissements administratifs, un commissaire du gouvernement fédéral, qui porte le titre de commissaire d'arrondissement.
+
+
+**Art. 133.** Les commissaires d'arrondissement sont spécialement chargés, sous la direction du gouverneur (...) de veiller (...) au maintien des lois et des règlements d'administration générale (...). `L 06-07-1987, art. 14, MB 18-08-1987` `L 1998-12-07/31, art. 228, 1°,  En vigueur :  01-01-2001`
+
+(...) `L 1998-12-07/31, art. 228, 2°,  En vigueur :  01-01-2001`
+
+
+**Art. 134.** `L 1998-12-07/31, art. 229,  En vigueur :  01-01-2001` Un ou plusieurs fonctionnaires de liaison des services de police sont détachés auprès du (gouverneur). Ils assistent le (gouverneur) et les commissaires d'arrondissement dans leurs missions en matière de sécurité et de police et exercent leur tâche sous l'autorité du gouverneur. `L 1999-04-19/50, art. 16,  En vigueur :  01-01-2001`
+
+Le Roi détermine le nombre de fonctionnaires de liaison par province. Le fonctionnaire de liaison est désigné par le (gouverneur) conformément aux conditions fixées par le Roi.
+
+
+**Art. 135.**
+
+`Abrogé par L 2018-06-18/03, art. 117,12°, 009; En vigueur : 31-03-2019` 
+
+
+**Art. 136.** (Forme fédérale) (...) `L 06-07-1987, art. 17, 1°, MB 18-08-1987`
+
+(Ils font immédiatement rapport au gouverneur sur tout événement extraordinaire qui arrive dans leur ou leurs arrondissement(s) ou dans les matières qui leur sont confiées.) `L 06-07-1987, art. 17, 2°, MB 18-08-1987`
+
+++++++++++
+
+Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 136.** (NOTE : abrogé par l'Autorité flamande, sauf les dispositions relatives à la police `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`)
+
+++++++++++
+
+
+**Art. 137.** (...) `L 06-07-1987, art. 18, MB 18-08-1987`
+
+
+**Art. 138.** (...) `L 06-07-1987, art. 19, MB 18-08-1987`
+
+
+**Art. 139.** `L 27-05-1870, art. 1, 7°, MB 29-05-1870` Les dispositions des articles 128 et 129 sont communes aux commissaires d'arrondissement.
+
+
+**Art. 139bis.** (Forme fédérale) `Inséré par L 06-07-1987, art. 20, MB 18-08-1987` Le gouverneur peut confier à un ou plusieurs commissaires d'arrondissement, pour tout ou partie du territoire de la province, l'exercice de certaines compétences ou missions qui lui sont attribuées par la loi ou les règlements d'administration générale.
+
+++++++++++
+
+Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 139bis.** (NOTE : abrogé par l'Autorité flamande, sauf les dispositions relatives à la police. `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`) `Inséré par L 06-07-1987, art. 20, MB 18-08-1987` Le gouverneur peut confier à un ou plusieurs commissaires d'arrondissement, pour tout ou partie du territoire de la province, l'exercice de certaines compétences ou missions qui lui sont attribuées par la loi ou les règlements d'administration générale.
+
+++++++++++
+
+
+Disposition commune au gouverneur, au greffier et aux commissaires d'arrondissement.
+
+
+**Art. 140.** (Forme fédérale) `L 27-05-1975, art. 2, MB 22-08-1975` § 1. Ne peuvent être gouverneur de province, greffier provincial ou commissaire d'arrondissement :
+ 1. les titulaires d'une fonction dans l'ordre judiciaire;
+ 2. les ministres des cultes;
+ 3. les ingénieurs et conducteurs des ponts et chaussées et les ingénieurs et conducteurs des mines;
+ 4. les personnes chargées d'une fonction enseignante, rétribuées par l'Etat, (les communautés), la province ou la commune, sauf les professeurs ordinaires et extraordinaires et les chargés de cours des universités de l'Etat; `L 1997-06-25/34, art. 64,  En vigueur :  15-07-1997`
+ 5. les bourgmestres, les échevins, les conseillers communaux, les secrétaires et receveurs communaux et les receveurs (des centres publics d'aide sociale); `L 1997-06-25/34, art. 64,  En vigueur :  15-07-1997`
+ 6. les avocats et les notaires.
+
+
+§2.  Les fonctions de gouverneur de province, greffier provincial et commissaire d'arrondissement sont incompatibles avec toute autre fonction directement subordonnée, soit au gouverneur, soit au conseil provincial, soit à la députation permanente.
+
+
+§3.  Ne peuvent être conjoints, ni parents ou alliés jusqu'au quatrième degré inclusivement, le gouverneur de province, le greffier provincial et les commissaires d'arrondissement, ni l'un des deux premiers et un membre de la députation permanente.
+
+L'alliance survenue pendant les fonctions ne les fait pas cesser. Il n'en est pas de même du mariage.
+
+++++++++++
+
+Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 140.** (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 87°, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+TITRE Xbis. - (De la consultation populaire provinciale) `L 1997-06-25/34, art. 65,  En vigueur :  15-07-1997`
+
+
+**Art. 140.1.**(Forme fédérale) `L 1999-03-25/45, art. 2,  En vigueur :  01-09-1999` Le Conseil provincial peut, soit d'initiative, soit à la demande des habitants de la province, décider de consulter les habitants sur les matières d'intérêt provincial.
+
+L'initiative émanant des habitants de la province doit être soutenue par au moins 10 % de ceux-ci.
+
+
+**Art. 140.1.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.1.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.2.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 67,  En vigueur :  15-07-1997` Toute demande d'organisation d'une consultation a l'initiative des (habitants de la province) doit être adressée par lettre recommandée à la députation permanente.
+
+A la demande sont joints une note motivée et les documents de nature à informer le conseil provincial. `L 1999-03-25/45, art. 3,  En vigueur :  01-09-1999`
+
+
+**Art. 140.2.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.2.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.3.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 68,  En vigueur :  15-07-1997` La demande n'est recevable que pour autant qu'elle soit introduite au moyen d'un formulaire délivré par la province et qu'elle comprenne, outre le nom de la province et la reproduction de l'article 196 du Code pénal, les mentions suivantes :
+ 1. la ou les questions qui font l'objet de la consultation proposée;
+ 2. le nom, les prénoms, la date de naissance et le domicile de chacun des signataires de la demande;
+
+(3° le nom, les prénoms, la date de naissance et le domicile des personnes qui prennent l'initiative de demander la consultation populaire.) `Inséré par L 1999-03-25/45, art. 4,  En vigueur :  01-09-1999`
+
+
+**Art. 140.3.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.3.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.4.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 69,  En vigueur :  15-07-1997` Dès la réception de la demande, la députation permanente examine si la demande est soutenue par un nombre suffisant de signatures valables.
+
+La députation permanente raye à l'occasion de cet examen :
+ 1. les signatures en double;
+ 2. les signatures des personnes (qui ne répondent pas aux conditions fixées à l'article 140-5, § 1); `L 1999-03-25/45, art. 5, 1°,  En vigueur :  01-09-1999`
+ 3. les signatures des personnes dont les données fournies ne suffisent pas à permettre la vérification de leur identité.
+
+Le contrôle est clos lorsque le nombre de signatures valables est atteint. (Dans ce cas, le conseil provincial organise une consultation populaire.) `L 1999-03-25/45, art. 5, 2°,  En vigueur :  01-09-1999`
+
+
+**Art. 140.4.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.4.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+**Art. 140.5.**(Forme fédérale) `L 1999-03-25/45, art. 6,  En vigueur :  01-09-1999` § 1. Pour demander une consultation populaire ou y participer, il faut :
+ 1. être inscrit ou mentionné au registre de la population d'une commune de la province;
+ 2. être âgé de seize ans accomplis;
+ 3. ne pas faire l'objet d'une condamnation ou d'une décision emportant l'exclusion ou la suspension des droits électoraux de ceux qui sont appelés à voter aux élections provinciales.
+
+
+§2.  Pour pouvoir demander une consultation populaire, les conditions prévues au § 1 doivent être réunies à la date à laquelle la demande a été introduite.
+
+Pour pouvoir participer à la consultation populaire, les conditions prévues au § 1, 2° et 3°, doivent être réunies le jour de la consultation et celle visée au § 1, 1°, doit l'être à la date à laquelle la liste de ceux qui participent à la consultation populaire est arrêtée.
+
+Les participants qui, postérieurement à la date à laquelle la liste précitée est arrêtée, font l'objet d'une condamnation ou d'une décision emportant dans le chef de ceux qui sont appelés à voter aux élections provinciales, soit l'exclusion des droits électoraux, soit la suspension, à la date de la consultation, de ces mêmes droits, sont rayés de ladite liste.
+
+
+§3.  L'article 1ter, § 1, de la loi du 19 octobre 1921 organique des élections provinciales est d'application à l'égard de toutes les catégories de personnes qui répondent aux conditions prescrites au § 1.
+
+Pour les ressortissants non-belges et pour les ressortissants belges âgés de moins de dix-huit ans, les notifications interviendront à l'initiative des parquets des cours et tribunaux dans l'hypothèse où la condamnation ou l'internement, qui ne sont plus susceptibles d'aucun recours ordinaire, auraient emporté exclusion de l'électorat ou suspension des droits électoraux s'ils avaient été prononcés à charge d'une personne appelée à voter aux élections provinciales.
+
+Si la notification intervient après que la liste de ceux qui participent a la consultation populaire a été arrêtée, l'intéressé est rayé de cette liste.
+
+
+§4.  Le trentième jour avant la consultation, le collège des bourgmestre et échevins dresse une liste des participants à la consultation populaire.
+
+Sur cette liste sont repris :
+ 1. les personnes qui, à la date mentionnée, sont inscrites ou mentionnées au registre de la population de la commune et satisfont aux autres conditions de participation prévues au § 1;
+ 2. les participants qui atteindront l'âge de seize ans entre cette date et la date de la consultation;
+ 3. les personnes dont la suspension des droits électoraux prendra ou prendrait fin au plus tard le jour fixe pour la consultation.
+
+Pour chaque personne satisfaisant aux conditions de participation, la liste des participants mentionne le nom, les prénoms, la date de naissance, le sexe et la résidence principale. La liste est établie selon une numérotation continue, le cas échéant par section de la commune, soit dans l'ordre alphabétique des participants, soit dans l'ordre géographique en fonction des rues.
+
+
+§5.  La participation a la consultation populaire n'est pas obligatoire.
+
+Chaque participant a droit à une voix.
+
+Le scrutin est secret.
+
+La consultation populaire ne peut avoir lieu que le dimanche. Les participants sont admis au scrutin de 8 à 13 heurs. Ceux qui se trouvent dans le local de vote avant 13 heures sont encore admis au scrutin.
+
+
+§6.  Il n'est procédé au dépouillement que si au moins 10 % des habitants de la province ont participé à la consultation.
+
+
+§7.  Les dispositions de l'article 147bis du Code électoral s'appliquant à la consultation populaire provinciale, étant entendu que le mot " électeur " est remplacé par le mot " participant ", que les mots " l'électeur " et " les électeurs " sont chaque fois remplacés respectivement par les mots " le participant " et " les participants ", que les mots " l'élection " sont remplacés par les mots " la consultation populaire " et que les mots " les élections pour lesquelles " sont remplacés par les mots " la consultation populaire pour laquelle ".
+
+
+**Art. 140.5.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.5.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.6.**(Forme fédérale) `Inséré par L 1997-03-25/34, art. 71,  En vigueur :  15-07-1997` Par matières d'intérêt provincial au sens de l'article 140-1, il faut entendre les matières réglées par les articles 65, 1er alinéa, 72, 73, 1er alinéa, 75, 76 et 85 de la présente loi.
+
+Les questions de personne et les questions relatives aux comptes, aux budgets, aux taxes et rétributions provinciales ne peuvent faire l'objet d'une consultation.
+
+Nulle consultation populaire ne peut être organisée au cours des seize mois qui précèdent la réunion ordinaire des électeurs pour le renouvellement des conseils provinciaux. En outre, nulle consultation populaire ne peut être organisée au cours des quarante jours qui précédent l'élection directe des membres de la Chambre des représentants, du Sénat, des Conseils et du Parlement européen.
+
+Les (habitants de la province) ne peuvent être consultés qu'une seule fois par semestre et six fois au plus par législature. Au cours de la période qui s'étend d'un renouvellement des conseils provinciaux à l'autre, il ne peut être organisé qu'une seule consultation sur le même sujet. `L 1999-03-25/45, art. 7,  En vigueur :  01-09-1999`
+
+
+**Art. 140.6.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.6.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.7.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 72,  En vigueur :  15-07-1997` Une demande d'organisation d'une consultation populaire est inscrite à l'ordre du jour de la plus prochaine séance de la députation permanente et du conseil provincial.
+
+Il est procédé à l'inscription après la clôture du contrôle visé à l'article 140-4.
+
+La députation permanente est obligée de procéder à l'inscription a l'ordre du jour du conseil provincial a moins que celui-ci ne soit manifestement pas compétent, à aucun égard, pour décider de la demande.
+
+S'il y a des doutes à ce sujet, c'est le conseil provincial qui décide.
+
+
+**Art. 140.7.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.7.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.8.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 73,  En vigueur :  15-07-1997` Toute décision sur l'organisation d'une consultation populaire fait l'objet d'une motivation formelle.
+
+L'alinéa précédent s'applique également à toute décision qui concerne directement une question qui a fait l'objet d'une consultation.
+
+
+**Art. 140.8.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.8.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.9.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 74,  En vigueur :  15-07-1997` Au moins un mois avant le jour de la consultation, l'administration provinciale met à la disposition des habitants une brochure présentant le sujet de la consultation populaire de manière objective. Cette brochure comporte en outre la note motivée, visée à l'article 140-2, alinéa 2, ainsi que la ou les questions sur lesquelles les habitants seront consultés.
+
+
+**Art. 140.9.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.9.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.10.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 75,  En vigueur :  15-07-1997` Les questions doivent être formulées de manière à ce qu'il puisse y être répondu par oui ou par non.
+
+
+**Art. 140.10.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.10.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.11.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 76,  En vigueur :  15-07-1997` Le Roi fixe par arrêté délibéré en Conseil des ministres les dispositions particulières relatives à la procédure d'organisation d'une consultation populaire provinciale par analogie avec la procédure visée à la loi du 19 octobre 1921 organique des élections provinciales pour l'élection des conseillers provinciaux.
+
+
+**Art. 140.11.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.11.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+**Art. 140.12.**(Forme fédérale) `Inséré par L 1997-06-25/34, art. 77,  En vigueur :  15-07-1997` Le Roi fixe les modalités suivant lesquelles les résultats de la consultation sont portés à la connaissance du public.
+
+
+**Art. 140.12.** (AUTORITE FLAMANDE)
+
+(Abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 88°, 004;  En vigueur :  01-12-2006`
+
+
+**Art. 140.12.** (REGION WALLONNE)
+
+(Abrogé par la Région wallonne) `DRW 2008-07-03/35, art. 9, 005; En vigueur : 14-08-2008`
+
+
+TITRE XI. - (Dispositions particulières et transitoires relatives au brabant) `Inséré par L 1993-07-16/31, art. 228,  En vigueur :  30-07-1993`
+
+
+**Art. 140bis.** `Inséré par L 1993-07-16/31, art. 228,  En vigueur :  30-07-1993` § 1. Par dérogation à l'article 66, le Sénat arrête les comptes de la province de Brabant pour l'année 1994 et les années antérieures s'il échet. Ces comptes sont soumis au Sénat avec les observations de la Cour des Comptes.
+
+
+§2.  Les charges prévues aux articles 4, alinéa 3, 105, § 3, et 113bis, alinéa 4, sont reprises, à compter du 1er janvier 1995, respectivement par la province du Brabant wallon, la province du Brabant flamand et la Région de Bruxelles-Capitale, selon le cas, en fonction de la commune où l'intéressé avait sa résidence au moment où il a été élu ou avait sa résidence au 1er janvier de la dernière année au cours de laquelle il a relevé de la province de Brabant.
+
+
+**Art. 140ter.** `Inséré par L 1993-07-16/31, art. 228,  En vigueur :  30-07-1993` Les membres de la députation permanente du Conseil provincial du Brabant, en fonction à la date de l'entrée en vigueur de la présente loi, continuent l'exercice de leur mandat jusqu'au 31 décembre 1994.
+
+
+**Art. 140quater.** `Inséré par L 1993-07-16/31, art. 228,  En vigueur :  30-07-1993` Les affaires relevant de la mission juridictionnelle de la députation permanente du conseil provincial du Brabant et qui sont pendantes devant celle-ci au 1er janvier 1995 pour ce qui concerne cette province, sont renvoyées :
+ * à la députation permanente du conseil provincial du Brabant wallon lorsque l'objet de la demande est localisé dans l'arrondissement administratif de Nivelles;
+ * à la députation permanente du conseil provincial du Brabant flamand lorsque l'objet de la demande est localisé dans l'arrondissement administratif de Louvain ou dans l'arrondissement administratif de Hal-Vilvorde;
+ * au collège visé à l'article 83quinquies de la loi du 12 janvier 1989 relative aux institutions bruxelloises, lorsque l'objet de la demande est localisé dans l'arrondissement administratif de Bruxelles-Capitale.
+
+Si l'objet de la demande n'est pas localisable dans l'un des arrondissements administratifs précités, le lieu de la résidence du demandeur détermine qui, de l'une des députations permanentes ou du collège précités, est compétent pour connaître de la demande.
+
+
+**Art. 140quinquies.** `Inséré par L 1993-07-16/31, art. 228,  En vigueur :  30-07-1993` Les affaires, qui sont pendantes devant les autorités provinciales de la province de Brabant au 1er janvier 1995 et qui ne relèvent pas de la mission juridictionnelle visée à l'article 104quater, sont renvoyées, pour ce qui concerne cette province :
+ * aux autorités provinciales de la province du Brabant wallon lorsque l'objet de l'affaire est localisé dans l'arrondissement administratif de Nivelles;
+ * aux autorités provinciales de la province du Brabant flamand lorsque l'objet de l'affaire est localisé dans l'arrondissement administratif de Louvain ou dans l'arrondissement administratif de Hal-Vilvorde;
+ * aux autorités qui y sont compétentes lorsque l'objet de l'affaire est localisé dans l'arrondissement administratif de Bruxelles-Capitale.
+
+
+**Art. 140sexies.** (...) `L 1997-06-25/34, art. 78, 3°,  En vigueur :  15-07-1997`
+
+
+**Art. 140septies.** (...) `L 1997-06-25/34, art. 78, 4°,  En vigueur :  15-07-1997`
+
+
+**Art. 140octies.** (...) `L 1997-06-25/34, art. 78, 4°,  En vigueur :  15-07-1997`
+
+
+**Art. 140nonies.** `Inséré par L 1994-07-11/31, art. 8,  En vigueur :  29-07-1994` Les règlements et ordonnances en vigueur au 31 décembre 1994 dans la province de Brabant restent en vigueur dans les provinces du Brabant wallon, du Brabant flamand et dans l'arrondissement de Bruxelles-Capitale jusqu'à leur modification de leur abrogation par les autorités compétentes.
+
+Les impôts, taxes et décimes additionnels au profit de la province de Brabant, existant au 31 décembre 1994, seront recouvrés pendant l'année 1995 d'après les règlements qui en déterminent l'assiette et la perception, sous réserve de leur modification ou de leur abrogation par les autorités compétentes.
+
+
+**Art. 141.** `L 1997-06-25/34, art. 79,  En vigueur :  15-07-1997` L'article 66, alinéa 4, de la loi provinciale du 30 avril 1936 reste d'application jusqu'à la date d'entrée en vigueur des nouvelles règles budgétaires, financières et comptables des provinces que le Roi doit déterminer conformément à l'article 66 de la présente loi.
+
+
+**Art. 142.** `L 1997-06-25/34, art. 80,  En vigueur :  15-07-1997` Les articles 113bis, alinéas 1, 2, 3 et 5, et 114 de la loi provinciale du 30 avril 1836 restent d'application jusqu'à la date d'entrée en vigueur des dispositions du titre VIIbis de la même loi, fixée par le Roi. L'entrée en vigueur doit avoir lieu le 1er janvier de l'année civile qu'il désigne.
+
+L'article 113bis, alinéa 4, reste d'application pour les comptables admis à la pension après l'entrée en vigueur du titre VIIbis de la présente loi.
+
+Lorsque les dispositions du titre VIIbis précité entrent en vigueur, les comptes de fin de gestion des comptables provinciaux doivent être clôturés et approuvés et, le cas échéant, décharge doit leur être donnée sauf pour celui qui devient receveur provincial.
+
+
+**Art. 143.** (...) `L 1999-05-04/52, art. 16,  En vigueur :  22-06-1999`
+
+
+TITRE XII. - (De l'assurance en responsabilité civile des provinces) `L 1999-05-04/85, art 7, ED 07-08-1999`
+
+
+**Art. 144.** (Forme fédérale) `L 1999-05-04/85, art. 7,  En vigueur :  07-08-1999` La province est tenue de contracter une assurance visant à couvrir la responsabilité civile, en ce compris l'assistance en justice, qui incombe personnellement aux membres de la députation permanente dans l'exercice normal de leurs fonctions.
+
+Le Roi arrête les modalités d'exécution de la présente disposition.
+
+++++++++++ Communautés et Régions.
+
+Autorité flamande.
+
+**Art. 144.** (abroge par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+**Art. 145.**
+
+(...) `L 27-05-1975, art. 2, MB 22-08-1975`
+
+
+TITRE XIII. - Le partenariat public-privé dans la Région flamande. `Ajouté par DCFL 2003-07-18/62, art. 16, 3°,  En vigueur :  29-09-2003`
+
+
+**Art. 146.** (Région flamande) `inséré par DCFL 2003-07-18/62, art. 16, 3°,  En vigueur :  29-09-2003` (abrogé par l'Autorité flamande) `DCFL 2005-12-09/35, art. 261, 003;  En vigueur :  01-12-2006`
+
+++++++++++
+
+
+ANNEXE.
+
+
+Art. N. `L 1993-07-16/31, art. 220, § 3,  En vigueur :  30-07-1993` (Tableau annexé à la Loi provinciale (Article 2, alinéa 3)).
+
+
+[COMPOSITION DES DISTRICTS ELECTORAUX
+
+PROVINCES DE LA REGION WALLONNE
+
+PROVINCE DU BRABANT WALLON
+
+Arrondissement administratif de Nivelles
+
+District                    Chef-Lieu                  Cantons électoraux
+
+Nivelles                    Nivelles                   Nivelles
+
+Génappe
+
+Wavre                       Wavre                      Wavre
+
+Jodoigne
+
+Perwez
+
+PROVINCE DE HAINAUT
+
+Arrondissement administratif d'Ath
+
+Ath                         Ath                        Ath
+
+Beloeil
+
+Chievres
+
+Flobecq
+
+Frasnes-lez-Anvaing
+
+Arrondissement administratif de Charleroi
+
+Charleroi                   Charleroi                  Charleroi
+
+Chatelet                    Chatelet                   Chatelet
+
+Fontaine-l'Eveque           Fontaine-l'Eveque          Fontaine-l'Eveque
+
+Seneffe
+
+Arrondissement administratif de Mons
+
+Mons                        Mons                       Mons
+
+Boussu                      Boussu                     Boussu
+
+Lens
+
+Dour                        Dour                       Dour
+
+Frameries
+
+Arrondissement administratif de Mouscron
+
+Mouscron                    Mouscron                   Mouscron
+
+Comines-Warneton
+
+Arrondissement administratif de Soignies
+
+Soignies                    Soignies                   Soignies
+
+Enghien
+
+Lessines
+
+La Louviere                 La Louviere                La Louviere
+
+Le Roeulx
+
+Arrondissement administratif de Thuin
+
+Thuin                       Thuin                      Thuin
+
+Beaumont
+
+Chimay
+
+Binche                      Binche                     Binche
+
+Merbes-le-Chateau
+
+Arrondissement administratif de Tournai
+
+Tournai                     Tournai                    Tournai
+
+Celles
+
+Estaimpuis
+
+Peruwelz                    Peruwelz                   Peruwelz
+
+Antoing
+
+Leuze-en-Hainaut
+
+PROVINCE DE LIEGE
+
+Arrondissement administratif de Huy
+
+Huy                         Huy                        Huy
+
+Ferrieres
+
+Heron
+
+Nandrin
+
+Verlaine
+
+Arrondissement administratif de Liege
+
+Liege                       Liege                      Liege
+
+Vise                        Vise                       Vise
+
+Bassenge
+
+Fleron                      Fleron                     Fleron
+
+Aywaille
+
+Herstal                     Herstal                    Herstal
+
+Seraing                     Seraing                    Seraing
+
+Saint-Nicolas               Saint-Nicolas              Saint-Nicolas
+
+Grace-Hollogne
+
+Arrondissement administratif de Verviers
+
+Verviers                    Verviers                   Verviers
+
+Dison                       Dison                      Dison
+
+Aubel
+
+Herve
+
+Limbourg
+
+Eupen                       Eupen                      Eupen
+
+Sankt Vith
+
+(Saint-Vith)
+
+Spa                         Spa                        Spa
+
+Malmedy
+
+Stavelot
+
+Arrondissement administratif de Waremme
+
+Waremme                     Waremme                    Waremme
+
+Hannut
+
+PROVINCE DE LUXEMBOURG
+
+Arrondissement administratif d'Arlon
+
+Arlon                       Arlon                      Arlon
+
+Messancy
+
+Arrondissement administratif de Bastogne
+
+Bastogne                    Bastogne                   Bastogne
+
+Fauvillers
+
+Sainte-Ode
+
+Vielsalm                    Vielsalm                   Vielsalm
+
+Houffalize
+
+Arrondissement administratif de Marche-en-Famenne
+
+Marche-en-Famenne           Marche-en-Famenne          Marche-en-Famenne
+
+Durbuy
+
+Nassogne
+
+La Roche-en-Ardenne         La Roche-en-Ardenne        La Roche-en-Ardenne
+
+Erezee
+
+Arrondissement administratif de Neufchateau
+
+Neufchateau                 Neufchateau                Neufchateau
+
+Saint-Hubert
+
+Bouillon                    Bouillon                   Bouillon
+
+Paliseul
+
+Wellin
+
+Arrondissement administratif de Virton
+
+Virton                      Virton                     Virton
+
+Florenville                 Florenville                Florenville
+
+Etalle
+
+PROVINCE DE NAMUR
+
+Arrondissement administratif de Dinant
+
+Dinant                      Dinant                     Dinant
+
+Beauraing
+
+Gedinne
+
+Ciney                       Ciney                      Ciney
+
+Rochefort
+
+Arrondissement administratif de Namur
+
+Namur                       Namur                      Namur
+
+Andenne                     Andenne                    Andenne
+
+Eghezee                     Eghezee                    Eghezee
+
+Fosses-la-Ville             Fosses-la-Ville            Fosses-la-Ville
+
+Gembloux                    Gembloux                   Gembloux
+
+Arrondissement administratif de Philippeville
+
+Philippeville               Philippeville              Philippeville
+
+Couvin
+
+Florennes                   Florennes                  Florennes
+
+Walcourt
+
+PROVINCES DE LA REGION FLAMANDE
+
+PROVINCE D'ANVERS
+
+Arrondissement administratif d'Anvers
+
+Anvers                      Anvers                     Anvers
+
+Boom                        Boom                       Boom
+
+Kontich
+
+Kapellen                    Kapellen                   Kapellen
+
+Brecht
+
+Zandhoven
+
+Arrondissement administratif de Malines
+
+Malines                     Malines                    Malines
+
+Puurs
+
+Lierre                      Lierre                     Lierre
+
+Duffel
+
+Heist-op-den-Berg
+
+Arrondissement administratif de Turnhout
+
+Turnhout                    Turnhout                   Turnhout
+
+Hoogstraten
+
+Herentals                   Herentals                  Herentals
+
+Westerlo
+
+Mol                         Mol                        Mol
+
+Arendonk
+
+PROVINCE DE LIMBOURG
+
+Arrondissement administratif de Hasselt
+
+Hasselt                     Hasselt                    Hasselt
+
+Beringen                    Beringen                   Beringen
+
+Genk                        Genk                       Genk
+
+Herck-la-Ville              Herck-la-Ville             Herck-la-Ville
+
+Saint-Trond                 Saint-Trond                Saint-Trond
+
+Arrondissement administratif de Maaseik
+
+Maaseik                     Maaseik                    Maaseik
+
+Bree                        Bree                       Bree
+
+Peer                        Peer                       Peer
+
+Neerpelt                    Neerpelt                   Neerpelt
+
+Arrondissement administratif de Tongres
+
+Tongres                     Tongres                    Tongres
+
+Riemst
+
+Fourons
+
+Looz                        Looz                       Looz
+
+PROVINCE DE FLANDRE ORIENTALE
+
+Arrondissement administratif d'Alost
+
+Alost                       Alost                      Alost
+
+Grammont                    Grammont                   Grammont
+
+Ninove
+
+Zottegem                    Zottegem                   Zottegem
+
+Arrondissement administratif de Termonde
+
+Termonde                    Termonde                   Termonde
+
+Zele                        Zele                       Zele
+
+Arrondissement administratif d'Eeklo
+
+Eeklo                       Eeklo                      Eeklo
+
+Assenede
+
+Kaprijke
+
+Arrondissement administratif de Gand
+
+Gand                        Gand                       Gand
+
+Deinze                      Deinze                     Deinze
+
+Nazareth
+
+Nevele
+
+Evergem                     Evergem                    Evergem
+
+Zomergem
+
+Lochristi                   Lochristi                  Lochristi
+
+Destelbergen
+
+Oosterzele
+
+Arrondissement administratif d'Audenarde
+
+Audenarde                   Audenarde                  Audenarde
+
+Kruishoutem
+
+Renaix                      Renaix                     Renaix
+
+Brakel
+
+Horebeke
+
+Arrondissement administratif de Saint-Nicolas
+
+Saint-Nicolas               Saint-Nicolas              Saint-Nicolas
+
+Lokeren
+
+Tamise                      Tamise                     Tamise
+
+Beveren
+
+Sint-Gillis-Waas
+
+PROVINCE DU BRABANT FLAMAND
+
+Arrondissement administratif de Hal-Vilvorde
+
+Hal                         Hal                        Hal
+
+Asse
+
+Lennik
+
+Vilvorde                    Vilvorde                   Vilvorde
+
+Meise
+
+Zaventem
+
+Arrondissement administratif de Louvain
+
+Louvain                     Louvain                    Louvain
+
+Diest                       Diest                      Diest
+
+Aarschot
+
+Haacht
+
+Tirlemont                   Tirlemont                  Tirlemont
+
+Glabbeek
+
+Landen
+
+Leau
+
+PROVINCE DE FLANDRE OCCIDENTALE
+
+Arrondissement administratif de Bruges
+
+Bruges                      Bruges                     Bruges
+
+Torhout
+
+Arrondissement administratif de Dixmude
+
+Dixmude                     Dixmude                    Dixmude
+
+Arrondissement administratif d'Ypres
+
+Ypres                       Ypres                      Ypres
+
+Vleteren
+
+Wervik
+
+Zonnebeke
+
+Poperinge                   Poperinge                  Poperinge
+
+Messines
+
+Arrondissement administratif de Courtrai
+
+Courtrai                    Courtrai                   Courtrai
+
+Avelgem
+
+Harelbeke                   Harelbeke                  Harelbeke
+
+Menin                       Menin                      Menin
+
+Arrondissement administratif d'Ostende
+
+Ostende                     Ostende                    Ostende
+
+Gistel
+
+Arrondissement administratif de Roulers
+
+Roulers                     Roulers                    Roulers
+
+Izegem                      Izegem                     Izegem
+
+Hooglede
+
+Lichtervelde
+
+Arrondissement administratif de Tielt
+
+Tielt                       Tielt                      Tielt
+
+Meulebeke
+
+Oostrozebeke
+
+Ruiselede
+
+Arrondissement administratif de Furnes
+
+Furnes                      Furnes                     Furnes
+
+Nieuport]
+
+

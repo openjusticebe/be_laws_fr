@@ -1,0 +1,1605 @@
+---
+lang: fra
+dtype: loi
+url: http://www.ejustice.just.fgov.be/eli/loi/1808/12/12/1808121250/justel
+dateString: 12 DECEMBRE 1808
+title: CODE D'INSTRUCTION CRIMINELLE
+subTitle: LIVRE II, TITRE IV. (448 à 524septies) <Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre IV du deuxième Livre est la sixième partie.>
+pubDate: 22-12-1808
+startDate: 01-01-1809
+number: 1808121250
+updated: 
+source: INTERIEUR
+
+---
+# TITRE IV. - DE QUELQUES PROCEDURES PARTICULIERES.
+
+### Chapitre I DU FAUX.
+
+
+**Art. 448.** Dans tous les procès pour faux en écriture, la pièce arguée de faux, aussitôt qu'elle aura été produite, sera déposée au greffe, signée et paraphée à toutes les pages par le greffier, qui dressera un procès-verbal détaillé de l'état matériel de la pièce, et par la personne qui l'aura déposée, si elle sait signer, ce dont il sera fait mention; le tout à peine de cinquante francs d'amende contre le greffier qui l'aura reçue sans que cette formalité ait été remplie.
+
+
+**Art. 449.** Si la pièce arguée de faux est tirée d'un dépôt public, le fonctionnaire qui s'en dessaisira la signera aussi et la paraphera, comme il vient d'être dit, sous peine d'une pareille amende.
+
+
+**Art. 450.** La pièce arguée de faux sera de plus signée par l'officier de police judiciaire, et par la partie civile ou son avoué, si ceux-ci se présentent.
+
+Elle le sera également par [l'inculpé], au moment de sa comparution. `L 10-07-1967, art. 1, 171°`
+
+Si les comparants, ou quelques-uns d'entre eux, ne peuvent pas ou ne veulent pas signer, le procès-verbal en fera mention.
+
+En cas de négligence ou d'omission, le greffier sera puni de cinquante francs d'amende.
+
+
+**Art. 451.** Les plaintes et dénonciations en faux pourront toujours être suivies, lors même que les pièces qui en sont l'objet auraient servi de fondement à des actes judiciaires ou civils.
+
+
+**Art. 452.** Tout dépositaire public ou particulier de pièces arguées de faux est tenu [...] de les remettre, sur l'ordonnance donnée par l'officier du ministère public ou par le juge d'instruction. `L 10-07-1967, art. 1, 172°`
+
+Cette ordonnance et l'acte de dépôt lui serviront de décharge envers tous ceux qui auront intérêt à la pièce.
+
+
+**Art. 453.** Les pièces qui seront fournies pour servir de comparaison seront signées et paraphées, comme il est dit aux trois premiers articles du présent chapitre pour la pièce arguée de faux, et sous les mêmes peines.
+
+
+**Art. 454.** Tous dépositaires publics pourront être contraints [...] à fournir les pièces de comparaison qui seront en leur possession : l'ordonnance par écrit et l'acte de dépôt leur serviront de décharge envers ceux qui pourraient avoir intérêt à ces pièces. `L 10-07-1967, art. 1, 173°`
+
+
+**Art. 455.** [S'il est nécessaire de dessaisir un dépositaire public d'une pièce authentique, la pièce sera préalablement photographiée et une copie photographique, après vérification par le président du tribunal de première instance de son arrondissement, qui en dressera procès-verbal, sera mise par le dépositaire au rang de ses minutes, pour en tenir lieu jusqu'au renvoi des pièces, et il pourra en délivrer grosse ou expédition, en faisant mention du procès-verbal qui aura été dressé.] `AR 246 22-02-1936, art. 4`
+
+Néanmoins, si la pièce se trouve faire partie d'un registre de manière à ne pouvoir en être momentanément distraite, le tribunal pourra, en ordonnant l'apport du registre, dispenser de la formalité établie par le présent article.
+
+
+**Art. 456.** Les écritures privées peuvent aussi être produites pour pièces de comparaison, et être admises à ce titre, si les parties intéressées les reconnaissent.
+
+Néanmoins, les particuliers qui, même de leur aveu, en sont possesseurs, ne peuvent être immédiatement contraints à les remettre; mais si, après avoir été cités devant le tribunal saisi pour faire cette remise ou déduire les motifs de leur refus, ils succombent, l'arrêt ou le jugement pourra ordonner qu'ils y seront contraints [...]. `L 10-07-1967, art. 1, 174°`
+
+
+**Art. 457.** Lorsque les témoins s'expliqueront sur une pièce du procès, ils la parapheront et la signeront; et s'ils ne peuvent signer, le procès-verbal en fera mention.
+
+
+**Art. 458.** Si, dans le cours d'une instruction ou d'une procédure, une pièce produite est arguée de faux par l'une des parties, elle sommera l'autre de déclarer si elle entend se servir de la pièce.
+
+
+**Art. 459.** La pièce sera rejetée du procès, si la partie déclare qu'elle ne veut pas s'en servir, ou si, dans le délai de huit jours, elle ne fait aucune déclaration; et il sera passé outre à l'instruction et au jugement.
+
+Si la partie déclare qu'elle entend se servir de la pièce, l'instruction sur le faux sera suivie incidemment devant la cour ou le tribunal saisi de l'affaire principale.
+
+
+**Art. 460.** Si la partie qui a argué de faux la pièce soutient que celui qui l'a produite est l'auteur ou le complice du faux, ou s'il résulte de la procédure que l'auteur ou le complice du faux soit vivant, et la poursuite du crime non éteinte par la prescription, l'accusation sera suivie criminellement dans les formes ci-dessus prescrites.
+
+Si le procès est engagé au civil, il sera sursis au jugement jusqu'à ce qu'il ait été prononcé sur le faux.
+
+S'il s'agit de crimes, délits ou contraventions, la cour ou le tribunal saisi est tenu de décider préalablement, et après avoir entendu l'officier chargé du ministère public, s'il y a lieu ou non à surseoir.
+
+
+**Art. 461.** Le prévenu ou l'accusé pourra être requis de produire et de former un corps d'écriture; en cas de refus ou de silence, le procès-verbal en fera mention.
+
+
+**Art. 462.** Si une cour ou un tribunal trouve dans la visite d'un procès, même civil, des indices sur un faux et sur la personne qui l'a commis, l'officier chargé du ministère public ou le président transmettra les pièces [au procureur du Roi] près le juge d'instruction, soit du lieu où le délit paraîtra avoir été commis, soit du lieu où [l'inculpé] pourra être saisi, et il pourra même délivrer le mandat d'amener. `L 10-10-1967, art. 156` `L 10-07-1967, art. 1, 175°`
+
+
+**Art. 463.** Lorsque des actes authentiques auront été déclarés faux en tout ou en partie, la cour ou le tribunal qui aura connu du faux ordonnera qu'ils soient rétablis, rayés ou déformés, et du tout il sera dressé procès-verbal.
+
+Les pièces de comparaison seront renvoyées dans les dépôts d'où elles auront été tirées, ou seront remises aux personnes qui les auront communiquées; le tout dans le délai de quinzaine à compter du jour de l'arrêt ou jugement, à peine d'une amende de cinquante francs contre le greffier.
+
+
+**Art. 464.** Le surplus de l'instruction sur le faux se fera comme sur les autres délits, sauf l'exception suivante :
+
+Les présidents des cours d'assises, [les procureurs généraux ou les procureurs du Roi], les juges d'instruction et les [juges au tribunal de police] pourront continuer, hors de leur ressort, les visites nécessaires chez les personnes soupçonnées d'avoir fabriqué, introduit, distribué de faux papiers nationaux, [de faux billets au porteur émis par le Trésor public ou de faux billets de banque au porteur dont l'émission est autorisée par une loi ou en vertu d'une loi]. `L 10-07-1967, art. 1, 176°` `L 10-10-1967, art. 91, § 3 et 156, § 2`
+
+La présente disposition a lieu également pour le crime de fausse monnaie, ou de contrefaçon du sceau de l'Etat.
+
+
+CHAPITRE Ierbis. - [1 De l'enquête pénale d'exécution]1
+
+> 1: Inséré par L 2014-02-11/12, art. 2, 009; En vigueur : 18-04-2014
+
+
+#### Section 1re  - [1 Notion et principes généraux]1
+
+> 1: Inséré par L 2014-02-11/12, art. 3, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/1.**[1 § 1er. L'enquête pénale d'exécution, dénommée ci-après "EPE", est l'ensemble des actes qui tendent à la recherche, l'identification et la saisie du patrimoine sur lequel la condamnation au paiement d'une amende, d'une confiscation spéciale ou des frais de justice peut être exécutée.
+
+
+§2.  L'EPE est menée par et sous l'autorité et la direction du ministère public.
+
+Le magistrat du ministère public qui mène l'EPE, dénommé ci-après "le magistrat EPE", veille à la légalité des actes d'exécution.
+
+
+§3.  L'EPE est menée à l'égard de l'auteur condamné, dénommé ci-après "le condamné", et à l'égard de tiers qui conspirent sciemment et volontairement avec le condamné afin de soustraire son patrimoine à l'exécution des condamnations exécutoires.
+
+
+§4.  Sauf les exceptions prévues par la loi, les actes d'exécution ne peuvent comprendre aucun acte de contrainte ni porter atteinte aux libertés et aux droits individuels. Les atteintes aux libertés et droits fondamentaux tolérées par la loi ne peuvent excéder ce qui est nécessaire pour atteindre l'objectif de l'EPE défini au § 1er.
+
+
+§5.  Sauf les exceptions prévues par la loi, l'EPE est secrète.
+
+Toute personne appelée à prêter son concours professionnel à l'EPE est tenue au secret. Celui qui viole ce secret est puni des peines prévues à l'article 458 du Code pénal.
+
+Sans préjudice de l'exercice du droit de défense dans d'autres procédures pénales par le condamné ou des tiers, le magistrat EPE décide sur l'autorisation de consulter le dossier ou d'en obtenir une copie, si le condamné ou un tiers ayant un intérêt en fait la demande. Cette décision n'est susceptible d'aucun recours.
+
+[2 La demande d'autorisation de consulter le dossier ou d'en obtenir copie par le condamné ou un tiers ayant un intérêt est, à peine d'irrecevabilité, motivée et contient l'élection de domicile en Belgique si le requérant n'y a pas son domicile ou son siège.
+
+La requête est adressée ou déposée au secrétariat du parquet ou de l'auditorat du travail compétent, qui l'insère dans un registre ouvert à ce sujet.
+
+Le magistrat EPE statue au plus tard dans un délai de quatre mois après l'insertion de la requête dans le registre.
+
+Le magistrat EPE peut limiter la consultation à la partie du dossier pour laquelle le requérant peut justifier d'un intérêt. Le magistrat EPE peut refuser la consultation du dossier ou l'obtention d'une copie de celui-ci parce que l'enquête pénale d'exécution n'a pas encore mené à une saisie ou à la découverte de nouvelles infractions, parce que les nécessités de l'enquête pénale d'exécution le requièrent ou parce que le requérant ne peut justifier par un motif légitime la consultation du dossier.
+
+Si la demande de consultation du dossier ou d'obtention d'une copie de ce dernier est acceptée, le dossier est, dans les vingt jours qui suivent la décision du magistrat EPE, mis à la disposition du requérant et de son avocat, en original ou en copie, pour consultation durant une période minimale de quarante-huit heures. Le secrétariat du parquet ou de l'auditorat compétent informe le requérant et son avocat par télécopie, par lettre simple ou par voie électronique du moment où le dossier peut être consulté. [4 Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.]4 Le requérant ne peut faire usage des renseignements obtenus par la consultation ou par la prise d'une copie du dossier que dans l'intérêt de sa défense, à condition de respecter la présomption d'innocence et les droits de la défense de tiers, la vie privée et la dignité de la personne. Tout abus est puni conformément l'article 460ter du Code pénal.
+
+La décision motivée du magistrat EPE est communiquée au requérant et, le cas échéant, à son avocat, par télécopie, par lettre simple ou par voie électronique, dans un délai de huit jours à compter de la décision. Le requérant ne peut, à peine d'irrecevabilité, envoyer ni déposer de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet.
+
+Le requérant peut interjeter appel de la décision devant le juge de l'application des peines dans les quinze jours à compter de la notification de la décision, par une déclaration faite au greffe de la prison ou au greffe du tribunal de l'application des peines et insérée dans un registre prévu à cet effet. Si le magistrat EPE n'a pas pris de décision dans le délai prévu à l'alinéa 6, augmenté de quinze jours, le requérant peut s'adresser au juge de l'application des peines. Ce droit prend fin si la requête motivée n'est pas déposée dans les huit jours suivant l'expiration du délai, au greffe du tribunal de l'application des peines. La requête est insérée dans un registre prévu à cet effet. Le greffier informe immédiatement le magistrat EPE qui mène l'enquête de la déclaration. Le magistrat EPE envoie les pièces du dossier au greffier du tribunal de l'application des peines qui les dépose au greffe. Le greffier communique, par télécopie, par lettre simple ou par voie électronique, les lieu, jour et heure de l'audience au requérant ou à son avocat, au plus tard sept jours au préalable. Le greffier informe immédiatement le magistrat EPE de l'audience. Le requérant, son avocat et le ministère public peuvent être entendus. Le juge de l'application des peines peut entendre le magistrat EPE séparément.
+
+Le juge de l'application des peines statue dans un délai de trente jours à compter du dépôt de la déclaration. Le requérant qui succombe peut être condamné aux dépens. Le greffier communique, dans les vingt-quatre heures du prononcé, par télécopie, par lettre simple ou par voie électronique, le jugement du juge de l'application des peines au requérant ou à son avocat ainsi qu'au magistrat EPE.
+
+Le jugement du juge de l'application des peines n'est pas susceptible d'opposition ou de pourvoi en cassation.]2
+
+Sans préjudice de l'application de [3 l'article 32 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation]3, le magistrat EPE peut, au cours de l'EPE, autoriser une partie civile à consulter le dossier afin de l'informer des avoirs patrimoniaux sur lesquels la condamnation exécutoire au paiement de dommages-intérêts peut être exécutée. Le magistrat EPE peut limiter la consultation du dossier ou la prise d'une copie de celui-ci à la partie du dossier à l'égard de laquelle la partie civile peut justifier d'un intérêt.
+
+
+§6.  Le magistrat EPE communique, au besoin, tous les renseignements pertinents collectés dans le cadre de l'EPE et ayant trait au patrimoine du condamné au fonctionnaire compétent du service public fédéral Finances, ou informe ce fonctionnaire que ces renseignements sont à disposition pour être consultés et prise d'une copie, en vue de faciliter le recouvrement des confiscations, amendes et frais de justice dus par le condamné.
+
+Les fonctionnaires de police qui ne sont pas requis par le magistrat EPE communiquent immédiatement et d'initiative à ce magistrat les renseignements utiles pour l'EPE qu'ils ont collectés dans le cadre d'une information, d'une instruction ou d'une autre EPE.
+
+Les fonctionnaires de police qui, dans le cadre de l'EPE, ont collecté des renseignements qui peuvent être importants pour une information ou une instruction en cours ou une autre EPE, les portent immédiatement à la connaissance du ministère public compétent ou du juge d'instruction compétent. Lorsqu'ils découvrent au cours de l'EPE des faits qui peuvent former un délit ou un crime, ils en informent immédiatement le ministère public compétent.
+
+Les membres du ministère public peuvent utiliser les renseignements qui ont été collectés régulièrement dans le cadre de l'EPE lorsqu'ils exercent leur fonction dans d'autres procédures pénales et civiles.
+
+
+§7.  Les sommes d'argent que le magistrat EPE et l'Organe central pour la saisie et la confiscation, dénommé ci-après l'"OCSC", reçoivent ou gèrent dans le cadre de l'EPE sont versées dès que possible au fonctionnaire compétent du service public fédéral Finances chargé du recouvrement de la confiscation, de l'amende et des frais de justice.
+
+
+§8.  Sans préjudice de l'application de [3 l'article 32 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation]3, l'EPE ne porte pas atteinte à l'exercice du droit de la partie civile ou de tiers de bonne foi d'exécuter leurs créances sur le patrimoine du condamné, conformément au livre III, titre XVIII, articles 7 et 8, du Code civil.
+
+En cas de concours d'une saisie-exécution civile avec une saisie pratiquée dans le cadre de l'EPE portant sur les mêmes avoirs patrimoniaux, les condamnations visées au § 1er sont exécutées par le service public fédéral Finances par l'exercice des droits accordés par la loi aux créanciers dans le cadre de la distribution par contribution ou de l'ordre.
+
+Si le condamné ou le tiers visé au § 3 fait l'objet d'une procédure collective d'insolvabilité, les condamnations visées au § 1er sont exécutées par le service public fédéral Finances par l'exercice des droits accordés par la loi aux créanciers dans le cadre de la procédure collective d'insolvabilité.
+
+Au sens du présent paragraphe, une procédure collective d'insolvabilité est la faillite, la réorganisation judiciaire, le règlement collectif de dettes ou toute autre procédure collective judiciaire, administrative ou volontaire, belge ou étrangère, qui implique la réalisation des actifs et la distribution du produit de cette réalisation entre, selon le cas, les créanciers, les actionnaires, les associés ou les membres.
+
+La remise ou réduction des peines dans le cadre d'une procédure collective d'insolvabilité ou d'une procédure de saisie civile ne peut être accordée qu'en application des articles 110 et 111 de la Constitution.
+
+Le concours avec une saisie-exécution civile ou une procédure collective d'insolvabilité en cours ne constitue pas un obstacle à la collecte de renseignements sur le patrimoine du condamné par le ministère public dans le cadre de l'EPE et la communication de ceux-ci au service public fédéral Finances.]1
+
+(NOTE : par son arrêt n° 178/2015 du 17-12-2015 (M.B. 08-02-2016,p. 8587), la Cour constitutionnelle a annulé l'article 464/1,§5,L3 dernière phrase)
+
+> 1: Inséré par L 2014-02-11/12, art. 4, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2018-03-18/14, art. 12, 016; En vigueur : 12-05-2018
+
+
+> 3: L 2018-02-04/04, art. 44, 017; En vigueur : 01-07-2018
+
+
+> 4: L 2019-05-05/19, art. 152, 020; En vigueur : 29-06-2019
+
+
+#### Section 2  - [1 Des organes de l'enquête]1
+
+> 1: Inséré par L 2014-02-11/12, art. 5, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/2.**[1 § 1er. L'EPE est menée par et sous l'autorité et la direction du magistrat EPE compétent pour l'exécution de la condamnation coulée en force de chose jugée. Ce magistrat en porte la responsabilité.
+
+
+§2.  Le magistrat EPE peut accomplir ou faire accomplir, sur l'ensemble du territoire du Royaume, tous les actes d'exécution qui relèvent de sa compétence.
+
+
+§3.  Le membre du ministère public près une cour d'appel qui mène l'EPE est revêtu de la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi. Il exerce cette fonction sous la surveillance du procureur général.
+
+
+§4.  Le magistrat EPE peut requérir les services de police visés à l'article 2 de la loi du 5 août 1992 sur la fonction de police, en vue de faire accomplir, à l'exception des limites prévues par la loi, tous les actes d'exécution nécessaires à l'EPE.
+
+[2 Les services de police visés à l'alinéa 1er bénéficient de la protection de leur identité dans les conditions fixées aux articles 112quater et 112quinquies.]2
+
+Les réquisitions sont adressées à l'autorité de police compétente et exécutées conformément aux articles 8 à 8/3 de la loi du 5 août 1992 sur la fonction de police.
+
+Les services de police requis communiquent au magistrat requérant le rapport des missions qu'ils ont effectuées et les renseignements qu'ils ont collectés à cette occasion.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 6, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2016-12-25/14, art. 17, 013; En vigueur : 09-01-2017
+
+
+
+**Art. 464/3.**[1 § 1er. Le magistrat EPE peut, dans les affaires qu'il détermine, charger le directeur de l'OSCSC, de mener une EPE en son nom ou lui demander de lui prêter assistance pendant l'EPE qu'il mène lui-même.
+
+Le directeur de l'OCSC peut proposer d'office au magistrat EPE de faire mener une EPE par l'OCSC. Il peut également proposer d'office à ce magistrat de prêter assistance à l'EPE qu'il mène.
+
+
+§2.  L'EPE dont est chargé l'OCSC peut uniquement être menée par un magistrat de l'OCSC, qui en porte la responsabilité.
+
+
+§3.  Sans préjudice du prescrit de l'article 464/2, § 1er, la direction de l'EPE est entre les mains du magistrat de l'OCSC à qui cette enquête a été confiée. Il effectue sa mission sous l'autorité et la direction du directeur de l'OCSC.
+
+Si l'OCSC prête assistance dans le cadre de l'EPE menée par le magistrat EPE, il le fait en étroite concertation avec ce magistrat.
+
+
+§4.  Dans l'exercice de la mission visée au § 2, le magistrat de l'OCSC qui mène l'EPE dispose des mêmes compétences que le magistrat EPE.
+
+Il peut accomplir, sur l'ensemble du territoire du Royaume, tous les actes d'exécution qui relèvent de sa compétence.
+
+Il est revêtu de la qualité d'officier de police judiciaire auxiliaire du procureur du Roi. En cette qualité, il est placé sous la surveillance du procureur général près la cour d'appel de Bruxelles.
+
+Il peut exécuter ou faire exécuter une enquête sur la solvabilité visée aux [2 articles 21 et 22 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation]2. Cette enquête sur la solvabilité s'étend également à l'exécution de condamnations à une amende pénale ou aux frais de justice.
+
+
+§5.  Le magistrat de l'OCSC qui mène l'EPE peut se faire assister par le personnel de l'OCSC et par les fonctionnaires visés à [2 l'article 36 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation]2, qui sont mis à la disposition de l'OCSC.
+
+Il peut requérir un service de police conformément à l'article 464/2, § 4, pour faire exécuter des actes d'exécution.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 7, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2018-02-04/04, art. 45, 017; En vigueur : 01-07-2018
+
+
+#### Section 3  - [1 De l'ouverture de l'enquête]1
+
+> 1: Inséré par L 2014-02-11/12, art. 8, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/4.** [1 § 1er. Le ministère public peut ouvrir une EPE ou en charger l'OCSC à défaut de paiement complet de la confiscation spéciale, des amendes ou des frais de justice imposés, dans le délai fixé par le ministère public ou le service public fédéral Finances et pour autant que le montant de l'obligation de paiement soit important. Le Roi détermine, sur la proposition du ministre qui a la Justice dans ses attributions et par un arrêté délibéré en Conseil des Ministres, en fonction du montant à recouvrer de la condamnation ou de la gravité de l'infraction qui a motivé la condamnation, ce qu'il faut entendre par un montant important de l'obligation de paiement.
+
+La décision du ministère public compétent d'ouvrir une EPE ou d'en charger l'OCSC n'est susceptible d'aucun recours.
+
+
+§2.  S'il ressort des renseignements dont dispose le ministère public ou le service public fédéral Finances que le condamné a omis ou, suivant des éléments sérieux et concrets, omettra de satisfaire à son obligation de paiement, il ne doit plus être invité au préalable à satisfaire aux confiscations spéciales, aux amendes ou aux frais de justice.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 9, 009; En vigueur : 18-04-2014
+
+
+#### Section 4  - [1 Compétences des organes d'exécution]1
+
+> 1: Inséré par L 2014-02-11/12, art. 10, 009; En vigueur : 18-04-2014
+
+
+#### Sous-section 1re  - [1 Des actes d'exécution ordinaire]1
+
+> 1: Inséré par L 2014-02-11/12, art. 11, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/5.** [1 § 1er. Le magistrat EPE peut exécuter ou faire exécuter à titre d'acte d'exécution, par le service de police requis, tout acte d'enquête autorisé dans le cadre de l'information visée à l'article 28bis, pour autant que cet acte puisse contribuer à atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er.
+
+Dans l'exercice de la compétence visée à l'alinéa 1er, il est interdit de prendre une mesure privative de liberté au sens des articles 1er et 2 de la loi du 20 juillet 1990 relative à la détention préventive.
+
+
+§2.  Le magistrat EPE peut requérir un service de police visé à l'article 2 de la loi du 5 août 1992 sur la fonction de police afin d'effectuer une enquête patrimoniale.
+
+Le service de police requis collecte des renseignements sur les possessions et les revenus du condamné et du tiers visé à l'article 464/1, § 3.
+
+Sauf décision contraire du magistrat EPE, le service de police qui effectue l'enquête patrimoniale ne peut pas recourir aux actes d'exécution ordinaires visés aux articles 464/7, et 464/12 à 464/14, ni aux actes d'exécution spécifiques définis à la sous-section 2.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 12, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/6.** [1 § 1er. Le magistrat EPE ou le service de police requis peut entendre des témoins, sans prestation de serment, le condamné ou le tiers visé à l'article 464/1, § 3, sur les transactions patrimoniales qui ont été effectuées par le condamné et le tiers, ainsi que sur la composition et la localisation de leur patrimoine.
+
+Au début de l'audition, il est indiqué que la personne à entendre est interrogée en qualité de condamné, de tiers au sens de l'article 464/1, § 3, ou de témoin.
+
+
+§2.  Le témoin répond à toute question, sauf s'il peut invoquer une obligation de secret prévue par la loi ou s'il s'accuserait lui-même d'une infraction.
+
+Le condamné ou le tiers peut soit faire une déclaration, soit répondre aux questions qui lui sont posées soit se taire.
+
+
+§3.  Si la personne à entendre souhaite s'exprimer dans une autre langue que celle de l'enquête, soit il est fait appel à un interprète assermenté, soit ses déclarations sont notées dans sa langue, soit il lui est demandé de noter elle-même sa déclaration. Si l'audition a lieu avec l'assistance d'un interprète, son identité et sa qualité sont mentionnées.
+
+
+§4.  Il est dressé procès-verbal de l'audition du condamné, du tiers ou du témoin.
+
+Si elle en fait la demande, la personne entendue peut recevoir gratuitement une copie du texte de son audition.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 13, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/7.** [1 Le magistrat EPE peut désigner un conseiller technique qui, sans prestation de serment, donne un avis sur la situation patrimoniale du condamné ou du tiers visé à l'article 464/1, § 3, ou sur certaines transactions patrimoniales qui ont été effectuées par le condamné et le tiers.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 14, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/8.** [1 Le magistrat EPE ou le service de police requis peut, moyennant l'accord écrit préalable de la personne qui en a la jouissance effective, pénétrer à tout moment dans un lieu non accessible au public afin de rechercher et de saisir les biens et supports d'information visés aux articles 464/29, § 2, et 464/30, § 1er.
+
+
+§2.  Sans préjudice de l'article 464/22, le magistrat EPE ou le service de police requis peut, moyennant l'accord préalable et écrit de l'utilisateur légitime, effectuer à tout moment une recherche dans un système informatique privé qui se trouve dans un lieu non accessible au public.
+
+Sauf opposition de l'utilisateur légitime, le magistrat EPE peut étendre la recherche à un système informatique ou une partie de celui-ci qui se trouve dans un autre lieu que celui où la recherche est effectuée si :
+ 1. cette extension est nécessaire pour collecter les renseignements visés à l'article 464/29, § 2, 2°, et
+ 2. d'autres mesures pour collecter ces renseignements seraient disproportionnées ou il existe un risque que, sans cette extension, ces renseignements soient perdus.
+
+L'extension de la recherche dans un système informatique ne peut pas excéder les systèmes informatiques ou les parties de tels systèmes auxquels les personnes autorisées à utiliser le système informatique qui fait l'objet de la mesure ont spécifiquement accès.
+
+Si les données recueillies par l'extension de la recherche dans un système informatique, conformément aux alinéas 2 et 3, sont utiles pour atteindre l'objectif de l'EPE, elles sont saisies.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 15, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/9.** [1 Le magistrat EPE ou le service de police requis peut pénétrer dans un lieu accessible au public, pendant que le public y est également autorisé, afin de rechercher et de saisir les biens et supports d'information visés aux articles 464/29, § 2, et 464/30, § 1er.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 16, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/10.** [1 Le magistrat EPE ou le service de police requis peut fouiller un bateau, un véhicule ou tout autre moyen de transport, tant dans la circulation que stationné sur la voie publique ou en des lieux accessibles au public, s'il existe des indices sérieux et concrets qu'il y a dans le bateau, le véhicule ou le moyen de transport des biens ou des supports d'information visés aux articles 464/29, § 2, et 464/30, § 1er, susceptibles d'être saisis.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 17, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/11.** [1 Le magistrat EPE ou le service de police requis peut fouiller le condamné ou un tiers au sens de l'article 464/1, § 3, en palpant leur corps et les vêtements qu'ils portent, ainsi que contrôler leurs bagages, s'il existe des indices sérieux et concrets qu'ils portent sur eux des biens ou des supports d'information visés aux articles 464/29, § 2, et 464/30, § 1er, susceptibles d'être saisis.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 18, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/12.**[1 § 1er. Lors de l'exécution d'une condamnation à une confiscation, à une amende ou aux frais de justice après que le condamné a été déclaré coupable d'une infraction passible d'un emprisonnement correctionnel principal d'un an ou d'une peine plus lourde, le magistrat EPE ou le service de police requis peut, par décision écrite et motivée demander aux organismes et personnes visés à [2 l'article 5, § 1er, 1° à 22°, 29° à 32°, et § 3, alinéa 1er, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces]2, demander la communication des renseignements suivants :
+ 1. la liste des comptes bancaires, coffres bancaires ou instruments financiers visés à l'article 2, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, dont le condamné ou le tiers visé à l'article 464/1, § 3, est le titulaire, le mandataire ou le bénéficiaire final et, le cas échéant, toutes les précisions à ce sujet;
+ 2. les transactions qui ont été réalisées pendant une période déterminée sur un ou plusieurs de ces comptes bancaires ou instruments financiers, y compris les détails concernant le compte émetteur ou récepteur;
+ 3. les données concernant les titulaires ou mandataires qui, pendant une période déterminée, ont ou avaient accès à ces coffres bancaires.
+
+Le magistrat EPE définit dans sa décision la forme sous laquelle les données mentionnées à l'alinéa 1er lui sont communiquées.
+
+
+§2.  Si c'est nécessaire à l'exécution de la condamnation, le magistrat EPE peut en outre requérir, par décision écrite motivée, que :
+ 1. pendant une période renouvelable de maximum deux mois, les transactions réalisées sur un ou plusieurs de ces comptes bancaires, coffres bancaires ou instruments financiers du condamné ou du tiers, soient surveillées;
+ 2. la personne requise ou l'organisme requis ne puisse plus aliéner les créances et engagements liés à ces comptes bancaires, coffres bancaires ou instruments financiers pour une période qu'il détermine, mais qui ne peut excéder la période entre la prise de connaissance de ses réquisitions envoyées par téléfax ou envoi recommandé et cinq jours ouvrables après la notification des données visées au magistrat EPE.
+
+La mesure cesse automatiquement à l'expiration du délai fixé par le magistrat EPE ou en cas de paiement intégral de la confiscation, de l'amende et des frais de justice dus.
+
+
+§3.  La personne requise ou l'organisme requis visé au § 1er prête son concours sans délai à l'exécution des mesures visées aux §§ 1er et 2.
+
+La personne ou l'organisme qui refuse de prêter son concours aux réquisitions du magistrat EPE visées aux §§ 1er et 2 est puni d'un emprisonnement de huit jours à un an et d'une amende de vingt-six euros à dix mille euros ou d'une de ces peines seulement.
+
+La personne ou l'organisme ou tout tiers qui conserve ou gère des biens qui font l'objet d'une mesure visée au § 2 et qui les fait disparaître dans une intention frauduleuse, est puni des peines prévues à l'article 507 du Code pénal. La tentative est punie des mêmes peines.
+
+
+§4.  Toute personne qui, du chef de sa fonction, a connaissance des mesures visées aux §§ 1er et 2 ou y prête son concours, est tenue de garder le secret.
+
+Toute violation du secret sera punie conformément à l'article 458 du Code pénal.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 19, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2017-09-18/06, art. 141, 015; En vigueur : 16-10-2017
+
+
+
+**Art. 464/13.**[1 § 1er. [2 Le magistrat EPE ou le service de police requis peut, par décision écrite et motivée, requérir les acteurs visés à l'alinéa 2 de lui communiquer les renseignements suivants:
+ 1. l'identification d'un abonné ou d'un utilisateur habituel d'un service visé à l'alinéa 2, deuxième tiret, ou bien du moyen de communication électronique utilisé;
+ 2. l'identification des services visés à l'alinéa 2, deuxième tiret, auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée.
+
+Les acteurs suivants sont tenus de collaborer conformément à l'alinéa 1er:
+ * l'opérateur d'un réseau de communications électroniques;
+ * toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.]2
+
+
+§2.  [2 Les acteurs visés au § 1er, alinéa 2, fournissent tous les renseignements disponibles en temps réel ou, le cas échéant, au moment précisé dans la décision, selon les modalités fixées par l'arrêté royal pris en exécution de l'article 46bis, § 2, alinéas 1er et 2.
+
+Toute personne qui refuse de communiquer les données ou qui ne les communique pas en temps réel ou, le cas échéant, au moment précisé dans la réquisition est punie d'une amende de vingt-six euros à dix mille euros.]2
+
+
+§3.  Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours est tenue de garder le secret.
+
+Toute violation du secret sera punie conformément à l'article 458 du Code pénal.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 20, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2016-12-25/37, art. 27, 014; En vigueur : 27-01-2017
+
+
+
+**Art. 464/14.** [1 § 1er. Le magistrat EPE peut, par décision écrite et motivée, autoriser un service de police à procéder à une observation.
+
+
+§2.  L'observation est possible si :
+ 1. les autres actes d'exécution ordinaires n'ont pas suffi ou ne peuvent raisonnablement pas suffire pour atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er, et
+ 2. l'acte d'exécution est exclusivement appliqué aux fins d'exécution d'une condamnation coulée en force de chose jugée de paiement de confiscations, d'amendes et de frais de justice après que le condamné a été déclaré coupable d'une infraction passible d'un emprisonnement correctionnel principal d'un an ou d'une peine plus lourde.
+
+
+§3.  L'autorisation de procéder à l'observation est écrite et contient les mentions suivantes :
+ 1. les données de la décision judiciaire coulée en force de chose jugée qui font apparaître que le condamné est tenu au paiement de confiscations, d'amendes et de frais de justice après qu'il a été déclaré coupable d'une infraction passible d'un emprisonnement correctionnel principal d'un an ou d'une peine plus lourde;
+ 2. les raisons pour lesquelles les autres actes d'exécution ordinaires n'ont pas suffi ou ne peuvent raisonnablement pas suffire pour atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er;
+ 3. le nom ou, si celui-ci n'est pas connu, une description aussi précise que possible de la personne ou des personnes observées, ainsi que des choses, des lieux ou des événements visés au § 1er;
+ 4. la manière dont l'observation sera exécutée;
+ 5. la période au cours de laquelle l'observation peut être effectuée et qui ne peut pas excéder trois mois à compter de la date de l'autorisation.
+
+
+§4.  En cas d'urgence, l'autorisation d'observation peut être accordée verbalement. Cette autorisation doit être confirmée dans les plus brefs délais dans la forme prévue au § 3.
+
+
+§5.  Le magistrat EPE peut à tout instant, de manière motivée, modifier, étendre ou prolonger son autorisation d'observation. Il peut à tout moment retirer son autorisation. Chaque fois que son autorisation est modifiée, étendue ou prolongée, il vérifie si les conditions visées au § 2 sont toujours remplies et procède à cet égard conformément au § 3, 1°, 2°, 3° et 5°.
+
+
+§6.  Le fonctionnaire de police chargé de la direction opérationnelle de l'exécution de l'observation fait rapport par écrit, de manière complète et conforme à la vérité, au magistrat EPE sur l'exécution des observations. Il envoie directement ces rapports, qui sont confidentiels, à ce magistrat.
+
+
+§7.  Le fonctionnaire de police visé au § 6 dresse procès-verbal de l'exécution de l'observation, mais n'y mentionne aucun des éléments susceptibles de compromettre les techniques d'enquête policière utilisées ou la préservation de la sécurité et de l'anonymat de l'indicateur et des fonctionnaires de police chargés de l'exécution de l'observation. Ces éléments ne figurent que dans le rapport écrit visé au § 6.
+
+II est fait référence, dans un procès-verbal à l'autorisation d'observation et il y est fait mention des indications visées au § 3, 1°, 2°, 3° et 5°. Le magistrat confirme, par décision écrite, l'existence de l'autorisation d'observation qu'il a accordée.
+
+Les procès-verbaux rédigés et la décision visée à l'alinéa 2 sont joints au dossier de l'EPE au plus tard à la fin de l'observation.
+
+
+§8.  Le magistrat EPE conserve un dossier séparé et confidentiel qui contient les pièces suivantes :
+ 1. l'autorisation d'observation et les décisions de modification, d'extension ou de prolongation;
+ 2. l'autorisation de commettre des infractions conformément à l'article 464/15;
+ 3. les rapports confidentiels rédigés par le fonctionnaire de police chargé de la direction opérationnelle de l'exécution de l'observation.
+
+Le magistrat EPE et le ministère public compétent sont les seuls à avoir accès à ce dossier séparé et confidentiel, sans préjudice du droit de consultation de la chambre des mises en accusation visé à l'article 464/18. Le contenu de ce dossier est couvert par le secret professionnel.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 21, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/15.** [1 § 1er. Sans préjudice des dispositions du § 2, il est interdit aux fonctionnaires de police, chargés de l'exécution d'une observation, de commettre des infractions dans le cadre de leur mission.
+
+
+§2.  Sont exemptés de peine, les fonctionnaires de police qui, dans le cadre de leur mission et en vue de la réussite de celle-ci, commettent des infractions absolument nécessaires, avec l'accord exprès du magistrat EPE.
+
+Le magistrat qui donne l'accord, dans le respect des dispositions relatives à l'EPE n'encourt aucune peine.
+
+Les fonctionnaires de police communiquent au magistrat EPE, par écrit et préalablement à l'exécution de l'observation, les infractions visées à l'alinéa 1er qu'ils ont l'intention de commettre.
+
+Si cette communication préalable n'a pas pu avoir lieu, les fonctionnaires de police informent sans délai le magistrat EPE des infractions qu'ils ont commises et en donnent ensuite confirmation par écrit.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 22, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/16.** [1 § 1er. Le magistrat EPE ou le ministère public compétent peut, en recourant à des indicateurs, collecter tous les renseignements utiles concernant le patrimoine sur lequel la condamnation au paiement d'une confiscation, d'une amende ou des frais de justice peut être exécutée.
+
+Le recours aux indicateurs au sens du présent article est le fait, pour un fonctionnaire de police, appelé "fonctionnaire de contact", d'entretenir des contacts réguliers avec une personne, appelée "indicateur", dont il est supposé qu'elle entretient des relations étroites avec une ou plusieurs personnes qui sont déclarées coupables d'une infraction et qui sont condamnées en conséquence au paiement de confiscations, d'amendes ou de frais de justice, ou avec un tiers visé à l'article 464/1, § 3, qui fournit au fonctionnaire de police des renseignements et des données, demandés ou non, concernant les biens sur lesquels ces condamnations peuvent être exécutées.
+
+
+§2.  Le gestionnaire local des indicateurs communique dès que possible et spontanément et directement au magistrat EPE, dans un rapport confidentiel, tous les renseignements utiles à l'EPE.
+
+Le magistrat EPE conserve les renseignements communiqués dans un dossier séparé et confidentiel. Le magistrat EPE et le ministère public compétent sont les seuls à avoir accès à ce dossier séparé et confidentiel, sans préjudice du droit de consultation de la chambre des mises en accusation visé à l'article 464/18. Le contenu de ce dossier est couvert par le secret professionnel.
+
+Le magistrat EPE décide si, en fonction de l'importance des informations fournies et en tenant compte de la sécurité de l'indicateur, il en dresse un procès-verbal.
+
+
+§3.  L'organisation du recours aux indicateurs instauré à l'article 47decies, § 2 à 6, alinéa 2, est applicable au recours aux indicateurs visé au § 1er.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 23, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/17.** [1 Le magistrat EPE veille au contrôle permanent de l'exécution des observations et du recours aux indicateurs par les services de police dans le cadre de cette enquête.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 24, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/18.** [1 § 1er. La chambre des mises en accusation contrôle l'application de l'observation visée aux articles 464/14 et 464/27 qui a fourni des données qui ont ensuite été utilisées par le ministère public dans le cadre d'une instruction ou d'une information.
+
+La chambre des mises en accusation examine, sur réquisitoire du procureur général, la régularité de cette observation au moment où le juge d'instruction communique son dossier au procureur du Roi, conformément à l'article 127, § 1er, alinéa 1er.
+
+La chambre des mises en accusation examine, sur réquisitoire du procureur général, la régularité de l'observation à la clôture de l'information et avant que le ministère public procède à la citation directe.
+
+La procédure devant la chambre des mises en accusation se déroule conformément à ce qui est prévu à l'article 235ter, §§ 2 à 6.
+
+
+§2.  La chambre des mises en accusation contrôle à la demande du juge de l'application des peines qui connaît d'un recours visé par l'article 464/36, § 4, la régularité de l'application des observations visées aux articles 464/14 et 464/27 qui ont fourni des données utilisées par le ministère public dans le cadre de l'EPE.
+
+Les cours et tribunaux qui connaissent de demandes civiles relatives à l'exécution de décisions judiciaires portant condamnation à une confiscation spéciale, à une amende et aux frais de justice dans le cadre de l'enquête pénale d'exécution peuvent, avant de statuer sur le bien-fondé de cette demande en justice, renvoyer l'affaire devant la chambre des mises en accusation afin de contrôler la régularité de l'observation effectuée dans le cadre de l'EPE.
+
+La procédure devant la chambre des mises en accusation se déroule conformément à ce qui est prévu à l'article 235ter, §§ 2 à 5.
+
+Le greffier communique une copie de l'arrêt de la chambre des mises en accusation aux parties en cause et à la cour ou au tribunal visé à l'alinéa 2.]1
+
+> 1: Inséré par L 2014-02-11/13, art. 2, 010; En vigueur : 18-04-2014
+
+
+#### Sous-section 2  - [1 Des actes d'exécution spécifiques]1
+
+> 1: Inséré par L 2014-02-11/12, art. 25, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/19.** [1 Le magistrat EPE peut, par décision écrite et motivée, exécuter ou faire exécuter à titre d'acte d'exécution par le service de police requis, les actes d'enquête qui, dans le cadre d'une instruction, sont de la compétence exclusive du juge d'instruction, s'ils sont nécessaires pour atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er.
+
+Toutefois, l'exercice de la compétence visé à l'alinéa 1er est limité aux actes d'exécution définis à la présente sous-section.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 26, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/20.** [1 Le magistrat EPE ne peut accomplir ou faire accomplir un acte d'exécution visé à l'article 464/19 qu'après autorisation préalable du juge de l'application des peines.
+
+Le juge de l'application des peines statue sur la demande écrite et motivée d'autorisation au plus tard dans un délai de cinq jours ouvrables à compter de la réception de la demande.
+
+Le juge de l'application des peines examine uniquement la légalité, la proportionnalité et la subsidiarité de l'acte d'exécution requis.
+
+Le magistrat EPE se charge de l'exécution de l'acte d'exécution autorisé.]1
+
+> 1: Inséré par L 2014-02-11/13, art. 3, 010; En vigueur : 18-04-2014
+
+
+
+**Art. 464/21.** [1 § 1er. Le magistrat EPE peut introduire un pourvoi en cassation devant la Cour de cassation contre le jugement du juge de l'application des peines.
+
+
+§2.  Le magistrat EPE se pourvoit en cassation dans un délai de quinze jours à compter du prononcé du jugement attaqué.
+
+Le pourvoi en cassation est formé par une déclaration au greffe du tribunal de l'application des peines.
+
+
+§3.  Le greffe du tribunal de l'application des peines envoie immédiatement le dossier de la procédure au greffe de la Cour de cassation.
+
+Les moyens de cassation sont invoqués dans un mémoire déposé au greffe de la Cour de cassation au plus tard le cinquième jour suivant la déclaration.
+
+
+§4.  La Cour de cassation statue dans un délai de trente jours à compter de la date du pourvoi en cassation.
+
+Le greffe de la Cour de cassation communique l'arrêt au magistrat EPE, dans les vingt-quatre heures du prononcé et par envoi recommandé ou par téléfax.
+
+
+§5.  Après un arrêt de cassation avec renvoi, un autre juge de l'application des peines statue dans un délai de quinze jours à compter du prononcé de l'arrêt de la Cour de Cassation.
+
+
+§6.  La procédure se déroule pour le surplus selon les formes qui prévalent en matière correctionnelle.]1
+
+> 1: Inséré par L 2014-02-11/13, art. 4, 010; En vigueur : 18-04-2014
+
+
+
+**Art. 464/22.** [1 Le magistrat EPE peut, par décision écrite et motivée, effectuer ou faire effectuer par le service de police requis une perquisition dans un lieu non accessible au public afin de rechercher et de saisir les biens et supports d'information visés aux articles 464/29, § 2, et 464/30, § 1er.
+
+Aucune perquisition ne peut être effectuée avant cinq heures du matin et après neuf heures du soir]1
+
+> 1: Inséré par L 2014-02-11/12, art. 27, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/23.**[2 § 1er.]2 [1 Le magistrat EPE peut étendre la recherche qu'il effectue ou fait effectuer par le service de police requis dans un système informatique ou une partie de celui-ci à un système informatique ou une partie de celui-ci qui se trouve dans un autre lieu que celui où la recherche est effectuée si :
+ 1. cette extension est nécessaire pour collecter les renseignements visés à l'article 464/29, § 2, et
+ 2. si d'autres mesures pour collecter ces renseignements seraient disproportionnées ou s'il existe un risque que, sans cette extension, ces renseignements soient perdus.]1
+
+[2 § 2. L'extension d'une recherche dans un système informatique ne peut pas excéder les systèmes informatiques ou les parties de tels systèmes auxquels les personnes autorisées à utiliser le système informatique qui fait l'objet de la mesure ont spécifiquement accès.]2
+
+> 1: Inséré par L 2014-02-11/12, art. 28, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2018-03-18/14, art. 13, 016; En vigueur : 12-05-2018
+
+
+
+**Art. 464/24.**[1 § 1er. Le magistrat EPE ou le service de police requis peut ordonner aux personnes dont il présume qu'elles ont une connaissance particulière du système informatique qui fait l'objet de la recherche ou des services qui permettent de protéger ou de crypter les données qui sont stockées, traitées ou transmises par un système informatique, de fournir, dans une forme compréhensible, des informations sur le fonctionnement de ce système et sur la manière d'accéder aux données stockées, traitées ou transmises par celui-ci.
+
+
+§2.  [2 Le magistrat EPE ou le service de police requis peut demander à toute personne appropriée de mettre en fonctionnement elle-même le système informatique ou, selon le cas, de rechercher, rendre accessibles, copier, rendre inaccessibles ou retirer les données pertinentes qui sont stockées, traitées ou transmises par ce système, dans la forme qu'il aura demandée. Ces personnes sont tenues d'y donner suite, dans la mesure de leurs moyens. Ces personnes peuvent toutefois refuser de prêter leur collaboration, en particulier dans le cas où elles s'accuseraient d'une infraction.]2
+
+
+§3.  [2 Les tiers qui refusent de fournir la collaboration ordonnée aux paragraphes 1er et 2 ou qui font obstacle à la recherche dans le système informatique, sont punis d'un emprisonnement de six mois à un an et d'une amende de vingt-six euros à vingt mille euros ou d'une de ces peines seulement.
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret.
+
+Toute violation du secret est punie conformément à l'article 458 du Code pénal.]2
+
+
+§4.  [2 ...]2]1
+
+(NOTE : par son arrêt n° 178/2015 du 17-12-2015 (M.B. 08-02-2016,p. 8587), la Cour constitutionnelle a annulé l'article 464/24,§2 et §3 dans la mesure où l'obligation de collaborer s'applique également au condamné ou aux tiers visés à l'article 464/1,§3, du Code d'instruction criminelle à l'égard desquels existent des indices dont il ressort qu'ils se sont rendus coupables d'une infraction autre que celle qui a mené à la condamnation à laquelle se rapporte l'enquête pénale d'exécution d'exécution)
+
+> 1: Inséré par L 2014-02-11/12, art. 29, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2018-03-18/14, art. 14, 016; En vigueur : 12-05-2018
+
+
+
+**Art. 464/25.**[1 § 1er. Le magistrat EPE ou le service de police requis peut faire procéder, en requérant [3 les acteurs visés à l'alinéa 2]3 :
+ 1. au repérage des données d'appel de moyens de communication électronique à partir desquels ou vers lesquels des appels sont adressés ou ont été adressés;
+ 2. à la localisation de l'origine ou de la destination de communications électroniques.
+
+[3 Les acteurs suivants sont tenus de collaborer conformément à l'alinéa 1er:
+ * l'opérateur d'un réseau de communications électroniques;
+ * toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.]3
+
+Dans les cas visés à l'alinéa 1er, pour chaque moyen de communication électronique dont les données d'appel sont repérées ou pour lequel l'origine ou la destination de la communication électronique est localisée, le jour, l'heure, la durée et, si nécessaire, le lieu de la communication électronique sont indiqués et consignés dans un procès-verbal.
+
+Le magistrat EPE précise dans sa décision la durée pendant laquelle la mesure pourra s'appliquer, cette durée ne pouvant excéder, en ce qui concerne les futures données de communication électronique, deux mois à dater de l'ordonnance, sans préjudice de renouvellement.
+
+
+§2.  [3 Les acteurs visés au § 1er, alinéa 2, communiquent les renseignements requis en temps réel ou, le cas échéant, au moment précisé dans la décision, selon les modalités fixées par l'arrêté royal pris en exécution de l'article 88bis, § 4, alinéas 1er et 3.
+
+Toute personne qui refuse de prêter son concours technique aux réquisitions visées dans le présent article ou ne le prête pas en temps réel ou, le cas échéant, au moment précisé dans la décision est punie d'une amende de vingt-six euros à dix mille euros.]3
+
+
+§3.  Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours est tenue de garder le secret.
+
+Toute violation du secret sera punie conformément à l'article 458 du Code pénal.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 30, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2016-05-29/03, art. 11, 012; En vigueur : 28-07-2016
+
+
+> 3: L 2016-12-25/37, art. 28, 014; En vigueur : 27-01-2017
+
+
+
+**Art. 464/26.** [1 § 1er. Le magistrat EPE ou le service de police requis peut écouter, prendre connaissance et enregistrer, pendant leur transmission, des communications privées ou des communications électroniques privées.
+
+En vue de permettre l'écoute, la prise de connaissance ou l'enregistrement direct de communications ou communications électroniques privées à l'aide de moyens techniques, le magistrat EPE ou le service de police requis peut également à l'insu ou sans le consentement de l'occupant, du propriétaire ou de ses ayants droit, ordonner la pénétration, à tout moment, dans un domicile ou dans un lieu privé.
+
+
+§2.  La mesure de surveillance visée au § 1er peut être ordonnée si :
+ 1. elle est appliquée uniquement en vue de l'exécution d'une condamnation, passée en force de chose jugée, au paiement de confiscations, d'amendes et des frais de justice, prononcée après que le condamné a été déclaré coupable d'une infraction visée à l'article 90ter, § 2 à 4;
+ 2. les autres actes d'exécution ordinaires n'ont pas suffi ou ne peuvent raisonnablement pas suffire pour atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er.
+
+
+§3.  La mesure de surveillance visée au § 1er ne peut être ordonnée qu'à l'égard du condamné, ou à l'égard des moyens de communication ou de télécommunication régulièrement utilisés par ce condamné, ou à l'égard des lieux présumés fréquentés par celui-ci. Elle peut l'être également à l'égard du tiers visé à l'article 464/1, § 3, ou à l'égard des personnes présumées être en communication régulière avec le condamné ou le tiers visé à l'article 464/1, § 3.
+
+La mesure ne pourra porter sur les locaux utilisés à des fins professionnelles, la résidence ou les moyens de communication ou de télécommunication d'un avocat ou d'un médecin que si celui-ci est lui-même un condamné ou un tiers au sens de l'article 464/1, § 3, ou s'il existe des indices sérieux et concrets qui font apparaître que l'habitation ou les locaux utilisés à des fins professionnelles du médecin ou de l'avocat sont utilisés pour soustraire les biens ou supports d'information visés aux articles 464/29, § 2, et 464/30, § 1er, à l'exécution de la condamnation à une confiscation, à une amende ou aux frais de justice.
+
+La mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins, selon le cas, en soit averti. Ces mêmes personnes seront informées, par le magistrat qui mène l'enquête, des communications ou télécommunications recueillies qu'il estime relever du secret professionnel et qui ne seront pas consignées au procès-verbal visé au § 7.
+
+
+§4.  La décision motivée du magistrat EPE portant demande d'autorisation adressée au juge de l'application des peines mentionne :
+ 1. l'identité du condamné et, le cas échéant, du tiers visé à l'article 464/1, § 3;
+ 2. les données de la décision passée en force de chose jugée qui font apparaître que l'EPE porte sur l'exécution d'une condamnation au paiement de confiscations, d'amendes et de frais de justice, après que le condamné ou un tiers visé à l'article 464/1, § 3, a été déclaré coupable d'une infraction visée à l'article 90ter, § 2 à 4;
+ 3. le solde dû de la condamnation au paiement de la confiscation, de l'amende et des frais de justice;
+ 4. les raisons pour lesquelles les actes d'exécution ordinaires n'ont pas suffi ou ne peuvent raisonnablement pas suffire pour atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er;
+ 5. l'identité de la personne, le moyen de communication ou de communication électronique ou le lieu soumis à la surveillance;
+ 6. la période proposée pendant laquelle la surveillance peut être pratiquée et qui ne peut excéder un mois à compter de la signature de l'autorisation accordée en vertu de l'article 464/20.
+
+
+§5.  Le magistrat EPE peut, moyennant autorisation du juge de l'application des peines, prolonger une ou plusieurs fois la durée de la mesure de surveillance pour un nouveau terme qui ne peut à chaque fois dépasser un mois, avec un maximum de six mois, sans préjudice de sa décision de mettre fin à la mesure dès que les circonstances qui l'ont justifiée ont disparu.
+
+A l'expiration de la durée maximale, l'exécution de la mesure de surveillance peut être renouvelée moyennant autorisation du juge de l'application des peines, pour autant qu'il y ait de nouvelles circonstances, et ce, pour un mois chaque fois, avec un maximum de six mois.
+
+
+§6.  Le magistrat EPE ou le fonctionnaire de police chargé de la direction opérationnelle de l'exécution de la mesure de surveillance prend les mesures prévues à l'article 90quater, § 2 et 4, si elles sont nécessaires à l'exécution de cette mesure. Les sanctions pénales prévues à l'article 90quater, § 2, alinéas 2 et 3, et § 4, alinéas 3 et 4, sont d'application aux personnes qui violent les obligations de collaboration et de secret.
+
+
+§7.  Le service de police chargé de l'exécution de la mesure de surveillance se charge :
+ 1. de sélectionner et transcrire, sous le contrôle du magistrat EPE, les parties des enregistrements qui contiennent des renseignements jugés pertinents pour l'EPE concernant la situation patrimoniale du condamné et du tiers visé à l'article 464/1, § 3;
+ 2. de traduire ou faire traduire, après autorisation du magistrat EPE, les renseignements pertinents dans la langue dans laquelle l'EPE est menée;
+ 3. de déposer les enregistrements, accompagnés des transcriptions, des traductions et des notices effectuées, sous pli scellé, au secrétariat du ministère public qui mène l'EPE;
+ 4. de détruire ou faire détruire, après autorisation du magistrat EPE, les enregistrements, les sélections de transcription et les traductions.
+
+Le service de police requis dresse un procès-verbal dans lequel il fait rapport sur l'exécution de la mesure de surveillance et des missions visées à l'alinéa 1er et l'envoie au magistrat EPE.
+
+La communication ou communication électronique qui relève du secret professionnel ou du secret des sources journalistiques n'est pas consignée dans le procès-verbal dressé à la suite de la mission visée à l'alinéa 1er, 1° et 2°.
+
+Le service de police requis prend toutes les mesures nécessaires afin de garantir l'intégrité et la confidentialité de la communication ou communication électronique enregistrée, transcrite et traduite jusqu'à son dépôt au secrétariat conformément à l'arrêté royal pris en exécution de l'article 90septies, alinéa 5.
+
+
+§8.  Le secrétariat du ministère public qui mène l'EPE veille à la conservation des objets et actes déposés conformément au § 7, alinéa 1er, 3°.
+
+Le magistrat EPE prend, conformément à l'arrêté royal pris en exécution de l'article 90septies, alinéa 5, toutes les mesures nécessaires afin de garantir l'intégrité et la confidentialité des enregistrements, transcriptions et traductions déposés pendant leur conservation au secrétariat.
+
+Le magistrat EPE statue conformément à l'article 464/1, § 5, sur la consultation des objets et actes déposés par le condamné, le tiers visé à l'article 464/1, § 3, ou tout autre ayant droit.
+
+Le magistrat EPE ordonne la destruction des objets et actes déposés qui ne sont pas destinés à l'exploitation dans le cadre de l'EPE ou qui ne sont pas utilisables aux fins visées à l'article 464/1, § 6, au plus tard à la clôture de l'EPE.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 31, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/27.**[1 § 1er. Le magistrat EPE qui mène l'enquête peut autoriser un service de police à procéder à une observation visée à l'article 47sexies, effectuée à l'aide de moyens techniques afin d'avoir une vue dans une habitation, ou dans une dépendance propre y enclose de cette habitation au sens des articles 479, 480 et 481 du Code pénal, ou dans un local utilisé à des fins professionnelles ou le domicile d'un avocat ou d'un médecin.
+
+La cause d'excuse visée à l'article 464/15 est d'application à cette observation.
+
+
+§2.  Le magistrat mentionne dans son autorisation d'observation l'adresse ou une localisation aussi précise que possible de l'habitation, du local utilisé à des fins professionnelles ou du domicile visés au paragraphe 1er, alinéa 1er, qui fait l'objet de l'observation.
+
+
+§3.  L'observation visée au paragraphe 1er peut être ordonnée si :
+ 1. elle est appliquée exclusivement en exécution d'une condamnation au paiement de confiscations, d'amendes et de frais de justice passée en force de chose jugée et prononcée après que le condamné a été déclaré coupable d'une infraction visée à l'article 90ter, §§ 2 à 4 ou d'une infraction dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal;
+ 2. les actes d'exécution ordinaires n'ont pas suffi ou ne peuvent raisonnablement suffire pour atteindre l'objectif de l'EPE décrit à l'article 464/1, § 1er.
+
+En outre, une observation visée au paragraphe 1er, se rapportant aux locaux utilisés à des fins professionnelles ou au domicile d'un avocat ou d'un médecin, ne peut être autorisée par le magistrat EPE que si l'avocat ou le médecin fait lui-même l'objet de la condamnation passée en force de chose jugée visée au 1°, ou que des faits précis laissent supposer que des tiers faisant l'objet d'une telle condamnation utilisent ces locaux ou ce domicile.
+
+Cette mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins en soit averti. Ces personnes sont tenues au secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+
+Il est agi conformément l'article 464/14.]1
+
+> 1: L 2018-03-18/14, art. 15, 016; En vigueur : 12-05-2018
+
+
+
+**Art. 464/28.** [1 Lorsqu'au cours de l'EPE, il existe des indices sérieux que le condamné ou le tiers visé à l'article 464/1, § 3, veut, en tant que personne morale, soustraire son patrimoine à l'exécution de la condamnation à une confiscation, à une amende ou aux frais de justice sur ce patrimoine, le magistrat EPE peut, si des circonstances particulières le requièrent, ordonner les mesures suivantes :
+ 1. la suspension de la procédure de dissolution ou de liquidation de la personne morale;
+ 2. l'interdiction de transactions patrimoniales spécifiques susceptibles d'entraîner l'insolvabilité de la personne morale;
+ 3. le versement d'un cautionnement dont il fixe le montant sur le compte de l'OCSC, en vue de garantir le respect des mesures qu'il ordonne.
+
+Si les mesures visées à l'alinéa 1er concernent des biens immeubles, il est procédé conformément à l'article 464/33.
+
+La personne morale peut demander la levée de la mesure prise conformément à l'article 464/36.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 33, 009; En vigueur : 18-04-2014
+
+
+#### Sous-section 3  - [1 De la saisie pour assurer l'exécution de la peine.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 34, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/29.** [1 § 1er. Le magistrat EPE peut, par décision écrite et motivée, effectuer ou faire effectuer par le service de police requis toutes les saisies qui peuvent contribuer à atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er.
+
+Chaque fonctionnaire de police peut procéder d'office à la saisie des biens meubles et documents visés au § 2 qui peuvent contribuer à atteindre l'objectif de l'EPE défini à l'article 464/1, § 1er.
+
+
+§2.  Sont saisissables :
+ 1. tous les biens meubles et immeubles, corporels ou incorporels, du patrimoine du condamné sur lesquels la condamnation exécutoire au paiement d'une confiscation, d'une amende et des frais de justice peut être exécutée;
+ 2. tous les supports d'information, sous forme originale ou de copie, qui se trouvent chez le condamné ou des tiers, qui contiennent des informations sur les transactions patrimoniales effectuées par le condamné et sur la composition et l'emplacement de son patrimoine.
+
+
+§3.  Les biens insaisissables conformément aux articles 1408 à 1412bis du Code judiciaire ou à des lois spéciales ne peuvent en aucun cas être saisis.
+
+Les supports d'information qui contiennent des informations couvertes par un secret professionnel sont insaisissables.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 35, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/30.** [1 § 1er. Le magistrat EPE peut saisir les biens visés à l'article 464/29, § 2, 1°, qui n'appartiennent pas au condamné aux conditions suivantes :
+ 1. il existe suffisamment d'indices sérieux et concrets que le condamné a transféré le bien au tiers, même avant que la condamnation soit passée en force de chose jugée, dans le but manifeste d'empêcher ou de compliquer fortement le recouvrement de la confiscation, de l'amende et des frais de justice;
+ 2. le tiers savait ou devait raisonnablement savoir que le bien lui avait été cédé directement ou indirectement par le condamné en vue de le soustraire à l'exécution d'une condamnation exécutoire ou possible à une confiscation, une amende ou aux frais de justice.
+
+Dans sa décision, le magistrat mentionne les indices sérieux et concrets qui font apparaître que le condamné veut soustraire le bien au recouvrement de la confiscation, de l'amende et des frais de justice, ainsi que les informations dont il ressort ou peut être déduit que le tiers en a connaissance et qui justifient la saisie. Ces données figurent dans le procès-verbal dressé à l'occasion de la saisie.
+
+
+§2.  Les biens insaisissables conformément aux articles 1408 à 1412bis du Code judiciaire ou à des lois spéciales ne peuvent en aucun cas être saisis.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 36, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/31.** [1 § 1er. Lorsqu'il est procédé à la saisie en vertu des articles 464/29, 464/30 et 464/32, le magistrat EPE saisissant ou le service de police saisissant rédige un procès-verbal énumérant les choses saisies.
+
+
+§2.  Le procès-verbal est présenté pour signature au saisi, qui peut en recevoir une copie sans frais. Si le saisi refuse de signer le procès-verbal et/ou d'en recevoir une copie ou ne peut être joint, le magistrat EPE ou le fonctionnaire de police en fait mention sur l'original et la notification est réputée faite le jour où le verbalisant constate le refus. Si la copie n'est pas remise immédiatement, elle est envoyée dans les quarante-huit heures.
+
+La copie du procès-verbal contient :
+ 1. l'avertissement que le saisi ne peut plus se dessaisir des biens qui font l'objet de la saisie, sous peine de l'application de l'article 507 du Code pénal;
+ 2. les références de l'affaire;
+ 3. le texte de l'article 507, alinéa 1er, du Code pénal.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 37, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/32.** [1 Si des informations visées à l'article 464/29, § 2, 2°, sont stockées dans un système informatique, mais que la saisie du support n'est pas opportune, il est procédé à la copie de ces données, ainsi que des données nécessaires pour pouvoir les comprendre, sur des supports appartenant à l'autorité. En cas d'urgence ou pour des raisons techniques, il peut être fait usage de supports qui sont à la disposition de personnes habilitées à utiliser le système informatique.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 38, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/33.**[1 § 1er. Le magistrat EPE peut faire saisir les biens immeubles qui constituent une chose au sens de l'article 464/29, § 2, 1°.
+
+
+§2.  La saisie est pratiquée sur réquisition du magistrat EPE par procès-verbal signifié au propriétaire par ce magistrat EPE ou le service de police requis, au propriétaire. Le cas échéant, le procès-verbal de saisie est signifié au nu-propriétaire, à l'usufruitier, à l'emphytéote, au superficiaire et, le cas échéant, au locataire.
+
+Le procès-verbal de saisie contient à peine de nullité :
+ 1. une copie de la réquisition du magistrat EPE;
+ 2. l'identité du saisi, avec mention de ses nom et prénom, de son domicile ou, à défaut de domicile, de sa résidence ainsi que la date et le lieu de naissance, s'il s'agit d'une personne physique, ou de sa dénomination, sa forme juridique, son numéro d'entreprise et son siège, s'il s'agit d'une personne morale;
+ 3. une description du bien immeuble sur lequel la saisie est pratiquée selon la manière prescrite à l'article 141 de la loi hypothécaire du 16 décembre 1851;
+ 4. un extrait de la matrice cadastrale, datant de moins de trois mois;
+ 5. le texte du présent article et de l'article 507, alinéa 1er, du Code pénal.
+
+
+§3.  Dans les vingt-quatre heures suivant l'acte de saisie, le magistrat EPE ou le service de police requis présente le procès-verbal de saisie à la transcription au [2 bureau compétent de l'Administration générale de la Documentation patrimoniale]2 du lieu où les biens sont situés.
+
+La transcription est faite par [2 l'Administration générale de la Documentation patrimoniale]2, sous peine de dommages-intérêts, au plus tard dans les huit jours de la remise du procès-verbal de saisie précité. Néanmoins, la transcription prend date du jour de la remise de ce procès-verbal.
+
+Si [2 l'Administration générale de la Documentation patrimoniale]2 ne peut procéder à la transcription du procès-verbal de saisie à l'instant où elle est requise, [2 elle]2 fait mention, sur les procès-verbaux originaux qui lui sont laissés, du jour et de l'heure où la remise lui en a été faite.
+
+
+§4.  La saisie ne porte pas préjudice à l'exercice du droit du propriétaire ou de toute autre personne habilitée de continuer à utiliser le bien immeuble saisi en bon père de famille.
+
+
+§5.  Les fruits civils produits par le bien immeuble pendant la durée de la saisie sont compris dans la saisie, sauf décision contraire du magistrat EPE.
+
+Le magistrat EPE peut demander à l'OCSC de s'occuper de l'encaissement des fruits d'un bien immeuble. Si la saisie émane d'un magistrat de l'OCSC, il peut décider d'office d'encaisser ces fruits. Sans préjudice de l'application de l'article 464/36, la décision du magistrat EPE n'est susceptible d'aucun recours.
+
+L'OCSC porte la décision visée à l'alinéa 2 à la connaissance du débiteur et du créancier de ces revenus par lettre recommandée ou par le biais de la remise d'un procès-verbal. La notification contient le texte du présent article et de l'article 507, alinéa 1er, du Code pénal.
+
+Dès réception de la notification, tous les fruits civils qui sont échus pendant la saisie sont compris d'office dans l'objet de la saisie.
+
+Le débiteur et le créancier ne peuvent plus se dessaisir des sommes d'argent comprises dans l'objet de la saisie d'une manière autre que celle visée à l'alinéa 6, sous peine d'application de l'article 507, alinéa 1er, du Code pénal.
+
+Le débiteur des revenus peut uniquement procéder au paiement libératoire entre les mains de l'OCSC. Les paiements entre les mains du créancier, qui sont effectués après la notification régulière de la décision visée à l'alinéa 2, ne sont pas opposables à l'Etat.
+
+
+§6.  La saisie immobilière conservatoire est valable pendant trois années prenant cours à la date de sa transcription, sauf renouvellement conformément au § 7. A l'expiration de ce délai, la saisie cesse de plein droit de produire des effets et il n'en est plus fait mention dans les certificats hypothécaires.
+
+Le délai visé à l'alinéa 1er est suspendu pendant la procédure d'aliénation du bien immeuble, depuis la réception de l'autorisation d'aliéner par l'OCSC ou depuis la date de la décision d'aliéner par le magistrat de l'OCSC qui mène l'EPE jusqu'au jour où le bien est vendu.
+
+A la demande du directeur de l'OCSC, [2 l'Administration générale de la Documentation patrimoniale]2 mentionne sommairement la décision définitive d'aliéner le bien immeuble en marge de l'exploit de saisie transcrit.
+
+
+§7.  Le magistrat EPE peut ordonner le renouvellement de la saisie pratiquée avant l'expiration de la durée de validité.
+
+La décision du magistrat est notifiée par lui-même ou par le service de police requis, par un procès-verbal à la personne visée au § 2, alinéa 1er. Le procès-verbal de notification contient les mentions énumérées au § 2, alinéa 2.
+
+Le renouvellement de la transcription a lieu sur présentation [2 à l'Administration générale de la Documentation patrimoniale]2 d'un procès-verbal et signé par le magistrat EPE ou le service de police requis, contenant l'indication précise de la transcription à renouveler, accompagné d'une copie de la réquisition du magistrat.
+
+La durée du renouvellement est de trois ans. Le nouveau délai prend cours le jour du renouvellement de la transcription.
+
+
+§8.  En cas de levée de la saisie, il est procédé à la notification de la décision du magistrat EPE ou, le cas échéant, de la décision judiciaire ordonnant la levée, aux personnes visées au § 2, alinéa 1er, et au [2 bureau compétent de l'Administration générale de la Documentation patrimoniale]2 par le biais de l'envoi de la décision par envoi recommandé ou remise constatée par procès-verbal.
+
+[2 L'Administration générale de la Documentation patrimoniale]2 opère sur cette base la radiation de la transcription du procès-verbal Après la radiation, il n'est plus fait mention de la saisie sur les certificats hypothécaires.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 39, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2018-07-11/07, art. 74, 018; En vigueur : 30-07-2018
+
+
+
+**Art. 464/34.** [1 § 1er. Le magistrat EPE peut saisir les sommes d'argent que le tiers saisi doit payer ou des choses que celui-ci doit remettre au condamné ou au tiers visé à l'article 464/1, § 3, à l'égard de qui la saisie est pratiquée.
+
+Sont de plein droit compris dans l'objet de la saisie :
+ 1. les intérêts qui sont dus au titulaire de la créance après la saisie;
+ 2. tous les termes échus après la saisie d'une créance concernant des revenus périodiques.
+
+
+§2.  La saisie d'une créance, à l'exception d'une saisie de droits à ordre ou au porteur, est effectuée par notification écrite de la décision de saisie au saisi et au tiers saisi.
+
+Le magistrat EPE ou le fonctionnaire de police informe de la décision en procédant :
+ 1. à l'expédition de la décision par téléfax ou par envoi recommandé, ou
+ 2. à la délivrance d'une copie sans frais du procès-verbal de saisie, dressé par le fonctionnaire de police.
+
+La notification contient les références de l'affaire ainsi que le texte du présent article et de l'article 507, alinéa 1er, du Code pénal. La notification adressée au tiers saisi contient en outre le texte de l'article 1452 du Code judiciaire.
+
+
+§3.  Dès la réception de la notification, le tiers saisi ne peut plus se dessaisir des sommes ou choses qui font l'objet de la saisie, sous peine de l'application de l'article 507, alinéa 1er, du Code pénal.
+
+Le magistrat EPE peut ordonner au tiers saisi de transférer à l'OCSC les sommes d'argent qui font l'objet de la saisie.
+
+
+§4.  Le tiers saisi a droit au remboursement des frais de déclaration. Le Roi fixe le montant maximum de ce remboursement.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 40, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/35.** [1 § 1er. Les biens meubles saisis sont déposés au greffe du tribunal ou de la cour auprès duquel le magistrat EPE exerce son office.
+
+Le greffe se charge de la conservation des biens saisis et les inscrit dans un registre tenu à cet effet.
+
+
+§2.  Par dérogation au § 1er, le magistrat EPE peut mettre un terme à la conservation en nature du bien meuble saisi et le restituer au saisi contre paiement d'une somme d'argent dont il détermine le montant.
+
+Si le saisi y consent, la somme payée remplace de plein droit le bien saisi restitué.
+
+
+§3.  Par dérogation au § 1er, les sommes saisies sont versées sur le compte ouvert par l'OCSC dans une institution financière.
+
+Dès que son compte est crédité, l'OCSC s'occupe de la conservation des sommes qui lui sont confiées.
+
+
+§4.  Par dérogation au § 1er, le magistrat EPE peut demander à l'OCSC de s'occuper de la gestion des effets ou des sommes saisis dans une institution financière, ainsi que des autres biens qui nécessitent une gestion particulière.
+
+Si un magistrat de l'OCSC mène l'EPE, il peut décider d'office de prendre les effets, sommes ou biens saisis en gestion.
+
+L'OCSC peut confier les effets et biens saisis à un mandataire ou à un gérant désigné par lui.
+
+Le magistrat EPE réalise les effets et autres biens gérés par l'OCSC conformément à l'article 464/37.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 41, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/36.**[1 § 1er. Toute personne lésée par une saisie concernant ses biens peut demander au magistrat EPE la levée de cet acte d'exécution.
+
+
+§2.  La requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile ou son siège. Elle est envoyée par envoi recommandé ou par téléfax au secrétariat du ministère public compétent et inscrite dans un registre tenu à cet effet.
+
+
+§3.  Le magistrat EPE statue dans un délai de quinze jours à compter de l'inscription de la requête dans le registre.
+
+Il peut rejeter la requête s'il estime que les nécessités de l'enquête le requièrent ou si la condamnation au paiement d'une confiscation, d'une amende et des frais de justice peut être exécutée sur les biens concernés.
+
+La décision motivée du magistrat EPE est communiquée au requérant et, le cas échéant, à son avocat, par téléfax ou par envoi recommandé, dans un délai de huit jours à compter de la décision.
+
+
+§4.  Le requérant peut porter l'affaire devant le juge de l'application des peines dans un délai de quinze jours à compter de la notification de la décision.
+
+Ce délai est prolongé de quinze jours si une de ces personnes réside hors du Royaume.
+
+L'affaire est portée devant le juge de l'application des peines par une déclaration faite au greffe de la prison ou au greffe du tribunal de l'application des peines et inscrite dans un dossier tenu à cet effet. Le greffier porte immédiatement la déclaration à la connaissance du magistrat EPE qui mène l'enquête.
+
+
+§5.  Le magistrat EPE envoie les pièces du dossier concernant la saisie au greffier du tribunal de l'application des peines, qui les dépose au greffe. Les pièces du dossier confidentiel visé aux articles 464/14, 464/16 et 464/27 ne sont pas mises à la disposition du greffier, du juge de l'application des peines, du requérant ou de son conseil.
+
+Le greffier communique, par téléfax ou par envoi recommandé, les lieux, jour et heure de l'audience au requérant ou à son avocat, au plus tard sept jours au préalable. Le greffier informe immédiatement le magistrat EPE de l'audience.
+
+Les pièces du dossier qui concernent la saisie sont mises à la disposition du requérant et de son avocat pour consultation au greffe du tribunal de l'application des peines, pendant au moins quatre jours avant la date de l'audience. [2 Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.]2 Le requérant peut, à sa demande, obtenir une copie des pièces.
+
+Le requérant, son avocat et le ministère public sont entendus.
+
+
+§6.  Le juge de l'application des peines examine exclusivement la légalité et la proportionnalité de la saisie et statue en premier et dernier ressort sur la demande de levée de la saisie, dans un délai de trente jours à compter du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise, à la demande du requérant ou de son avocat.
+
+Le juge de l'application des peines peut, à la demande du requérant ou d'office, faire procéder au contrôle prévu par l'article 464/18, § 2, alinéa 1er, si la saisie est basée sur des données obtenues à l'aide d'une observation visée aux articles 464/14 et 464/27, ou qui a permis la saisie de biens ou des supports d'information visés aux articles 464/29, § 2, ou 464/30, § 1er.
+
+Le requérant qui succombe peut être condamné aux dépens.
+
+Le greffier communique, dans les vingt-quatre heures du prononcé et par envoi recommandé ou téléfax, le jugement du juge de l'application des peines au requérant ou à son avocat ainsi qu'au magistrat EPE et, le cas échéant, au directeur de l'OCSC.
+
+Le jugement du juge de l'application n'est pas susceptible d'opposition ou de pourvoi en cassation.]1
+
+> 1: Inséré par L 2014-02-11/13, art. 5, 010; En vigueur : 18-04-2014
+
+
+> 2: L 2019-05-05/19, art. 153, 020; En vigueur : 29-06-2019
+
+
+
+**Art. 464/37.**[1 § 1er. Le magistrat EPE peut autoriser l'OCSC à procéder à l'aliénation de biens saisis en vue d'apurer les sommes confisquées, les amendes et les frais de justice dus.
+
+Si un magistrat de l'OCSC mène l'EPE, il peut d'office ordonner l'aliénation dans le même but.
+
+
+§2.  En concertation avec le fonctionnaire compétent du service public fédéral Finances chargé du recouvrement de la confiscation, de l'amende ou des frais de justice, l'OCSC désigne un mandataire qui s'occupera de la vente des biens saisis et du partage du produit.
+
+Les biens saisis ne peuvent être vendus à un prix inférieur à la valeur déterminée en concertation par l'OCSC et son mandataire.
+
+La procédure de vente des biens se déroule conformément aux dispositions applicables à l'aliénation de biens dans le cadre de l'information.
+
+
+§3.  Lorsque la décision d'aliénation porte sur un immeuble, l'adjudication a pour effet que les droits des créanciers inscrits du condamné sont reportés sur le prix, sous réserve de l'application de [2 l'article 32 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation]2.
+
+
+§4.  Le mandataire désigné s'occupe de la distribution par contribution ou de l'ordre conformément aux dispositions de la partie V du Code judiciaire.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 42, 009; En vigueur : 18-04-2014
+
+
+> 2: L 2018-02-04/04, art. 46, 017; En vigueur : 01-07-2018
+
+
+
+**Art. 464/38.**[1 § 1er. Le magistrat EPE qui a accordé ou ordonné l'aliénation communique sa décision ou ordonne la notification de celle-ci par envoi recommandé ou par téléfax :
+ 1. aux personnes à charge et entre les mains desquelles la saisie a été pratiquée, pour autant que leurs adresses soient connues, ou à leurs avocats;
+ 2. aux personnes qui, d'après les données du dossier, se sont expressément manifestées comme lésées par la saisie, ou à leurs avocats;
+ 3. en cas de saisie immobilière, aux créanciers connus selon l'état hypothécaire, ou à leurs avocats.
+
+Il ne doit pas être adressé de notification aux personnes qui ont donné leur consentement pour la mesure concernée ou qui ont renoncé à leurs droits sur les biens saisis.
+
+De même, il ne doit pas être adressé de notification au saisi qui a été informé de la saisie de manière régulière conformément aux articles 464/31, 464/33 et 464/34 et qui ne s'est pas opposé à une éventuelle aliénation du bien saisi visé aux articles 464/29, § 2 et 464/30, § 1er, par lettre recommandée adressée au magistrat, au plus tard dans un délai de trente jours à compter de la notification de la copie du procès-verbal visé à l'article 464/31, § 2, alinéa 1er, ou à l'article 464/33, § 2, alinéa 1er, ou de la notification écrite visée à l'article 464/34, § 2, alinéa 2, dans laquelle le texte du présent article est mentionné.
+
+
+§2.  Les personnes auxquelles la notification a été adressée peuvent saisir le juge de l'application des peines dans un délai de quinze jours à compter de la notification de la décision.
+
+Ce délai est prolongé de quinze jours si une de ces personnes réside hors du Royaume.
+
+L'affaire est portée devant le juge d'application des peines par une déclaration faite au greffe de la prison ou au greffe du tribunal d'application des peines et inscrite dans un dossier tenu à cet effet. Le greffier communique immédiatement la déclaration prononcée au magistrat qui mène l'enquête.
+
+
+§3.  Le magistrat EPE envoie les pièces du dossier concernant la saisie et l'aliénation sur lesquelles porte la décision attaquée au greffe du tribunal de l'application des peines, qui les dépose au greffe.
+
+Le greffier communique, par téléfax ou par envoi recommandé, les lieu, jour et heure de l'audience au requérant ou à son avocat, au plus tard sept jours au préalable. Le greffier informe immédiatement le magistrat EPE de l'audience.
+
+Les pièces du dossier sont mises à la disposition du requérant et son avocat, pour consultation au greffe du tribunal de l'application des peines, pendant au moins quatre jours avant la date de l'audience. [2 Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.]2 Le requérant peut, à sa demande, obtenir une copie des pièces.
+
+Le requérant, son avocat et le ministère public sont entendus.
+
+
+§4.  Le juge de l'application des peines statue en premier et dernier ressort sur la demande de levée de la mesure d'aliénation, dans un délai de trente jours à compter du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise, à la demande du requérant ou de son avocat.
+
+Le requérant qui succombe peut être condamné aux dépens.
+
+Le greffier communique, dans les vingt-quatre heures du prononcé et par envoi recommandé ou par téléfax, le jugement du juge de l'application des peines au requérant ou à son avocat, ainsi qu'au magistrat EPE et, le cas échéant, au directeur de l'OCSC.
+
+
+§5.  La décision du juge de l'application des peines n'est pas susceptible de pourvoi en cassation par le requérant et le magistrat EPE.]1
+
+> 1: Inséré par L 2014-02-11/13, art. 6, 010; En vigueur : 18-04-2014
+
+
+> 2: L 2019-05-05/19, art. 154, 020; En vigueur : 29-06-2019
+
+
+#### Section 5  [1 Des coûts de l'enquête]1
+
+> 1: Inséré par L 2014-02-11/12, art. 43, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/39.** [1 Les coûts de l'EPE comprennent tous les frais occasionnés par l'application des actes d'exécution ordinaires et spécifiques, à l'exception des frais de personnel et de fonctionnement liés à l'intervention des magistrats, fonctionnaires de police et fonctionnaires du service public fédéral Finances concernés.
+
+Les frais sont à charge du condamné à l'encontre de qui l'exécution de la confiscation ou le recouvrement de l'amende ou des frais de justice est requis. Les frais engendrés par des actes d'exécution irréguliers et les frais qui ne sont manifestement pas imputables au comportement personnel du condamné sont à charge de l'Etat.
+
+Si une indemnité doit être payée pour les actes d'exécution visés à alinéa 1er, les tarifs établis par la réglementation sur les frais de justice en matière répressive sont d'application.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 44, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/40.** [1 Le magistrat EPE taxe les frais qui sont exposés au nom de son office.
+
+Les poursuites en vue du recouvrement de ces frais sont exercées au nom du magistrat EPE par le fonctionnaire compétent du Service public fédéral Finances.
+
+Le condamné peut faire appel de la décision du magistrat EPE de mettre les frais à sa charge, en introduisant un recours devant le juge de l'application des peines, par lettre recommandée, dans un délai de trente jours à compter de la notification de la décision attaquée.
+
+Le juge d'application des peines statue sur la demande en premier et dernier ressort. Les frais engendrés par des actes d'exécution irréguliers et les frais qui ne sont manifestement pas imputables au comportement personnel du condamné, sont à charge de l'Etat.
+
+La Commission des frais de justice créée par la loi-programme (II) du 27 décembre 2006 connaît de tous les recours introduits par le prestataire de service contre les décisions du magistrat EPE taxateur, ou du ministre de la Justice ou de son délégué concernant le montant de l'indemnisation avancée ou définitivement taxée.]1
+
+> 1: Inséré par L 2014-02-11/13, art. 7, 010; En vigueur : 18-04-2014
+
+
+#### Section 6  - [1 De la clôture de l'enquête pénale d'exécution]1
+
+> 1: Inséré par L 2014-02-11/12, art. 45, 009; En vigueur : 18-04-2014
+
+
+
+**Art. 464/41.** [1 § 1er. Il est mis fin à l'EPE si :
+ 1. le condamné a satisfait à son obligation de paiement;
+ 2. la condamnation est éteinte.
+
+
+§2.  Si le magistrat EPE estime que l'enquête doit être clôturée, il porte sa décision à la connaissance du fonctionnaire compétent du service public fédéral Finances chargé du recouvrement des confiscations, des amendes et des frais de justice, et du directeur de l'OCSC.
+
+
+§3.  Au plus tard un mois après la clôture de l'EPE, le magistrat qui l'a menée invite le secrétariat du ministère public compétent ou l'OCSC, selon le cas, à informer par écrit toute personne ayant fait l'objet d'une mesure visée à l'article 464/26 de la nature de ladite mesure et des dates auxquelles elle a été exécutée.]1
+
+> 1: Inséré par L 2014-02-11/12, art. 46, 009; En vigueur : 18-04-2014
+
+
+### Chapitre II DES CONTUMACES. `L 2000-06-30/47, art. 41, 010;  En vigueur :  27-03-2001`
+
+
+**Art. 465.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 466.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 467.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 468.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 469.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 470.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 471.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 472.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 473.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 474.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 475.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 476.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 477.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+
+**Art. 478.** [Abrogé] `L 2000-06-30/47, art. 41, 005;  En vigueur :  27-03-2001`
+
+### Chapitre III DES CRIMES COMMIS PAR DES JUGES, HORS DE LEURS FONCTIONS ET DANS L'EXERCICE DE LEURS FONCTIONS.
+
+#### Section I  - DE LA POURSUITE ET INSTRUCTION CONTRE DES JUGES, POUR CRIMES ET DELITS PAR EUX COMMIS HORS DE LEURS FONCTIONS.
+
+
+**Art. 479.**`L 10-10-1967, art. 156, § 3` Lorsqu'un juge de paix, un juge au tribunal de police, un juge au tribunal de première instance, au tribunal du travail ou au [2 tribunal de l'entreprise]2, un conseiller à la cour d'appel ou à la cour du travail, un conseiller à la Cour de cassation, un magistrat du parquet près un tribunal ou une cour [, un référendaire près la Cour de cassation], un membre de la Cour des comptes, un membre du Conseil d'Etat [de l'auditorat ou du bureau de coordination] près le Conseil d'Etat, [un membre de la [1 Cour constitutionnelle]1, un référendaire près cette Cour], [les membres du Conseil du Contentieux des étrangers], un gouverneur de province est prévenu d'avoir commis, hors de ses fonctions, un délit emportant une peine correctionnelle, le procureur général près la cour d'appel le fait citer devant cette cour, qui prononce sans qu'il puisse y avoir appel. `L 1997-05-06/38, art. 27, 003;  En vigueur :  05-07-1997` `L 03-06-1971, art. 42, § 2` `L 28-06-1983, art. 109` `L 2003-04-10/59, art. 86, 006;  En vigueur :  01-01-2004` `L 2006-09-15/71, art. 205, 007;  En vigueur :  01-12-2006`
+
+> 1: L 2010-02-21/03, art. 2, 008; En vigueur : 08-03-2010
+
+
+> 2: L 2018-04-15/14, art. 252, 021; En vigueur : 01-11-2018
+
+
+
+**Art. 480.** [S'il s'agit d'une infraction punissable d'une peine criminelle], le [procureur général près la cour d'appel] et le premier président de cette cour désigneront, le premier, le magistrat qui exercera les fonctions d'officier de police judiciaire; le second, le magistrat qui exercera les fonctions de juge d'instruction. `L 10-07-1967, art. 1, 185°`
+
+
+**Art. 481.** Si c'est un [membre de cour d'appel] ou un officier exerçant près d'elle le ministère public, qui soit inculpé d'avoir commis un délai ou un crime hors de ses fonctions, l'officier qui aura reçu les dénonciations ou les plaintes sera tenu d'en envoyer de suite des copies au [Ministre de la Justice], sans aucun retard de l'instruction qui sera continuée comme il est précédemment réglé, et il adressera pareillement au grand juge une copie des pièces. `L 10-07-1967, art. 1, 186°`
+
+
+**Art. 482.** Le [Ministre de la Justice] transmettra les pièces à la Cour de cassation, qui renverra l'affaire, s'il y a lieu, soit à un tribunal de police correctionnelle, soit à un juge d'instruction, pris l'un et l'autre hors du ressort de la cour à laquelle appartient le membre inculpé.
+
+S'il s'agit de prononcer la mise en accusation, le renvoi sera fait à une autre [cour d'appel]. `L 10-07-1967, art. 1, 187°`
+
+
+**Art. 482bis.** `Inséré par L 2001-07-04/40, art. 9;  En vigueur :  03-08-2001` Les coauteurs et les complices de l'infraction pour laquelle un fonctionnaire de la qualité exprimée à l'article 479 est poursuivi, et les auteurs des infractions connexes sont poursuivis et jugés en même temps que le fonctionnaire.
+
+L'alinéa 1er ne s'applique toutefois pas aux auteurs de crimes et de délits politiques et délits de presse qui sont connexes avec l'infraction pour laquelle le fonctionnaire est poursuivi.
+
+#### Section II  - [DE LA POURSUITE ET DE L'INSTRUCTION CONTRE CERTAINS JUGES ET TRIBUNAUX POUR CRIMES ET DELITS RELATIFS A LEURS FONCTIONS.] `L 10-07-1967, art. 1, 188°`
+
+
+**Art. 483.**`L 10-10-1967, art. 156, § 4` Lorsqu'un juge de paix, un juge au tribunal de police, un juge au tribunal de première instance, au tribunal du travail ou au [2 tribunal de l'entreprise]2, un conseiller à la cour d'appel ou à la cour du travail, un conseiller à la Cour de cassation, un magistrat du parquet près un tribunal ou une cour [, un référendaire près la Cour de cassation], un membre de la Cour des comptes, un membre de Conseil d'Etat [de l'auditorat ou du bureau du coordination] près le Conseil d'Etat, [un membre de la [1 Cour constitutionnelle]1, un référendaire près cette Cour], [les membres du Conseil du Contentieux des étrangers] un gouverneur de province est prévenu d'avoir commis, dans l'exercice de ses fonctions, un délit emportant une peine correctionnelle, ce délit est poursuivi et jugé comme il est dit à l'article 479. `L 1997-05-06/38, art. 27, 003;  En vigueur :  05-07-1997` `L 03-06-1971, art. 42, § 2` `L 28-06-1983, art. 109` `L 2003-04-10/59, art. 86, 006;  En vigueur :  01-01-2004` `L 2006-09-15/71, art. 205, 007;  En vigueur :  01-12-2006`
+
+> 1: L 2010-02-21/03, art.3, 008; En vigueur : 08-03-2010
+
+
+> 2: L 2018-04-15/14, art. 252, 021; En vigueur : 01-11-2018
+
+
+
+**Art. 484.** Lorsque des fonctionnaires de la qualité exprimée en l'article précédent seront prévenus d'avoir commis un crime, les fonctions ordinairement dévolues au juge d'instruction et au [procureur du Roi] seront immédiatement remplis par le premier président et le [procureur général près la cour d'appel], chacun en ce qui le concerne, ou par tels autres officiers qu'ils auront respectivement et spécialement désignés à cet effet. `L 10-07-1967, art. 1, 189°`
+
+Jusqu'à la délégation, et dans le cas où il existerait un corps de délit, il pourra être constaté par tout officier de police judiciaire; et pour le surplus de la procédure, on suivra les dispositions générales du présent Code.
+
+
+**Art. 485.**Lorsque le crime commis dans l'exercice des fonctions [...], sera imputé [soit à un tribunal entier de première instance, à un tribunal du travail ou à un [1 tribunal de l'entreprise]1], soit individuellement à un ou plusieurs [membres des cours d'appels], et aux procureurs généraux et substituts près ces cours, il sera procédé comme il suit. `L 10-07-1967, art. 1, 190°` `L 10-10-1967, art. 156, § 5`
+
+> 1: L 2018-04-15/14, art. 252, 021; En vigueur : 01-11-2018
+
+
+
+**Art. 486.** Le crime sera dénoncé au [...] ministre de la justice, qui donnera, s'il y a lieu, ordre au procureur général [...] près la cour de cassation, de le poursuivre sur la dénonciation. `L 10-07-1967, art. 1, 191°`
+
+Le crime pourra aussi être dénoncé directement à la Cour de cassation par les personnes qui se prétendront lésées, mais seulement lorsqu'elles demanderont à prendre le tribunal ou le juge à partie, ou lorsque la dénonciation sera incidente à une affaire pendante à la Cour de cassation.
+
+
+**Art. 487.** Si le procureur général près la Cour de cassation ne trouve pas dans les pièces à lui transmises par le [Ministre de la Justice], ou produites par les parties, tous les renseignements qu'il jugera nécessaires, il sera, sur son réquisitoire, désigné par le premier président de cette cour un de ses membres pour l'audition des témoins, et tous autres actes d'instruction qu'il peut y avoir lieu de faire dans la ville où siège la cour de cassation. `L 10-07-1967, art. 1, 192°`
+
+
+**Art. 488.** _ Lorsqu'il y aura des témoins à entendre ou des actes d'instruction à faire hors de la ville où siège la Cour de cassation, le premier président de cette Cour fera, à ce sujet, toutes délégations nécessaires à un juge d'instruction, [même d'un arrondissement autre que celui du tribunal ou du juge inculpé]. `L 10-07-1967, art. 1, 193°`
+
+
+**Art. 489.** Après avoir entendu les témoins et terminé l'instruction qui lui aura été déléguée, le juge d'instruction mentionné en l'article précédent renverra les procès-verbaux et les autres actes, clos et cachetés, au premier président de la Cour de cassation.
+
+
+**Art. 490.** Sur le vu, soit des pièces qui auront été transmises par le [Ministre de la Justice], ou produites par les parties, soit des renseignements ultérieurs qu'il se sera procurés, le premier président décernera, s'il y a lieu, le mandat de dépôt.
+
+Ce mandat désignera la maison d'arrêt dans laquelle [l'inculpé] devra être déposé. `L 10-07-1967, art. 1, 194°`
+
+
+**Art. 491.** Le premier président de la Cour de cassation ordonnera de suite la communication de la procédure au procureur général, qui, dans les cinq jours suivants, [adressera son réquisitoire contenant la dénonciation de l'inculpé à la chambre qui connaît des pourvois en matière criminelle, correctionnelle ou de police]. `L 10-07-1967, art. 1, 195°`
+
+
+**Art. 492.** Soit que la dénonciation portée à [la chambre désignée à l'article 491] ait été ou non précédée d'un mandat de dépôt, cette [chambre] y statuera, toutes affaires cessantes. `L 10-07-1967, art. 1, 196°`
+
+Si elle la rejette, elle ordonnera la mise en liberté [de l'inculpé]. `L 10-07-1967, art. 1, 196°`
+
+Si elle l'admet, elle renverra le tribunal ou le juge [inculpé] devant les juges de la [chambre] civile, qui prononceront sur la mise en accusation. `L 10-07-1967, art. 1, 196°`
+
+
+**Art. 493.** La dénonciation incidente à une affaire pendante à la Cour de cassation sera portée devant la [chambre] saisie de l'affaire; et si elle est admise, elle sera renvoyée [de la chambre qui connaît des pourvois en matière criminelle, correctionnelle ou de police à la chambre qui connaît des pourvois en matière civile et réciproquement]. `L 10-07-1967, art. 1, 197°`
+
+
+**Art. 494.** Lorsque, dans l'examen d'une demande en prise à partie ou de toute autre affaire, et sans qu'il y ait de dénonciation directe ni incidente, l'une des [chambres] de la cour de cassation apercevra quelque délit de nature à faire poursuivre criminellement un tribunal ou un juge de la qualité exprimée en l'article 479, elle pourra d'office ordonner le renvoi, conformément à l'article précédent. `L 10-07-1967, art. 1, 198°`
+
+
+**Art. 495.** Lorsque l'examen d'une affaire portée devant les [chambres] réunies donnera lieu au renvoi d'office exprimé dans l'article qui précède, ce renvoi sera fait à la [chambre qui connaît des pourvois en matière civile]. `L 10-07-1967, art. 1, 199°`
+
+
+**Art. 496.** Dans tous les cas, la [chambre] à laquelle sera fait le renvoi sur dénonciation ou d'office, prononcera sur la mise en accusation. `L 10-07-1967, art. 1, 200°`
+
+Son président remplira les fonctions que la loi attribue aux juges d'instruction.
+
+
+**Art. 497.** Ce président pourra déléguer l'audition des témoins et l'interrogatoire [des inculpés] à un autre juge d'instruction, pris [même hors de l'arrondissement judiciaire] où se trouvera [l'inculpé]. `L 10-07-1967, art. 1, 201°`
+
+
+**Art. 498.** Le mandat d'arrêt que délivrera le président désignera la maison d'arrêt dans laquelle [l'inculpé] devra être conduit. `L 10-07-1967, art. 1, 202°`
+
+
+**Art. 499.** La [chambre] de la cour de cassation, saisie de l'affaire, délibérera sur la mise en accusation, en séance non publique; les juges devront être en nombre impair.
+
+Si la majorité des juges trouve que la mise en accusation ne doit pas avoir lieu, la dénonciation sera rejetée par un arrêt, et le procureur général fera mettre [l'inculpé] en liberté. `L 10-07-1967, art. 1, 203°`
+
+
+**Art. 500.** Si la majorité des juges est pour la mise en accusation, cette mise en accusation sera prononcée par un arrêt, qui portera en même temps ordonnance de prise de corps.
+
+En exécution de cet arrêt, l'accusé sera transféré dans la [maison d'arrêt] de la cour d'assises qui sera désignée par celle de cassation, dans l'arrêt même. `L 1999-05-07/61, art. 7, 004;  En vigueur :  01-07-1999`
+
+
+**Art. 501.** L'instruction, ainsi faite devant la Cour de cassation, ne pourra être attaquée quant à la forme. Elle sera commune aux complices du tribunal ou du juge poursuivi, lors même qu'ils n'exerceraient point de fonctions judiciaires.
+
+
+**Art. 502.** Seront, au surplus, observées les autres dispositions du présent Code qui ne sont pas contraires aux formes de procéder prescrites par le présent chapitre.
+
+
+**Art. 503.** Lorsqu'il se trouvera, dans la [chambre qui connaît des pourvois en matière criminelle, correctionnelle et de police] saisie du recours en cassation dirigé contre l'arrêt de la cour d'assises à laquelle l'affaire aura été renvoyée, des juges qui auront concouru à la mise en accusation [dans l'autre chambre], ils s'abstiendront.
+
+Et néanmoins, dans le cas d'un second recours qui donnera lieu à la réunion des [chambres], tous les juges en pourront connaître. `L 10-07-1967, art. 1, 204°`
+
+
+**Art. 503bis.** `Inséré par L 2001-07-04/40, art. 10;  En vigueur :  03-08-2001` Les coauteurs et les complices de l'infraction visée à la présente section, pour laquelle un fonctionnaire de la qualité exprimée à l'article 483 ou un tribunal visé à l'article 485, est poursuivi, et les auteurs des infractions connexes sont poursuivis et jugés en même temps que le fonctionnaire ou le tribunal.
+
+L'alinéa 1er ne s'applique toutefois pas aux auteurs de crimes et de délits politiques et délits de presse qui sont connexes avec l'infraction pour laquelle le fonctionnaire ou le tribunal est poursuivi.
+
+### Chapitre IV DES DELITS CONTRAIRES AU RESPECT DU AUX AUTORITES CONSTITUEES.
+
+
+**Art. 504.** [Abrogé] `L 10-10-1967, art. 32`
+
+
+**Art. 505.** [Abrogé] `L 10-10-1967, art. 32`
+
+
+**Art. 506.** S'il s'agit d'un crime commis à l'audience d'un juge seul, ou d'un tribunal sujet à appel, le juge ou le tribunal, après avoir fait arrêter le délinquant et dressé procès-verbal des faits, enverra les pièces et [l'inculpé] devant les juges compétents. `L 10-07-1967, art. 1, 206°`
+
+
+**Art. 507.** A l'égard des voies de fait qui auraient dégénéré en crimes, ou de tous autres crimes flagrants et commis à l'audience de la Cour de cassation, [d'une cour d'appel ou d'une cour d'assises], la cour procédera au jugement de suite et sans désemparer. `L 10-07-1967, art. 1, 207°`
+
+Elle entendra les témoins, le délinquant et le conseil qu'il aura choisi ou qui lui aura été désigné par le président; et, après avoir constaté les faits et ouï le procureur général ou son substitut, le tout publiquement, elle appliquera la peine par un arrêt qui sera motivé.
+
+
+**Art. 508.** Dans le cas de l'article précédent, si les juges présents à l'audience sont au nombre de cinq ou de six, il faudra quatre voix pour opérer la condamnation.
+
+S'ils sont au nombre de sept, il faudra cinq voix pour condamner.
+
+Au nombre de huit et au delà, l'arrêt de condamnation sera prononcé aux trois quarts des voix, de manière toutefois que, dans le calcul de ces trois quarts, les fractions, s'il s'en trouve, soient appliquées en faveur de l'absolution.
+
+
+**Art. 509.** [Les gouverneurs de province, commissaires d'arrondissement, bourgmestres et échevin], officiers de police administrative ou judiciaire, lorsqu'ils rempliront publiquement quelques actes de leur ministère, exerceront aussi les fonctions de police réglées par l'article 504; et, après avoir fait saisir les perturbateurs, ils dresseront procès-verbal du délit, et enverront ce procès-verbal, s'il y a lieu, ainsi que les [inculpés], devant les juges compétents. `L 10-07-1967, art. 1, 208°`
+
+### Chapitre V DE LA MANIERE DONT SERONT RECUES, EN MATIERE CRIMINELLE, CORRECTIONNELLE ET DE POLICE, LES DEPOSITIONS DES PRINCES ET DE CERTAINS FONCTIONNAIRES DE L'ETAT.
+
+
+**Art. 510.** Les princes ou princesses du sang [royal, et le Ministre de la Justice] ne pourront jamais être cités comme témoins, même pour les débats qui ont lieu en présence du jury, si ce n'est dans le cas où [le Roi], sur la demande d'une partie et le rapport du [Ministre de la Justice], aurait, par un [arrêté] spécial, autorisé cette comparution. `L 10-07-1967, art. 1, 209°`
+
+
+**Art. 511.** Les dépositions des personnes de cette qualité seront, sauf l'exception ci-dessus prévue, rédigées par écrit et reçues par le premier président de la [cour d'appel], si les personnes dénommées en l'article précédent résident ou se trouvent au chef-lieu d'une [cour d'appel]; sinon par le président du tribunal de première instance de l'arrondissement dans lequel elles auraient leur domicile, ou se trouveraient accidentellement. `L 10-07-1967, art. 1, 210°`
+
+Il sera, à cet effet, adressé par la cour ou le juge d'instruction saisi de l'affaire, au président ci-dessus nommé, un état des faits, demandes et questions, sur lesquels le témoignage est requis.
+
+Ce président se transportera aux demeures des personnes dont il s'agit, pour recevoir leurs dépositions.
+
+
+**Art. 512.** Les dépositions ainsi reçues seront immédiatement remises au greffe, ou envoyées closes et cachetées à celui de la cour ou du juge requérant, et communiquées sans délai à l'officier chargé du ministère public.
+
+Dans l'examen devant le jury, elles seront lues publiquement aux jurés et soumises aux débats, sous peine de nullité.
+
+
+**Art. 513.** Dans le cas où [le Roi aurait pris un arrêté] ordonnant ou autorisant la comparution de quelques-unes des personnes ci-dessus désignées, devant le jury, le même [arrêté royal] désignera le cérémonial à observer à leur égard. `L 10-07-1967, art. 1, 211°`
+
+
+**Art. 514.** A l'égard des ministres [autres que le Ministre de la Justice] ambassadeurs ou autres agents [du Roi accrédités près les chefs d'Etat étrangers], il sera procédé comme suit : `L 10-07-1967, art. 1, 212°`
+
+Si leur déposition est requise devant la cour d'assises ou devant le juge d'instruction du lieu de leur résidence ou de celui où ils se trouveraient accidentellement, ils devront la fournir dans les formes ordinaires.
+
+S'il s'agit d'une déposition relative à une affaire poursuivie hors du lieu où ils résident pour l'exercice de leurs fonctions et de celui où ils se trouveraient accidentellement, et si cette déposition n'est pas requise devant le jury, le président ou le juge d'instruction saisi de l'affaire adressera à celui du lieu où résident ces fonctionnaires à raison de leurs fonctions, un état des faits, demandes et questions sur lesquels leur témoignage est requis.
+
+S'il s'agit du témoignage d'un agent résidant auprès d'un gouvernement étranger, cet état sera adressé au ministre de la justice, qui en fera le renvoi sur les lieux, et désignera la personne qui recevra la déposition.
+
+
+**Art. 515.** Le président ou le juge d'instruction auquel sera adressé l'état mentionné en l'article précédent fera assigner le fonctionnaire devant lui, et recevra sa déposition par écrit.
+
+
+**Art. 516.** Cette déposition sera envoyée close et cachetée au greffe de la cour du juge requérant, communiquée et lue, comme il est dit en l'article 512, et sous les mêmes peines.
+
+
+**Art. 517.** Si les fonctionnaires de la qualité exprimée dans l'article 514 sont cités à comparaître comme témoins devant un jury assemblé hors du lieu où ils résident pour l'exercice de leurs fonctions, ou de celui où ils se trouveraient accidentellement, ils pourront en être dispensés par un [arrêté royal]. `L 10-07-1967, art. 1, 213°`
+
+Dans ce cas, ils déposeront par écrit et l'on observera les dispositions prescrites par les articles 514, 515 et 516.
+
+### Chapitre VI DE LA RECONNAISSANCE DE L'IDENTITE DES INDIVIDUS CONDAMNES, EVADES ET REPRIS.
+
+
+**Art. 518.** La reconnaissance de l'identité d'un individu condamné, évadé et repris sera faite par la cour qui aura prononcé sa condamnation.
+
+[Alinéa 2 abrogé] `L 10-07-1967, art. 1, 214°`
+
+
+**Art. 519.** Tous ces jugements seront rendus sans assistance de jurés, après que la cour aura entendu les témoins appelés tant à la requête du procureur général qu'à celle de l'individu repris, si ce dernier en a fait citer.
+
+L'audience sera publique, et l'individu repris sera présent, à peine de nullité.
+
+
+**Art. 520.** Le [procureur général] et l'individu repris pourront se pourvoir en cassation, dans la forme et dans le délai déterminés par le présent Code, contre l'arrêt rendu sur la poursuite en reconnaissance d'identité. `L 10-07-1967, art. 1, 215°`
+
+
+CHAPITRE VIbis. [1 - Recherche de personnes qui se sont soustraites à l'exécution de peines d'emprisonnement à titre principal, de réclusions ou d'internements.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 57, 019; En vigueur : 03-06-2019
+
+
+
+**Art. 520bis.** [1 § 1er. La recherche de personnes qui se sont soustraites à l'exécution de peines d'emprisonnement à titre principal, de réclusions ou d'internements est menée sous l'autorité et la direction du magistrat du ministère public compétent pour l'exécution de la condamnation coulée en autorité ou force de chose jugée.
+
+L'alinéa 1er s'applique également à l'égard des personnes visées à l'alinéa 1er contre lesquelles un mandat d'arrêt européen, une demande d'entraide judiciaire ou une demande d'extradition est lancée. Le procureur du Roi compétent est celui du lieu où la personne contre laquelle un mandat d'arrêt européen ou une demande d'extradition est lancée, peut être trouvée.
+
+Le ministère public compétent veille à la légalité des actes de recherche.
+
+
+§2.  Sauf les exceptions prévues par la loi, la recherche de personnes qui se sont soustraites à l'exécution de peines d'emprisonnement à titre principal, de réclusions ou d'internements se déroule selon les règles de l'information et de l'instruction.
+
+Le ministère public peut procéder ou faire procéder sur l'ensemble du territoire du Royaume à tous les actes de recherche relevant de sa compétence.
+
+
+§3.  Les fonctionnaires de police qui, dans le cadre d'une recherche visée au paragraphe 1er, ont recueilli des renseignements pouvant avoir de l'importance pour l'enquête pénale ou l'enquête pénale d'exécution en cours portent immédiatement ces renseignements à la connaissance du procureur du Roi compétent. Lorsqu'au cours d'une recherche visée au paragraphe 1er ils découvrent des faits susceptibles de constituer un délit ou un crime, ils en informent immédiatement le ministère public compétent.
+
+Le ministère public compétent peut faire usage des renseignements visés à l'alinéa 1er, collectés de manière régulière, dans le cadre de l'exercice de ses missions légales dans une enquête pénale ou une enquête pénale d'exécution en cours.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 58, 019; En vigueur : 03-06-2019
+
+
+
+**Art. 520ter.** [1 § 1er. En vue de la recherche des personnes visées à l'article 520bis, § 1er, le ministère public compétent peut faire procéder à tout acte d'information autorisé dans le cadre de l'information visée à l'article 28bis par le service de police requis, à l'exception des mesures prévues aux articles 47sexies et 47octies.
+
+
+§2.  Les actes de recherche visés au paragraphe 1er ne peuvent être appliqués que s'il a été satisfait aux conditions mentionnées aux articles relatifs à ces actes de recherche.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 59, 019; En vigueur : 03-06-2019
+
+
+
+**Art. 520quater.** [1 En vue de la recherche des personnes visées à l'article 520bis, § 1er, le ministère public compétent peut appliquer le recours aux indicateurs conformément à l'article 47decies.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 60, 019; En vigueur : 03-06-2019
+
+
+
+**Art. 520quinquies.** [1 § 1er. En vue de la recherche des personnes visées à l'article 520bis, § 1er, le ministère public compétent peut requérir le juge d'instruction du lieu où la peine ou la mesure privative de liberté a été prononcée, d'autoriser la mise en oeuvre des méthodes particulières de recherche de l'observation ou de l'infiltration, définies aux articles 47sexies à 47novies dans le respect des conditions définies ci-après.
+
+
+§2.  Le juge d'instruction ne peut autoriser une observation ou une infiltration que si elle est indispensable à la recherche des personnes visées à l'article 520bis, § 1er.
+
+
+§3.  Une observation effectuée à l'aide de moyens techniques ne peut être autorisée que si les infractions pour lesquelles la peine d'emprisonnement à titre principal, la réclusion ou l'internement a été prononcé peuvent donner lieu à un emprisonnement correctionnel principal d'un an ou à une peine plus lourde.
+
+Une infiltration et une observation effectuées à l'aide de moyens techniques en vue d'avoir une vue dans un domicile, ou dans une dépendance propre y enclose de ce domicile au sens des articles 479, 480 et 481 du Code pénal, ou dans un local utilisé à des fins professionnelles ou comme résidence par un avocat ou un médecin, ne peuvent être autorisées que si une peine d'emprisonnement à titre principal, une réclusion ou un internement a été prononcé pour une infraction visée à l'article 90ter, §§ 2 à 4, ou commise dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal.
+
+Lorsqu'une observation visée à l'alinéa 2 ou une infiltration porte sur les locaux utilisés à des fins professionnelles ou comme résidence par un avocat ou un médecin, elle ne peut en outre être autorisée que si une peine d'emprisonnement à titre principal, une réclusion ou un internement a été prononcé à l'égard de l'avocat ou du médecin pour l'une des infractions visées à l'article 90ter, §§ 2 à 4, ou pour une infraction commise dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal, ou si des faits précis laissent présumer que des tiers à l'égard desquels une telle peine d'emprisonnement à titre principal, une telle réclusion ou un tel internement a été prononcé, utilisent ses locaux ou sa résidence.
+
+Ces mesures ne peuvent être exécutées sans que le bâtonnier ou le représentant de l'ordre provincial des médecins en soit averti. Ces personnes sont tenues au secret professionnel. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+
+
+§4.  La requête visée au paragraphe 1er mentionne :
+ 1. l'indication des jour, mois et année;
+ 2. le nom du membre du ministère public compétent qui dépose la requête;
+ 3. les données d'identité de la personne qui a été condamnée et qui s'est soustraite à l'exécution de sa peine d'emprisonnement à titre principal, de sa réclusion ou de son internement;
+ 4. l'infraction pour laquelle une peine d'emprisonnement à titre principal, une réclusion ou un internement a été prononcé;
+ 5. les motifs pour lesquels la mesure est indispensable pour la recherche de la personne concernée;
+ 6. les mentions visées à l'article 47sexies, § 3, 3°, 5° et 6°, ou à l'article 47octies, § 3, 3°, 5° et 6°.
+
+Une copie du titre de privation de liberté est jointe à la requête.
+
+Dès réception de la requête, le juge d'instruction vérifie si les conditions pour l'application d'une observation ou d'une infiltration sont réunies et, si tel est le cas, accorde une autorisation écrite.
+
+L'autorisation mentionne :
+ 1. le nom de la personne qui a été condamnée et qui s'est soustraite à l'exécution de sa peine d'emprisonnement à titre principal, de sa réclusion ou de son internement;
+ 2. l'infraction pour laquelle une peine d'emprisonnement, une réclusion ou un internement a été prononcé, et la décision judiciaire qui l'a prononcé(e);
+ 3. les motifs pour lesquels la mesure est indispensable pour la recherche de la personne concernée;
+ 4. les mentions visées aux articles 47sexies, § 3, 3° à 6°, ou 47octies, § 3, 3° à 6°.
+
+Le juge d'instruction communique l'autorisation ainsi que les pièces directement au ministère public compétent. Le ministère public compétent conserve l'autorisation dans un dossier séparé et confidentiel et est le seul à avoir accès à ce dossier, sans préjudice du droit de consultation du juge d'instruction qui accorde l'autorisation, visé au paragraphe 8, alinéa 3. Le contenu de ce dossier est couvert par le secret professionnel.
+
+
+§5.  En cas d'urgence, la requête visée au paragraphe 1er ou l'autorisation visée au paragraphe 4 peut être faite verbalement. La requête et l'autorisation doivent être confirmées dans les plus brefs délais dans la forme prévue au paragraphe 4, alinéas 1er et 4.
+
+
+§6.  A la demande du ministère public compétent, le juge d'instruction peut à tout instant, de manière motivée, modifier, compléter ou prolonger son autorisation d'observation ou d'infiltration. Il peut à tout moment retirer son autorisation. Il vérifie si les conditions visées aux paragraphes 1er à 4 sont remplies chaque fois que son autorisation est modifiée, complétée ou prolongée et agit conformément au paragraphe 4, alinéa 4, 1° à 4°. Les décisions de modification, d'extension ou de prolongation sont versées au dossier confidentiel par le ministère public compétent.
+
+
+§7.  Le ministère public compétent est chargé de l'exécution des autorisations d'observation ou d'infiltration accordées par le juge d'instruction.
+
+Il énonce à ce moment dans une décision écrite séparée les infractions pouvant être commises par les services de police et les personnes visées à l'article 47quinquies, § 2, alinéa 3, dans le cadre de l'observation ou de l'infiltration autorisée par le juge d'instruction. Cette décision est conservée dans le dossier visé au paragraphe 4, alinéa 5.
+
+
+§8.  L'officier de police judiciaire qui dirige l'exécution de l'observation ou de l'infiltration fait rapport écrit de manière précise, complète et conforme à la vérité au ministère public compétent sur chaque phase de l'exécution de la mesure.
+
+Ces rapports confidentiels sont communiqués directement au ministère public compétent, qui les conserve dans le dossier visé au paragraphe 4, alinéa 5.
+
+Le juge d'instruction a toujours le droit de consulter le dossier confidentiel relatif à l'exécution de l'observation ou de l'infiltration, sans pouvoir faire mention de son contenu dans le cadre de sa mission.
+
+
+§9.  L'officier de police judiciaire qui dirige l'exécution de l'observation ou de l'infiltration rédige le procès-verbal des différentes phases de l'exécution de l'observation ou de l'infiltration, mais n'y mentionne aucun des éléments susceptibles de compromettre les moyens techniques et les techniques d'enquête policière utilisés ou la garantie de la sécurité et de l'anonymat de l'indicateur, des fonctionnaires de police chargés de l'exécution de l'observation ou de l'infiltration, et du civil visé à l'article 47octies, § 1er, alinéa 2. Ces éléments ne figurent que dans le rapport écrit visé au paragraphe 8, alinéa 1er.
+
+Un procès-verbal renvoie à l'autorisation d'observation ou d'infiltration et contient les mentions visées au paragraphe 4, alinéa 3, 1° à 4°, à l'exception de la mention au 4° renvoyant aux articles 47sexies, § 3, 4° et 6°, et 47octies, § 3, 4° et 6°.
+
+Le juge d'instruction confirme par décision écrite l'existence de l'autorisation d'observation ou d'infiltration qu'il a accordée.
+
+Les procès-verbaux qui ont été rédigés ainsi que la décision visée à l'alinéa 3 sont versés au dossier de procédure.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 61, 019; En vigueur : 03-06-2019
+
+
+
+**Art. 520sexies.** [1 § 1er. En vue de la recherche des personnes visées à l'article 520bis, § 1er, le ministère public compétent peut demander au juge d'instruction du lieu où la peine ou la mesure privative de liberté a été prononcée, d'autoriser, dans le respect des conditions définies ci-après, les actes d'instruction pour lesquels seul le juge d'instruction est compétent.
+
+
+§2.  Les actes d'instruction visés au paragraphe 1er ne peuvent être autorisés que s'il est satisfait aux conditions mentionnées dans les mêmes articles qui régissent ces actes d'instruction dans le cadre d'une instruction.
+
+
+§3.  La requête visée au paragraphe 1er mentionne :
+ 1. l'indication des jour, mois et année;
+ 2. le nom du membre du ministère public compétent qui dépose la requête;
+ 3. les données d'identité de la personne qui a été condamnée et qui s'est soustraite à l'exécution de sa peine d'emprisonnement à titre principal, de sa réclusion ou de son internement;
+ 4. l'infraction pour laquelle une peine d'emprisonnement à titre principal, une réclusion ou un internement a été prononcé;
+ 5. les motifs pour lesquels l'acte d'instruction est indispensable pour la recherche de la personne concernée;
+ 6. l'acte d'instruction visé au paragraphe 1er pour lequel le ministère public compétent demande une autorisation du juge d'instruction.
+
+Une copie du titre de privation de liberté est jointe à la requête.
+
+Dès réception de la requête, le juge d'instruction vérifie si les conditions pour l'application de l'acte d'instruction visé à l'alinéa 1er, 6°, sont réunies et, si tel est le cas, accorde une autorisation écrite.
+
+L'autorisation mentionne :
+ 1. le nom de la personne qui a été condamnée et qui s'est soustraite à l'exécution de sa peine d'emprisonnement à titre principal, de sa réclusion ou de son internement;
+ 2. l'infraction pour laquelle une peine d'emprisonnement, une réclusion ou un internement a été prononcé, et la décision judiciaire qui l'a prononcé;
+ 3. les motifs pour lesquels l'acte d'instruction est indispensable pour la recherche de la personne concernée;
+ 4. l'acte d'instruction autorisé et, le cas échéant, ses conditions.
+
+Le juge d'instruction communique l'autorisation ainsi que les pièces directement au ministère public compétent.
+
+
+§4.  En cas d'urgence, la requête visée au paragraphe 1er ou l'autorisation visée au paragraphe 3 peut être faite verbalement. La requête et l'autorisation doivent être confirmées dans les plus brefs délais dans la forme prévue au paragraphe 3, alinéas 1er et 4.
+
+
+§5.  Le ministère public compétent est chargé de l'exécution des autorisations relatives aux actes d'instruction visés au paragraphe 1er, accordées par le juge d'instruction.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 62, 019; En vigueur : 03-06-2019
+
+
+
+**Art. 520septies.** [1 Les frais liés à la recherche des personnes visées à l'article 520bis, § 1er, englobent tous les frais engendrés par l'application des actes de recherche visés aux articles précédents, à l'exception des frais de personnel et de fonctionnement liés à l'intervention des magistrats et fonctionnaires de police concernés.
+
+Les frais sont à charge de la personne qui s'est soustraite à l'exécution de la peine d'emprisonnement à titre principal, de la réclusion ou de l'internement en question. Les frais engendrés par des actes de recherche irréguliers et les frais qui ne sont manifestement pas imputables au comportement personnel de la personne concernée sont à charge de l'Etat.
+
+Si une indemnité doit être payée pour les actes de recherche visés à l'alinéa 1er, les tarifs prévus dans la réglementation relative aux frais de justice en matière répressive s'appliquent.
+
+Le magistrat du ministère public qui dirige la recherche taxe les frais qui sont exposés au nom de son office.
+
+Les poursuites en vue du recouvrement de ces frais sont exercées au nom du magistrat du ministère public qui dirige la recherche par le fonctionnaire compétent du service public fédéral Finances.
+
+La décision du magistrat du ministère public qui dirige la recherche de mettre les frais à la charge de la personne qui s'est soustraite à l'exécution de la peine d'emprisonnement à titre principal, de la réclusion ou de l'internement, est notifiée à la personne concernée par lettre recommandée à la poste.
+
+La personne concernée peut faire appel de la décision du magistrat du ministère public qui dirige l'information de mettre les frais à sa charge, en introduisant un recours devant la chambre des mises en accusation, par lettre recommandée, dans un délai de trente jours à compter de la notification de la décision attaquée.
+
+La chambre des mises en accusation statue sur la demande en premier et dernier ressort.]1
+
+> 1: Inséré par L 2019-05-05/10, art. 63, 019; En vigueur : 03-06-2019
+
+
+### Chapitre VII MANIERE DE PROCEDER EN CAS DE DESTRUCTION OU D'ENLEVEMENT DES PIECES OU DU JUGEMENT D'UNE AFFAIRE.
+
+
+**Art. 521.** Lorsque, par l'effet d'un incendie, d'une inondation ou de toute autre cause extraordinaire, des minutes d'arrêts rendus en matière criminelle ou correctionnelle, et non encore exécutés, ou des procédures encore indécises, auront été détruites, enlevées, ou se trouveront égarées, et qu'il n'aura pas été possible de les rétablir, il sera procédé ainsi qu'il suit.
+
+
+**Art. 522.** S'il existe une expédition ou copie authentique de l'arrêt, elle sera considérée comme minute, et en conséquence remise dans le dépôt destiné à la conservation des arrêts.
+
+A cet effet, tout officier public ou tout individu dépositaire d'une expédition ou d'une copie authentique de l'arrêt est tenu, de la remettre au greffe de la cour qui l'a rendu, sur l'ordre qui en sera donné par le président de cette cour.
+
+Cet ordre lui servira de décharge envers ceux qui auront intérêt à la pièce.
+
+Le dépositaire de l'expédition ou copie authentique de la minute détruite, enlevée ou égarée, aura la liberté, en la remettant dans le dépôt public, de s'en faire délivrer une expédition sans frais.
+
+
+**Art. 523.** Lorsqu'il n'existera plus, en matière criminelle, d'expédition ni de copie authentique de l'arrêt, si la déclaration du jury existe encore en minute ou en copie authentique, on procédera, d'après cette déclaration, à un nouveau jugement.
+
+
+**Art. 524.** Lorsque la déclaration du jury ne pourra plus être représentée, ou lorsque l'affaire aura été jugée sans jurés, et qu'il n'en existera aucun acte par écrit, l'instruction sera recommencée, à partir du point où les pièces se trouveront manquer tant en minute qu'en expédition ou copie authentique.
+
+### Chapitre VIII ENQUETE PARTICULIERE SUR LES AVANTAGES PATRIMONIAUX. `inséré par L 2002-12-19/86, art. 14;  En vigueur :  24-02-2003`
+
+
+**Art. 524bis.**`inséré par L 2002-12-19/86, art. 14;  En vigueur :  24-02-2003` § 1er. Le juge qui déclare le prévenu coupable pour le fait qui lui est imputé peut, sur réquisition du ministère public, ordonner une enquête particulière sur les avantages patrimoniaux visés aux articles 42, 3°, 43bis et 43quater , du Code pénal en vue de déterminer ces avantages patrimoniaux.
+
+[1 Cette enquête particulière sur les avantages patrimoniaux n'est toutefois possible que si le ministère public démontre, sur la base d'indices sérieux et concrets, que le condamné a tiré des avantages patrimoniaux de quelque intérêt soit de l'infraction pour laquelle il a été condamné, soit d'autres infractions susceptibles de donner lieu, directement ou indirectement, à un avantage économique, pour autant qu'elles figurent à l'article 43quater, § 1er, du Code pénal.]1
+
+La réquisition du ministère public pour mener une enquête particulière sur les avantages patrimoniaux ne peut jamais être introduite pour la première fois en degré d'appel.
+
+
+§2.  L'enquête particulière sur les avantages patrimoniaux est menée sous la direction et la surveillance du procureur du Roi compétent, qui en assume la responsabilité. Il veille à la légalité des moyens de preuve ainsi qu'à la loyauté avec laquelle ils sont rassemblés.
+
+L'exercice d'un recours n'est pas suspensif de l'enquête particulière sur les avantages patrimoniaux.
+
+
+§3.  Sous réserve des exceptions légales, l'enquête particulière sur les avantages patrimoniaux est secrète. Toute personne qui est appelée à prêter son concours professionnel à l'enquête particulièrement sur les avantages patrimoniaux est tenue au secret. Celui qui viole ce secret est puni des peines prévues à l'article 458 du Code pénal.
+
+
+§4.  Les actes accomplis dans le cadre de l'enquête particulière sur les avantages patrimoniaux ne peuvent contenir aucune mesure de contrainte ni aucune violation des droits et libertés individuels. Ces actes peuvent toutefois contenir la saisie des choses mentionnée aux articles 35 et 35ter . En cas de saisie d'un bien immeuble, il est procédé conformément aux formalité de l'article 35bis.
+
+En cas de saisie conformément à l'alinéa 1er, l'article 28sexies est d'application.
+
+
+§5.  Le procureur du Roi ou le cas échéant le procureur général, peut requérir par écrit, au tribunal ou à la cour qui a ordonné l'enquête particulière sur les avantages patrimoniaux, de procéder à la désignation d'un expert, d'ordonner la mesure de surveillance visée à l'article 90ter ou d'ordonner une perquisition.
+
+Il est statué sur cette requête dans les quinze jours. L'ordonnance est communiquée au ministère public par le greffier. Le refus d'ordonner la mesure de contrainte demandée n'est susceptible d'aucun recours.
+
+Si la requête a pour objet d'ordonner une mesure de surveillance visée à l'article 90ter , le tribunal ou la cour rend une ordonnance conformément à l'article 90quater , § 1er, et charge un juge d'instruction de l'exécution de la mesure conformément aux articles 90quater , §§ 2 et 3, à 90octies.
+
+
+§6.  Lorsque le procureur du Roi ou, le cas échéant, le procureur général juge que l'enquête particulière sur les avantages patrimoniaux est terminée, il porte l'action en confiscation devant le tribunal ou la cour qui a ordonné l'enquête particulière sur les avantages patrimoniaux. Ceci se passe par une citation adressée directement au condamné et, le cas échéant, à la partie civile.
+
+Un délai de dix jours, augmenté le cas échéant à raison des distances, doit être prévu entre la citation et la comparution, à peine de nullité de la condamnation à la confiscation qui a pu être prononcée par défaut à l'encontre de la personne citée. Cette nullité ne peut toutefois être opposée qu'à la première audience et avant toutes autres exceptions et moyens de défense.
+
+
+§7.  A peine de déchéance de l'action en confiscation, le tribunal ou la cour doivent être saisis de l'action en confiscation visée au § 6 avant l'expiration d'un délai de deux ans qui court à dater du jour où l'enquête particulière sur les avantages patrimoniaux a été ordonnée par le juge, pour autant que le prononcé rendu sur la culpabilité soit déjà coulé en force de chose jugée.
+
+Si, à l'expiration de ce délai, la décision rendue sur la culpabilité n'est pas encore coulée en force de chose jugée, le délai est prolongé d'un mois à dater du jour ou le jugement établissant la preuve de l'infraction a acquis force de chose jugée.
+
+Si, dans la procédure au fond, le juge d'appel déclare établis des faits pour lesquels le prévenu a été acquitté en première instance, il peut, sur réquisition du ministère public, prolonger de six mois maximum le délai visé à l'alinéa 1er.
+
+> 1: L 2018-03-18/14, art. 16, 016; En vigueur : 12-05-2018
+
+
+
+**Art. 524ter.** `inséré par L 2002-12-19/86, art. 14;  En vigueur :  24-02-2003` § 1er. Si le juge déclare l'action en confiscation visée à l'article 524bis , § 6, recevable et fondée, la confiscation de l'avantage patrimonial obtenu illicitement et déterminé par lui est prononcée.
+
+
+§2.  La décision concernant l'action en confiscation est susceptible de tous les recours ordinaire et extraordinaires prévus dans le présent Code.
+
+
+CHAPITRE IX. [1 - De l'analyse de la possibilité de transmission d'une maladie contagieuse grave lors de la commission d'une infraction]1
+
+> 1: Inséré par L 2015-07-20/21, art. 2, 011; En vigueur :  indéterminée et au plus tard le 01-01-2017
+
+
+
+**Art. 524quater.** [1 § 1er. S'il existe des indices sérieux laissant présumer que la victime d'une infraction pourrait avoir été contaminée, lors de la commission de cette infraction, par une des maladies graves dont la liste est établie par arrêté royal, le procureur du Roi peut demander au suspect de se soumettre à un prélèvement sanguin afin d'analyser s'il est porteur de cette maladie. S'il existe des indices sérieux laissant présumer que la victime peut avoir été contaminée par le sang d'une autre personne que le suspect, le procureur du Roi peut également adresser cette demande à ce tiers. Le suspect et le tiers ne peuvent consentir au prélèvement sanguin que par écrit. Ce consentement ne peut être valablement donné que si le procureur du Roi ou un officier de police judiciaire, auxiliaire du procureur du Roi, l'a préalablement informé du cadre légal dans lequel le prélèvement est demandé, en soulignant particulièrement la finalité purement médicale du prélèvement. Il est fait mention de cette information dans le consentement écrit de la personne concernée.
+
+
+§2.  Si le suspect refuse de consentir au prélèvement sanguin, le procureur du Roi peut, dans l'intérêt de la victime, lui ordonner de se soumettre à un frottis buccal aux fins de l'analyse visée au paragraphe 1er. L'ordre ne peut être donné qu'après autorisation écrite du juge d'instruction sur réquisition du procureur du Roi.
+
+
+§3.  L'analyse visée au paragraphe 1er est effectuée par le prélèvement, par un médecin, d'un échantillon sanguin, sauf si le prélèvement sanguin s'avère contre-indiqué pour des raisons médicales particulières. Dans ce cas, il peut être procédé à un frottis buccal soit avec la collaboration volontaire de l'intéressé soit de la manière prévue au paragraphe 2.
+
+Le suspect ou le tiers qui est prié de se soumettre à un prélèvement sanguin ou à la réalisation d'un frottis buccal peut y consentir par écrit à partir de l'âge de seize ans. Si le suspect ou le tiers n'a pas atteint l'âge de dix-huit ans, il doit, pour l'application des paragraphes 1er et 2, se faire accompagner par au moins un de ses parents, par un avocat ou par une autre personne majeure de son choix.
+
+
+§4.  Le médecin prélève la quantité de sang ou effectue un frottis buccal nécessaire pour l'analyse visée au paragraphe 1er ou au paragraphe 2. Si la mesure, visée au paragraphe 2, doit être exécutée sous la contrainte physique, celle-ci est exercée par des fonctionnaires de police sous l'ordre d'un officier de police judiciaire, auxiliaire du procureur du Roi.
+
+
+§5.  Le procureur du Roi peut ordonner qu'une analyse telle que visée au paragraphe 1er soit effectuée sur du sang découvert à l'occasion d'une infraction visée au paragraphe 1er.]1
+
+> 1: Inséré par L 2015-07-20/21, art. 3, 011; En vigueur :  indéterminée et au plus tard le 01-01-2017
+
+
+
+**Art. 524quinquies.** [1 § 1er. L'analyse visée à l'article 524quater, §§ 1er, 2 et 5, est confiée par le procureur du Roi à un expert attaché à un laboratoire agréé par le Roi. L'expert transmet dans les meilleurs délais un exemplaire de son rapport au médecin traitant de la victime. Il transmet aussi un exemplaire de son rapport au médecin traitant du suspect si celui-ci en fait la demande dans les trois mois du prélèvement sanguin ou de la réalisation du frottis buccal. Le cas échéant, il transmet également un exemplaire de son rapport au médecin traitant du tiers qui a fait l'objet d'un prélèvement de sang ou d'un frottis buccal si celui-ci en fait la demande dans les trois mois du prélèvement de sang ou du frottis buccal.
+
+
+§2.  L'expert informe le procureur du Roi de la transmission du rapport.
+
+
+§3.  L'expert détruit l'échantillon de sang prélevé ou le frottis buccal au plus tard une semaine après la date de son analyse.
+
+
+§4.  Les résultats de l'analyse font uniquement partie du dossier médical et sont considérés comme des données concernant des tiers au sens de l'article 9, § 2, alinéa 3, de la loi du 22 août 2002 relative aux droits du patient. Les résultats de l'analyse ne font pas partie du dossier pénal et n'ont pas d'incidence sur le déroulement ultérieur de l'information ou de l'instruction. Les résultats ne peuvent être utilisés comme preuve en justice. Dans son apostille, le procureur du Roi indique que l'analyse visée à l'article 524quater, §§ 1er, 2 ou 5 a été demandée.]1
+
+> 1: Inséré par L 2015-07-20/21, art. 4, 011; En vigueur :  indéterminée et au plus tard le 01-01-2017
+
+
+
+**Art. 524sexies.** [1 § 1er. La victime de l'infraction visée à l'article 524quater, § 1er, peut solliciter du procureur du Roi qu'il demande l'analyse visée à l'article 524quater, § 1er.
+
+
+§2.  Le procureur du Roi communique sa décision motivée relative à la demande dans les vingt-quatre heures de la réception de celle-ci.]1
+
+> 1: Inséré par L 2015-07-20/21, art. 5, 011; En vigueur :  indéterminée et au plus tard le 01-01-2017
+
+
+
+**Art. 524septies.**[1 Les dispositions du présent chapitre, à l'exception de l'article 524quater, § 2, deuxième phrase, s'appliquent par analogie au juge d'instruction au cas où une instruction est ouverte.]1
+
+> 1: Inséré par L 2015-07-20/21, art. 6, 011; En vigueur :  indéterminée et au plus tard le 01-01-2017
+
